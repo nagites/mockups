@@ -39,7 +39,7 @@
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer6"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -1650,6 +1650,66 @@
        id="linearGradient17441"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,11.956521,-411.50001,-1830.8043)"
+       x1="165.5"
+       y1="188.5"
+       x2="189.5"
+       y2="188.5" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient113263"
+       id="linearGradient17467"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.2892567,-842.36222,120.81822)"
+       x1="499.36218"
+       y1="132"
+       x2="525.36218"
+       y2="132" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient22891"
+       id="linearGradient17469"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.3109242,206.36219,117.95792)"
+       x1="-524.36218"
+       y1="120"
+       x2="-548.36218"
+       y2="120" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3789"
+       id="linearGradient17471"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,11.956521,-507.50001,-1830.8043)"
+       x1="165.5"
+       y1="188.5"
+       x2="189.5"
+       y2="188.5" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient113263"
+       id="linearGradient17519"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.2892567,-808.36222,120.81822)"
+       x1="499.36218"
+       y1="132"
+       x2="525.36218"
+       y2="132" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient22891"
+       id="linearGradient17521"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,2.3109242,240.36219,117.95792)"
+       x1="-524.36218"
+       y1="120"
+       x2="-548.36218"
+       y2="120" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3789"
+       id="linearGradient17523"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,11.956521,-473.50001,-1830.8043)"
        x1="165.5"
        y1="188.5"
        x2="189.5"
@@ -6511,12 +6571,80 @@
          style="opacity:0.2;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          sodipodi:nodetypes="cc" />
     </g>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;display:inline;fill:#4b4b4b;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text17503"
+       y="299.94238"
+       x="320.70898"><tspan
+         id="tspan17505"
+         y="299.94238"
+         x="279.83398"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;fill:#4b4b4b;fill-opacity:1">When lid is closed:</tspan></text>
+    <rect
+       style="display:inline;opacity:0.1;fill:none;stroke:url(#linearGradient17519);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect17507"
+       width="25"
+       height="277"
+       x="-308.5"
+       y="284.5"
+       transform="matrix(0,-1,1,0,0,0)"
+       rx="3"
+       ry="3.0000005" />
+    <rect
+       style="display:inline;fill:url(#linearGradient17521);fill-opacity:1;stroke:url(#linearGradient17523);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect17509"
+       width="23"
+       height="275"
+       x="-307.5"
+       y="285.5"
+       transform="matrix(0,-1,1,0,0,0)"
+       rx="2"
+       ry="1.9999999" />
+    <rect
+       ry="1"
+       rx="1"
+       transform="matrix(0,1,1,0,0,0)"
+       y="286.5"
+       x="285.5"
+       height="273"
+       width="21"
+       id="rect17511"
+       style="display:inline;opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:170.00000477%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:url(#linearGradient333853);fill-opacity:1;stroke:none"
+       x="292"
+       y="301"
+       id="text17513"
+       sodipodi:linespacing="170%"><tspan
+         sodipodi:role="line"
+         id="tspan17515"
+         x="292"
+         y="301">Do nothing</tspan></text>
+    <path
+       inkscape:transform-center-y="1.3333329"
+       transform="matrix(0.45958796,0,0,0.53068646,409.28526,190.12144)"
+       d="m 304,207.04988 -8.70345,-15.07482 17.4069,0 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="2.6179939"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="5.0249376"
+       sodipodi:r1="10.049876"
+       sodipodi:cy="197"
+       sodipodi:cx="304"
+       sodipodi:sides="3"
+       id="path17517"
+       style="display:inline;fill:url(#linearGradient17874);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       sodipodi:type="star" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="battery"
-     style="display:none">
+     style="display:inline">
     <path
        sodipodi:nodetypes="ccccccc"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.4;fill:none;stroke:url(#linearGradient6900-0-6);stroke-width:0.99999994;stroke-opacity:1;marker:none;enable-background:accumulate"
@@ -6651,6 +6779,74 @@
          id="path14083"
          inkscape:connector-curvature="0" />
     </g>
+    <text
+       x="320.70898"
+       y="333.94238"
+       id="text17451"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;display:inline;fill:#4b4b4b;fill-opacity:1;stroke:none"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;fill:#4b4b4b;fill-opacity:1"
+         x="279.83398"
+         y="333.94238"
+         id="tspan17453">When lid is closed:</tspan></text>
+    <rect
+       ry="3.0000005"
+       rx="3"
+       transform="matrix(0,-1,1,0,0,0)"
+       y="284.5"
+       x="-342.5"
+       height="277"
+       width="25"
+       id="rect17455"
+       style="display:inline;opacity:0.1;fill:none;stroke:url(#linearGradient17467);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="1.9999999"
+       rx="2"
+       transform="matrix(0,-1,1,0,0,0)"
+       y="285.5"
+       x="-341.5"
+       height="275"
+       width="23"
+       id="rect17457"
+       style="display:inline;fill:url(#linearGradient17469);fill-opacity:1;stroke:url(#linearGradient17471);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="display:inline;opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect17459"
+       width="21"
+       height="273"
+       x="319.5"
+       y="286.5"
+       transform="matrix(0,1,1,0,0,0)"
+       rx="1"
+       ry="1" />
+    <text
+       sodipodi:linespacing="170%"
+       id="text17461"
+       y="335"
+       x="292"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:170.00000477%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:url(#linearGradient333853);fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="335"
+         x="292"
+         id="tspan17463"
+         sodipodi:role="line">Sleep</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="display:inline;fill:url(#linearGradient17874);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path17465"
+       sodipodi:sides="3"
+       sodipodi:cx="304"
+       sodipodi:cy="197"
+       sodipodi:r1="10.049876"
+       sodipodi:r2="5.0249376"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 304,207.04988 -8.70345,-15.07482 17.4069,0 z"
+       transform="matrix(0.45958796,0,0,0.53068646,409.28526,224.12144)"
+       inkscape:transform-center-y="1.3333329" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6660,7 +6856,77 @@
     <g
        inkscape:groupmode="layer"
        id="layer7"
-       inkscape:label="critical" />
+       inkscape:label="critical"
+       style="display:none">
+      <text
+         x="320.70898"
+         y="237.94238"
+         id="text17390"
+         xml:space="preserve"
+         style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;fill:#4b4b4b;fill-opacity:1;stroke:none"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;fill:#4b4b4b;fill-opacity:1"
+           x="279.83398"
+           y="237.94238"
+           id="tspan17392">When battery power is critically low:</tspan></text>
+      <rect
+         ry="3.0000005"
+         rx="3"
+         transform="matrix(0,-1,1,0,0,0)"
+         y="284.5"
+         x="-246.5"
+         height="277"
+         width="25"
+         id="rect17394"
+         style="display:inline;opacity:0.1;fill:none;stroke:url(#linearGradient17437);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         ry="1.9999999"
+         rx="2"
+         transform="matrix(0,-1,1,0,0,0)"
+         y="285.5"
+         x="-245.5"
+         height="275"
+         width="23"
+         id="rect17396"
+         style="display:inline;fill:url(#linearGradient17439);fill-opacity:1;stroke:url(#linearGradient17441);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="display:inline;opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect17398"
+         width="21"
+         height="273"
+         x="223.5"
+         y="286.5"
+         transform="matrix(0,1,1,0,0,0)"
+         rx="1"
+         ry="1" />
+      <text
+         sodipodi:linespacing="170%"
+         id="text17400"
+         y="239"
+         x="292"
+         style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:170.00000477%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:url(#linearGradient333853);fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="239"
+           x="292"
+           id="tspan17402"
+           sodipodi:role="line">Hibernate</tspan></text>
+      <path
+         sodipodi:type="star"
+         style="display:inline;fill:url(#linearGradient17874);fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path17404"
+         sodipodi:sides="3"
+         sodipodi:cx="304"
+         sodipodi:cy="197"
+         sodipodi:r1="10.049876"
+         sodipodi:r2="5.0249376"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 304,207.04988 -8.70345,-15.07482 17.4069,0 z"
+         transform="matrix(0.45958796,0,0,0.53068646,409.28526,128.12144)"
+         inkscape:transform-center-y="1.3333329" />
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer14"
@@ -8918,74 +9184,6 @@
          inkscape:randomized="0"
          d="m 304,207.04988 -8.70345,-15.07482 17.4069,0 z"
          transform="matrix(0.45958796,0,0,0.53068646,409.28526,54.12144)"
-         inkscape:transform-center-y="1.3333329" />
-      <text
-         x="320.70898"
-         y="237.94238"
-         id="text17390"
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;display:inline;fill:#4b4b4b;fill-opacity:1;stroke:none"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;fill:#4b4b4b;fill-opacity:1"
-           x="279.83398"
-           y="237.94238"
-           id="tspan17392">When battery power is critically low:</tspan></text>
-      <rect
-         ry="3.0000005"
-         rx="3"
-         transform="matrix(0,-1,1,0,0,0)"
-         y="284.5"
-         x="-246.5"
-         height="277"
-         width="25"
-         id="rect17394"
-         style="display:inline;opacity:0.1;fill:none;stroke:url(#linearGradient17437);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         ry="1.9999999"
-         rx="2"
-         transform="matrix(0,-1,1,0,0,0)"
-         y="285.5"
-         x="-245.5"
-         height="275"
-         width="23"
-         id="rect17396"
-         style="display:inline;fill:url(#linearGradient17439);fill-opacity:1;stroke:url(#linearGradient17441);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         style="display:inline;opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect17398"
-         width="21"
-         height="273"
-         x="223.5"
-         y="286.5"
-         transform="matrix(0,1,1,0,0,0)"
-         rx="1"
-         ry="1" />
-      <text
-         sodipodi:linespacing="170%"
-         id="text17400"
-         y="239"
-         x="292"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:170.00000477%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:url(#linearGradient333853);fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="239"
-           x="292"
-           id="tspan17402"
-           sodipodi:role="line">Hibernate</tspan></text>
-      <path
-         sodipodi:type="star"
-         style="display:inline;fill:url(#linearGradient17874);fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path17404"
-         sodipodi:sides="3"
-         sodipodi:cx="304"
-         sodipodi:cy="197"
-         sodipodi:r1="10.049876"
-         sodipodi:r2="5.0249376"
-         sodipodi:arg1="1.5707963"
-         sodipodi:arg2="2.6179939"
-         inkscape:flatsided="true"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="m 304,207.04988 -8.70345,-15.07482 17.4069,0 z"
-         transform="matrix(0.45958796,0,0,0.53068646,409.28526,128.12144)"
          inkscape:transform-center-y="1.3333329" />
     </g>
     <g
