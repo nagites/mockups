@@ -17,7 +17,7 @@
    id="svg2"
    inkscape:version="0.91+devel+osxmenu r12848"
    sodipodi:docname="notifications.svg"
-   inkscape:export-filename="/Users/Sam/power-plug_batt.png"
+   inkscape:export-filename="/Users/Sam/SparkleShare/mockups/elementary/switchboard/notifications-nothing-to-do.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <sodipodi:namedview
@@ -6197,7 +6197,7 @@
      inkscape:label="plug content">
     <g
        id="g28081"
-       transform="translate(126,201)">
+       transform="translate(126,181)">
       <path
          style="fill:url(#radialGradient3025);fill-opacity:1;stroke:none"
          id="path3818-0-5"
@@ -6236,57 +6236,48 @@
     </g>
     <text
        x="188.60547"
-       y="234.23438"
+       y="212.23438"
        id="text4736"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none"
        sodipodi:linespacing="125%"><tspan
          x="188.60547"
-         y="234.23438"
+         y="212.23438"
          id="tspan4738"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:24px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:start;writing-mode:lr-tb;text-anchor:start">	No</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:24px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:start;writing-mode:lr-tb;text-anchor:start">You have no apps that use notifications </tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot57240"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(23.894531,-22.765618)"><flowRegion
+       transform="translate(23.894531,-50.765618)"><flowRegion
          id="flowRegion57242"><rect
            id="rect57244"
-           width="456"
-           height="152.94238"
+           width="452"
+           height="151.94238"
            x="165"
            y="290" /></flowRegion><flowPara
-         id="flowPara57246"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#545454;fill-opacity:1">While in Power Saving mode, your system will be consuming as few resources as possible to minimize its energy footprint and conserve power.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#545454;fill-opacity:1"
-         id="flowPara57262" /><flowPara
+         id="flowPara28219">Notifications preferences are for configuring which apps make use of notifications, for changing how an app's notifications appear, and for setting when you don't want to be disturbed by notifications.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#545454;fill-opacity:1"
-         id="flowPara57264">The system will automatically detemine when to sleep and hibernate and how control various hardware, such as any hard drives or displays.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#545454;fill-opacity:1"
-         id="flowPara57266" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#545454;fill-opacity:1"
-         id="flowPara57268">Services like bluetooth and wireless network discovery will also be disabled.</flowPara><flowPara
-         id="flowPara57248"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#545454;fill-opacity:1" /><flowPara
-         id="flowPara57250"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#545454;fill-opacity:1" /><flowPara
-         id="flowPara57252"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#545454;fill-opacity:1" /><flowPara
-         id="flowPara57254"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#545454;fill-opacity:1" /><flowPara
-         id="flowPara57256"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#545454;fill-opacity:1" /><flowPara
-         id="flowPara57258"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#545454;fill-opacity:1" /><flowPara
+         id="flowPara28221" /><flowPara
          id="flowPara57260"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#545454;fill-opacity:1" /></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#545454;fill-opacity:1">When apps are installed that have notification options they will automatically appear here.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot28227"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion28229"><rect
+           id="rect28231"
+           width="110"
+           height="100.5"
+           x="150"
+           y="242.5" /></flowRegion><flowPara
+         id="flowPara28233"></flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="header"
      style="display:inline"
-     transform="translate(0,-20)"
-     sodipodi:insensitive="true">
+     transform="translate(0,-20)">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient7167-6-9);fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
        d="m 27,45 c -2.216,0 -4,1.784 -4,4 l 0,44 698,0 0,-44 c 0,-2.216 -1.784,-4 -4,-4 z"
