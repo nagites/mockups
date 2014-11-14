@@ -123,8 +123,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="407.79273"
-     inkscape:cy="501.08665"
+     inkscape:cx="4415.0711"
+     inkscape:cy="-1020.0711"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -438,51 +438,58 @@
            id="tspan29674"
            sodipodi:role="line">2011 • 11 songs</tspan></text>
     </g>
+    <g
+       transform="matrix(0.13229167,0,0,0.13229166,17.37745,-27.975164)"
+       id="layer1-5"
+       inkscape:label="Layer 1">
+      <g
+         style="display:inline"
+         id="g4845-9"
+         transform="matrix(0,-1,-1,0,373.50506,516.50504)">
+        <g
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="add01.png"
+           transform="matrix(0,-1,-1,0,1394.3622,441.36221)"
+           id="g1708"
+           inkscape:label="Layer 1">
+          <rect
+             y="962.36218"
+             x="0"
+             height="90"
+             width="90"
+             id="rect1710"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:7.5;marker:none;enable-background:accumulate" />
+          <rect
+             y="980.36206"
+             x="9.0000401"
+             height="9.0001402"
+             width="71.999962"
+             id="rect4067"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.80000001;marker:none;enable-background:accumulate" />
+          <rect
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.80000001;marker:none;enable-background:accumulate"
+             id="rect4069"
+             width="71.999962"
+             height="8.9999208"
+             x="9.0000401"
+             y="1002.3622" />
+          <rect
+             y="1024.3622"
+             x="9.0000401"
+             height="9.0001402"
+             width="71.999962"
+             id="rect4090"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.80000001;marker:none;enable-background:accumulate" />
+        </g>
+      </g>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="words &amp; icons"
      style="display:inline">
-    <g
-       transform="matrix(0.13229164,0,0,0.13229163,8.4666631,-102.44163)"
-       id="layer1-2"
-       inkscape:label="Layer 1">
-      <g
-         transform="translate(-60,548.00002)"
-         id="g4978">
-        <g
-           id="g1910-7"
-           style="display:inline"
-           transform="translate(-282,62.99996)">
-          <rect
-             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:4;marker:none;enable-background:accumulate"
-             id="rect1914"
-             width="90"
-             height="90"
-             x="-432"
-             y="351.36221"
-             transform="scale(-1,1)" />
-          <g
-             transform="matrix(-0.68396227,0,0,-0.6818182,623.68709,623.19186)"
-             id="g12">
-            <g
-               clip-path="url(#clipPath16)"
-               id="g14">
-              <g
-                 transform="translate(358.7529,350.7095)"
-                 id="g20">
-                <path
-                   inkscape:connector-curvature="0"
-                   id="path22"
-                   style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                   d="M 0.08234413,-0.04707909 C -3.7872386,6.7930863 -8.1560576,13.837137 -13.025115,21.088072 c -4.866051,7.248937 -10.085977,14.383937 -15.657776,21.400003 -1.493699,1.879947 -2.9884,3.705923 -4.486109,5.485925 l 0,-20.343595 c 3.055567,-4.021746 6.04898,-8.184412 8.972219,-12.50499 3.403428,-5.03018 6.597338,-10.1742961 9.588746,-15.43634617 C -11.61763,-5.5719818 -7.9465387,-12.998818 -5.6007295,-18.026 c -2.3458092,-5.026182 -6.0169005,-12.453019 -9.0073055,-17.715069 -2.991408,-5.26205 -6.185318,-10.406166 -9.588746,-15.435347 -2.923239,-4.321577 -5.916652,-8.484243 -8.972219,-12.505989 l 0,-20.343595 c 1.497709,1.780002 2.99241,3.606978 4.486109,5.485925 5.571799,7.017066 10.791725,14.151066 15.657776,21.400003 4.8690574,7.251934 9.2378764,14.294986 13.10745913,21.135151 C 3.9519268,-29.163756 7.0044862,-23.170116 9.231,-18.026 7.0044862,-12.881884 3.9519268,-6.8882439 0.08234413,-0.04707909" />
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-    </g>
     <text
        transform="translate(0,41.666685)"
        xml:space="preserve"
@@ -501,7 +508,8 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="playing bar"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="display:inline;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter29454)"
        d="m -2.1166682,305.85834 215.9000182,0 0,31.75 -215.9000182,0 z"
