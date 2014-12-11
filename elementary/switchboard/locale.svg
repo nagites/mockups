@@ -34,8 +34,8 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="353.55957"
-     inkscape:cy="354"
+     inkscape:cx="416.63514"
+     inkscape:cy="170.45455"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="0"
@@ -1325,7 +1325,7 @@
     <linearGradient
        id="linearGradient333853-4"
        osb:paint="solid"
-       gradientTransform="translate(1078.5439,-1082.6909)">
+       gradientTransform="translate(1360.5439,-1044.6909)">
       <stop
          style="stop-color:#333333;stop-opacity:1;"
          offset="0"
@@ -1345,7 +1345,7 @@
        xlink:href="#linearGradient22891-2"
        id="linearGradient17469"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,2.3109242,363.36219,95.95792)"
+       gradientTransform="matrix(1,0,0,2.3109242,333.36219,236.95792)"
        x1="-524.36218"
        y1="120"
        x2="-548.36218"
@@ -1366,7 +1366,7 @@
        xlink:href="#linearGradient3789-2"
        id="linearGradient17471"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,11.956521,-350.50001,-1852.8044)"
+       gradientTransform="matrix(1,0,0,11.956521,-380.50001,-1711.8044)"
        x1="165.5"
        y1="188.5"
        x2="189.5"
@@ -1387,7 +1387,7 @@
        xlink:href="#linearGradient113263-2"
        id="linearGradient17467"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,2.2892567,-685.36222,98.81822)"
+       gradientTransform="matrix(1,0,0,2.2892567,-715.36222,239.81822)"
        x1="499.36218"
        y1="132"
        x2="525.36218"
@@ -1436,7 +1436,7 @@
        xlink:href="#linearGradient22891-2"
        id="linearGradient3313"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,2.3109242,397.36219,95.95792)"
+       gradientTransform="matrix(1,0,0,2.3109242,389.36219,236.95792)"
        x1="-524.36218"
        y1="120"
        x2="-548.36218"
@@ -1457,7 +1457,7 @@
        xlink:href="#linearGradient3789-2"
        id="linearGradient3315"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,11.956521,-316.50001,-1852.8044)"
+       gradientTransform="matrix(1,0,0,11.956521,-324.50001,-1711.8044)"
        x1="165.5"
        y1="188.5"
        x2="189.5"
@@ -1478,7 +1478,7 @@
        xlink:href="#linearGradient113263-2"
        id="linearGradient3318"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,2.2892567,-651.36222,98.81822)"
+       gradientTransform="matrix(1,0,0,2.2892567,-659.36222,239.81822)"
        x1="499.36218"
        y1="132"
        x2="525.36218"
@@ -6276,10 +6276,10 @@
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect4372"
-       width="632"
-       height="104"
+       width="648"
+       height="112"
        x="48"
-       y="110"
+       y="118"
        ry="8"
        rx="8" />
     <rect
@@ -6287,8 +6287,8 @@
        id="rect17323"
        width="25"
        height="277"
-       x="-151.5"
-       y="262.5"
+       x="-159.5"
+       y="403.5"
        transform="matrix(0,-1,1,0,0,0)"
        rx="3"
        ry="3.0000005" />
@@ -6297,8 +6297,8 @@
        id="rect17325"
        width="23"
        height="275"
-       x="-150.5"
-       y="263.5"
+       x="-158.5"
+       y="404.5"
        transform="matrix(0,-1,1,0,0,0)"
        rx="2"
        ry="1.9999999" />
@@ -6306,8 +6306,8 @@
        ry="1"
        rx="1"
        transform="matrix(0,1,1,0,0,0)"
-       y="264.5"
-       x="128.5"
+       y="405.5"
+       x="136.5"
        height="273"
        width="21"
        id="rect17327"
@@ -6315,18 +6315,18 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:170.00000477%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:url(#linearGradient333853-4);fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="270"
-       y="144"
+       x="411"
+       y="152"
        id="text17329"
        sodipodi:linespacing="170%"><tspan
          style="fill:url(#linearGradient333853-4)"
          sodipodi:role="line"
          id="tspan17331"
-         x="270"
-         y="144">Hibernate</tspan></text>
+         x="411"
+         y="152">Hibernate</tspan></text>
     <path
        inkscape:transform-center-y="1.3333329"
-       transform="matrix(0.45958796,0,0,0.53068646,387.28526,33.12144)"
+       transform="matrix(0.45958796,0,0,0.53068646,528.28526,41.12144)"
        d="m 304,207.04988 -8.70345,-15.07482 17.4069,0 z"
        inkscape:randomized="0"
        inkscape:rounded="0"
@@ -6345,8 +6345,8 @@
        ry="3.0000005"
        rx="3"
        transform="matrix(0,-1,1,0,0,0)"
-       y="262.5"
-       x="-185.5"
+       y="403.5"
+       x="-215.5"
        height="277"
        width="25"
        id="rect17455"
@@ -6355,8 +6355,8 @@
        ry="1.9999999"
        rx="2"
        transform="matrix(0,-1,1,0,0,0)"
-       y="263.5"
-       x="-184.5"
+       y="404.5"
+       x="-214.5"
        height="275"
        width="23"
        id="rect17457"
@@ -6366,21 +6366,21 @@
        id="rect17459"
        width="21"
        height="273"
-       x="162.5"
-       y="264.5"
+       x="192.5"
+       y="405.5"
        transform="matrix(0,1,1,0,0,0)"
        rx="1"
        ry="1" />
     <text
        sodipodi:linespacing="170%"
        id="text17461"
-       y="178"
-       x="270"
+       y="208"
+       x="411"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:170.00000477%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:url(#linearGradient333853-4);fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          style="fill:url(#linearGradient333853-4)"
-         y="178"
-         x="270"
+         y="208"
+         x="411"
          id="tspan17463"
          sodipodi:role="line">Sleep</tspan></text>
     <path
@@ -6398,28 +6398,33 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 304,207.04988 -8.70345,-15.07482 17.4069,0 z"
-       transform="matrix(0.45958796,0,0,0.53068646,387.28526,67.12144)"
+       transform="matrix(0.45958796,0,0,0.53068646,528.28526,97.12144)"
        inkscape:transform-center-y="1.3333329" />
     <text
-       x="59.764648"
-       y="144.94238"
+       x="73.764648"
+       y="152.94238"
        id="text4364"
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#4b4b4b;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#4b4b4b;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         x="58.393547"
-         y="144.94238"
+         x="72.393547"
+         y="152.94238"
          id="tspan4366">English</tspan></text>
     <text
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#4b4b4b;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"
        id="text4368"
-       y="178.94238"
-       x="61.428711"><tspan
+       y="208.94238"
+       x="75.428711"><tspan
          id="tspan4370"
-         y="178.94238"
-         x="58.393547"
+         y="208.94238"
+         x="72.393547"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#4b4b4b;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">French</tspan></text>
+    <path
+       style="opacity:0.2;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 48,174.5 648,0"
+       id="path8525"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
