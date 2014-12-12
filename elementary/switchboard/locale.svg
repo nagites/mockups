@@ -6730,38 +6730,26 @@
        d="m 304,207.04988 -8.70345,-15.07482 17.4069,0 z"
        transform="matrix(0.45958796,0,0,0.53068646,495.22666,129.12144)"
        inkscape:transform-center-y="1.3333329" />
-    <g
-       id="g18095"
-       transform="translate(4,14)">
-      <rect
-         ry="8"
-         y="270"
-         x="320"
-         height="48"
-         width="280"
-         id="rect18089"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         x="268.6055"
-         y="290"
-         id="text18073"
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;display:inline;fill:#4b4b4b;fill-opacity:1;stroke:none"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;fill:#4b4b4b;fill-opacity:1"
-           x="461.94141"
-           y="290"
-           id="tspan18075">Sunday, December 12, 2014 12:34 PM</tspan></text>
-      <text
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;display:inline;fill:#4b4b4b;fill-opacity:1;stroke:none"
-         xml:space="preserve"
-         id="text18077"
-         y="309"
-         x="268.6055"><tspan
-           id="tspan18079"
-           y="309"
-           x="461.94141"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;fill:#4b4b4b;fill-opacity:1">2014-12-12, 12:34 PM    1,234.56   $4,567.89</tspan></text>
-    </g>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;display:inline;fill:#7e7e7e;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text18073"
+       y="280"
+       x="270.6055"><tspan
+         id="tspan18075"
+         y="280"
+         x="463.94141"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;fill:#7e7e7e;fill-opacity:1">Sunday, December 12, 2014 12:34 PM</tspan></text>
+    <text
+       x="270.6055"
+       y="299"
+       id="text18077"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;display:inline;fill:#7e7e7e;fill-opacity:1;stroke:none"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;fill:#7e7e7e;fill-opacity:1"
+         x="463.94141"
+         y="299"
+         id="tspan18079">2014-12-12, 12:34 PM    1,234.56   $4,567.89</tspan></text>
     <g
        id="g18190"
        transform="translate(106,6)">
