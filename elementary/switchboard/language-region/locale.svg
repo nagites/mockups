@@ -17,7 +17,7 @@
    id="svg2"
    inkscape:version="0.91+devel+osxmenu r12863"
    sodipodi:docname="locale.svg"
-   inkscape:export-filename="/Users/Sam/SparkleShare/mockups/elementary/switchboard/language-region_global.png"
+   inkscape:export-filename="/Users/Sam/SparkleShare/mockups/elementary/switchboard/language-region/language-region.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <sodipodi:namedview
@@ -34,8 +34,8 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="271.99673"
-     inkscape:cy="240.38021"
+     inkscape:cx="504.47452"
+     inkscape:cy="168.69188"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -1115,7 +1115,7 @@
     <linearGradient
        id="linearGradient333853"
        osb:paint="solid"
-       gradientTransform="translate(1416.6026,-67.69094)">
+       gradientTransform="translate(1320.6026,-107.69094)">
       <stop
          style="stop-color:#333333;stop-opacity:1;"
          offset="0"
@@ -1578,39 +1578,9 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient22891"
-       id="linearGradient18339"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,2.3109242,293.36219,229.89933)"
-       x1="-524.36218"
-       y1="120"
-       x2="-548.36218"
-       y2="120" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3789"
-       id="linearGradient18341"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,11.956521,-420.50001,-1718.8629)"
-       x1="165.5"
-       y1="188.5"
-       x2="189.5"
-       y2="188.5" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient113263"
-       id="linearGradient18343"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,2.2892567,-755.36222,232.75963)"
-       x1="499.36218"
-       y1="132"
-       x2="525.36218"
-       y2="132" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient22891"
        id="linearGradient18345"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,2.3109242,327.36219,229.89933)"
+       gradientTransform="matrix(1,0,0,2.3109242,327.36219,205.89933)"
        x1="-524.36218"
        y1="120"
        x2="-548.36218"
@@ -1620,7 +1590,7 @@
        xlink:href="#linearGradient3789"
        id="linearGradient18347"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,11.956521,-386.50001,-1718.8629)"
+       gradientTransform="matrix(1,0,0,11.956521,-386.50001,-1742.8629)"
        x1="165.5"
        y1="188.5"
        x2="189.5"
@@ -1630,7 +1600,7 @@
        xlink:href="#linearGradient113263"
        id="linearGradient18349"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,2.2892567,-721.36222,232.75963)"
+       gradientTransform="matrix(1,0,0,2.2892567,-721.36222,208.75963)"
        x1="499.36218"
        y1="132"
        x2="525.36218"
@@ -1640,7 +1610,7 @@
        xlink:href="#linearGradient22891"
        id="linearGradient18351"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,2.3109242,361.36219,229.89933)"
+       gradientTransform="matrix(1,0,0,2.3109242,361.36219,205.89933)"
        x1="-524.36218"
        y1="120"
        x2="-548.36218"
@@ -1650,7 +1620,7 @@
        xlink:href="#linearGradient3789"
        id="linearGradient18353"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,11.956521,-352.50001,-1718.8629)"
+       gradientTransform="matrix(1,0,0,11.956521,-352.50001,-1742.8629)"
        x1="165.5"
        y1="188.5"
        x2="189.5"
@@ -1660,7 +1630,7 @@
        xlink:href="#linearGradient113263"
        id="linearGradient18355"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,2.2892567,-687.36222,232.75963)"
+       gradientTransform="matrix(1,0,0,2.2892567,-687.36222,208.75963)"
        x1="499.36218"
        y1="132"
        x2="525.36218"
@@ -1670,7 +1640,7 @@
        xlink:href="#linearGradient113263"
        id="linearGradient18357"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,2.2892567,0,233.75963,860.36222)"
+       gradientTransform="matrix(0,-1,2.2892567,0,209.75963,820.36222)"
        x1="499.36218"
        y1="132"
        x2="525.36218"
@@ -1680,7 +1650,7 @@
        xlink:href="#linearGradient22891"
        id="linearGradient18359"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,2.3109242,0,230.89933,-188.36219)"
+       gradientTransform="matrix(0,-1,2.3109242,0,206.89933,-228.36219)"
        x1="-524.36218"
        y1="120"
        x2="-548.36218"
@@ -1690,7 +1660,7 @@
        xlink:href="#linearGradient3789"
        id="linearGradient18361"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,11.956521,0,-1717.8629,525.50001)"
+       gradientTransform="matrix(0,-1,11.956521,0,-1741.8629,485.50001)"
        x1="165.5"
        y1="188.5"
        x2="189.5"
@@ -1700,7 +1670,7 @@
        xlink:href="#linearGradient113263"
        id="linearGradient18396"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,2.2892567,-653.36222,232.75963)"
+       gradientTransform="matrix(1,0,0,2.2892567,-653.36222,208.75963)"
        x1="499.36218"
        y1="132"
        x2="525.36218"
@@ -1710,7 +1680,7 @@
        xlink:href="#linearGradient22891"
        id="linearGradient18398"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,2.3109242,395.36219,229.89933)"
+       gradientTransform="matrix(1,0,0,2.3109242,395.36219,205.89933)"
        x1="-524.36218"
        y1="120"
        x2="-548.36218"
@@ -1720,7 +1690,7 @@
        xlink:href="#linearGradient3789"
        id="linearGradient18400"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,11.956521,-318.50001,-1718.8629)"
+       gradientTransform="matrix(1,0,0,11.956521,-318.50001,-1742.8629)"
        x1="165.5"
        y1="188.5"
        x2="189.5"
@@ -6515,7 +6485,8 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="isolated"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        d="m 23,74 190,0 0,407.74008 -190,0 z"
@@ -6950,86 +6921,15 @@
      id="g18205"
      inkscape:groupmode="layer"
      style="display:inline">
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path18207"
-       d="m 35,107 230,0 0,359.49985 -230,0 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path18211"
-       d="m 34,448.75977 232,0 0,21 -232,0 z"
-       style="display:inline;opacity:1;fill:#f1f1f1;fill-opacity:1;stroke:none" />
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path18213"
-       d="m 34,448 232,0 0,1 -232,0 z"
-       style="display:inline;fill:#999999;fill-opacity:1;stroke:none" />
-    <g
-       style="display:inline;fill:#555555;fill-opacity:1"
-       transform="translate(-21,-275)"
-       id="g18215">
-      <path
-         d="m 67,729 0,4 -4,0 0,2 4,0 0,4 2,0 0,-4 4,0 0,-2 -4,0 0,-4 -2,0 z"
-         inkscape:connector-curvature="0"
-         id="path18217"
-         style="color:#bebebe;fill:#555555;fill-opacity:1" />
-    </g>
-    <path
-       sodipodi:nodetypes="ccccccccccccc"
-       d="m 68,458 0,0 -4,0 0,2 4,0 0,0 2,0 0,0 4,0 0,-2 -4,0 0,0 z"
-       inkscape:connector-curvature="0"
-       id="path18219"
-       style="color:#bebebe;display:inline;fill:#555555;fill-opacity:1" />
-    <path
-       sodipodi:nodetypes="ccccccccccc"
-       inkscape:connector-curvature="0"
-       id="path18221"
-       d="m 34,106 0,0.5 0,364.5 232,0 0,-365 z m 1,1 230,0 0,363 -230,0 z"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#929292;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';display:inline;fill:#444444;fill-opacity:1;stroke:none"
-       x="45.025391"
-       y="127.33588"
-       id="text18223"><tspan
-         sodipodi:role="line"
-         id="tspan18225"
-         x="45.025391"
-         y="127.33588">English</tspan></text>
-    <text
-       id="text18227"
-       y="155.33588"
-       x="45.025391"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';display:inline;fill:#333333;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="155.33588"
-         x="45.025391"
-         id="tspan18229"
-         sodipodi:role="line"
-         style="font-size:12px">Français</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';display:inline;fill:#333333;fill-opacity:1;stroke:none"
-       x="45.025391"
-       y="183.33588"
-       id="text18251"><tspan
-         sodipodi:role="line"
-         id="tspan18253"
-         x="45.025391"
-         y="183.33588">Deutsche</tspan></text>
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;display:inline;fill:#4b4b4b;fill-opacity:1;stroke:none"
        xml:space="preserve"
        id="text18261"
        y="179"
-       x="213.61917"><tspan
+       x="189.61917"><tspan
          id="tspan18263"
          y="179"
-         x="387.94141"
+         x="363.94141"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;fill:#4b4b4b;fill-opacity:1">Region:</tspan></text>
     <rect
        style="display:inline;opacity:0.1;fill:none;stroke:url(#linearGradient18355);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -7037,7 +6937,7 @@
        width="25"
        height="277"
        x="-187.5"
-       y="396.44141"
+       y="372.44141"
        transform="rotate(-90)"
        rx="3"
        ry="3.0000005" />
@@ -7047,7 +6947,7 @@
        width="23"
        height="275"
        x="-186.5"
-       y="397.44141"
+       y="373.44141"
        transform="rotate(-90)"
        rx="2"
        ry="1.9999999" />
@@ -7055,7 +6955,7 @@
        ry="1"
        rx="1"
        transform="matrix(0,1,1,0,0,0)"
-       y="398.44141"
+       y="374.44141"
        x="164.5"
        height="273"
        width="21"
@@ -7064,17 +6964,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:170.00000477%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:url(#linearGradient333853);fill-opacity:1;stroke:none"
-       x="403.94141"
+       x="379.94141"
        y="180"
        id="text18271"
        sodipodi:linespacing="170%"><tspan
          sodipodi:role="line"
          id="tspan18273"
-         x="403.94141"
+         x="379.94141"
          y="180">Canada</tspan></text>
     <path
        inkscape:transform-center-y="1.3333329"
-       transform="matrix(0.45958796,0,0,0.53068646,521.22666,69.12144)"
+       transform="matrix(0.45958796,0,0,0.53068646,497.22666,69.12144)"
        d="m 304,207.04988 -8.70345,-15.07482 17.4069,0 z"
        inkscape:randomized="0"
        inkscape:rounded="0"
@@ -7090,20 +6990,20 @@
        style="display:inline;fill:url(#linearGradient17874);fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:type="star" />
     <text
-       x="213.61917"
+       x="189.61917"
        y="213"
        id="text18277"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;display:inline;fill:#4b4b4b;fill-opacity:1;stroke:none"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;fill:#4b4b4b;fill-opacity:1"
-         x="387.94141"
+         x="363.94141"
          y="213"
-         id="tspan18279">Date Format:</tspan></text>
+         id="tspan18279">Formats:</tspan></text>
     <rect
        ry="3.0000005"
        rx="3"
        transform="rotate(-90)"
-       y="396.44141"
+       y="372.44141"
        x="-221.5"
        height="277"
        width="25"
@@ -7113,7 +7013,7 @@
        ry="1.9999999"
        rx="2"
        transform="rotate(-90)"
-       y="397.44141"
+       y="373.44141"
        x="-220.5"
        height="275"
        width="23"
@@ -7125,7 +7025,7 @@
        width="21"
        height="273"
        x="198.5"
-       y="398.44141"
+       y="374.44141"
        transform="matrix(0,1,1,0,0,0)"
        rx="1"
        ry="1" />
@@ -7133,11 +7033,11 @@
        sodipodi:linespacing="170%"
        id="text18287"
        y="214"
-       x="403.94141"
+       x="379.94141"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:170.00000477%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:url(#linearGradient333853);fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="214"
-         x="403.94141"
+         x="379.94141"
          id="tspan18289"
          sodipodi:role="line">Canada</tspan></text>
     <path
@@ -7155,161 +7055,83 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 304,207.04988 -8.70345,-15.07482 17.4069,0 z"
-       transform="matrix(0.45958796,0,0,0.53068646,521.22666,103.12144)"
+       transform="matrix(0.45958796,0,0,0.53068646,497.22666,103.12144)"
        inkscape:transform-center-y="1.3333329" />
     <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;display:inline;fill:#4b4b4b;fill-opacity:1;stroke:none"
-       xml:space="preserve"
-       id="text18293"
-       y="247"
-       x="213.61917"><tspan
-         id="tspan18295"
-         y="247"
-         x="387.94141"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;fill:#4b4b4b;fill-opacity:1">Numbers:</tspan></text>
-    <rect
-       style="display:inline;opacity:0.1;fill:none;stroke:url(#linearGradient18343);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect18297"
-       width="25"
-       height="277"
-       x="-255.5"
-       y="396.44141"
-       transform="rotate(-90)"
-       rx="3"
-       ry="3.0000005" />
-    <rect
-       style="display:inline;fill:url(#linearGradient18339);fill-opacity:1;stroke:url(#linearGradient18341);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect18299"
-       width="23"
-       height="275"
-       x="-254.5"
-       y="397.44141"
-       transform="rotate(-90)"
-       rx="2"
-       ry="1.9999999" />
-    <rect
-       ry="1"
-       rx="1"
-       transform="matrix(0,1,1,0,0,0)"
-       y="398.44141"
-       x="232.5"
-       height="273"
-       width="21"
-       id="rect18301"
-       style="display:inline;opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:170.00000477%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:url(#linearGradient333853);fill-opacity:1;stroke:none"
-       x="403.94141"
+       x="272.6055"
        y="248"
-       id="text18303"
-       sodipodi:linespacing="170%"><tspan
-         sodipodi:role="line"
-         id="tspan18305"
-         x="403.94141"
-         y="248">Canada</tspan></text>
-    <path
-       inkscape:transform-center-y="1.3333329"
-       transform="matrix(0.45958796,0,0,0.53068646,521.22666,137.12144)"
-       d="m 304,207.04988 -8.70345,-15.07482 17.4069,0 z"
-       inkscape:randomized="0"
-       inkscape:rounded="0"
-       inkscape:flatsided="true"
-       sodipodi:arg2="2.6179939"
-       sodipodi:arg1="1.5707963"
-       sodipodi:r2="5.0249376"
-       sodipodi:r1="10.049876"
-       sodipodi:cy="197"
-       sodipodi:cx="304"
-       sodipodi:sides="3"
-       id="path18307"
-       style="display:inline;fill:url(#linearGradient17874);fill-opacity:1;fill-rule:nonzero;stroke:none"
-       sodipodi:type="star" />
-    <text
-       x="296.6055"
-       y="288"
        id="text18309"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;display:inline;fill:#7e7e7e;fill-opacity:1;stroke:none"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;fill:#7e7e7e;fill-opacity:1"
-         x="489.94141"
-         y="288"
+         x="465.94141"
+         y="248"
          id="tspan18311">Sunday, December 12, 2014 12:34 PM</tspan></text>
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;display:inline;fill:#7e7e7e;fill-opacity:1;stroke:none"
        xml:space="preserve"
        id="text18313"
-       y="307"
-       x="296.6055"><tspan
+       y="267"
+       x="272.6055"><tspan
          id="tspan18315"
-         y="307"
-         x="489.94141"
+         y="267"
+         x="465.94141"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;fill:#7e7e7e;fill-opacity:1">2014-12-12, 12:34 PM    1,234.56   $4,567.89</tspan></text>
     <path
        sodipodi:nodetypes="sssssssss"
        inkscape:connector-curvature="0"
        id="path18319"
-       d="m 397.44141,357.5 0,-19 c 0,-1.662 1.338,-3 3,-3 l 171,0 c 1.662,0 3,1.338 3,3 l 0,19 c 0,1.662 -1.338,3 -3,3 l -171,0 c -1.662,0 -3,-1.338 -3,-3 z"
+       d="m 373.44141,317.5 0,-19 c 0,-1.662 1.338,-3 3,-3 l 171,0 c 1.662,0 3,1.338 3,3 l 0,19 c 0,1.662 -1.338,3 -3,3 l -171,0 c -1.662,0 -3,-1.338 -3,-3 z"
        style="display:inline;opacity:0.1;fill:none;stroke:url(#linearGradient18357);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="sssssssss"
        inkscape:connector-curvature="0"
        id="path18321"
-       d="m 398.44141,357.5 0,-19 c 0,-1.108 0.892,-2 2,-2 l 171,0 c 1.108,0 2,0.892 2,2 l 0,19 c 0,1.108 -0.892,2 -2,2 l -171,0 c -1.108,0 -2,-0.892 -2,-2 z"
+       d="m 374.44141,317.5 0,-19 c 0,-1.108 0.892,-2 2,-2 l 171,0 c 1.108,0 2,0.892 2,2 l 0,19 c 0,1.108 -0.892,2 -2,2 l -171,0 c -1.108,0 -2,-0.892 -2,-2 z"
        style="display:inline;fill:url(#linearGradient18359);fill-opacity:1;stroke:url(#linearGradient18361);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="sssssssss"
        inkscape:connector-curvature="0"
        id="path18323"
-       d="m 399.44141,338.5 0,19 c 0,0.554 0.446,1 1,1 l 171,0 c 0.554,0 1,-0.446 1,-1 l 0,-19 c 0,-0.554 -0.446,-1 -1,-1 l -171,0 c -0.554,0 -1,0.446 -1,1 z"
+       d="m 375.44141,298.5 0,19 c 0,0.554 0.446,1 1,1 l 171,0 c 0.554,0 1,-0.446 1,-1 l 0,-19 c 0,-0.554 -0.446,-1 -1,-1 l -171,0 c -0.554,0 -1,0.446 -1,1 z"
        style="display:inline;opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        sodipodi:linespacing="170%"
        id="text18325"
-       y="352"
-       x="485.33301"
+       y="312"
+       x="461.33301"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:170.00000477%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:url(#linearGradient333853);fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="352"
-         x="485.33301"
+         y="312"
+         x="461.33301"
          id="tspan18327"
          sodipodi:role="line">Apply to entire system</tspan></text>
     <text
        sodipodi:linespacing="170%"
        id="text18413"
-       y="466"
-       x="708.72559"
+       y="462"
+       x="704.72559"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:170.00000477%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-decoration: underline;text-decoration-line: underline;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#444444;fill-opacity:0.79904306;stroke:none"
        xml:space="preserve"><tspan
-         y="466"
-         x="708.72559"
+         y="462"
+         x="704.72559"
          id="tspan18415"
          sodipodi:role="line">Keyboard layout settings...</tspan></text>
     <text
-       x="-183.09567"
-       y="97"
-       id="text18363"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;text-anchor:start;display:inline;fill:#4b4b4b;fill-opacity:1;stroke:none"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;text-anchor:start;fill:#4b4b4b;fill-opacity:1"
-         x="33.941406"
-         y="97"
-         id="tspan18365">Installed languages:</tspan></text>
-    <text
-       x="213.61917"
+       x="189.61917"
        y="145"
        id="text18380"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;display:inline;fill:#4b4b4b;fill-opacity:1;stroke:none"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;fill:#4b4b4b;fill-opacity:1"
-         x="387.94141"
+         x="363.94141"
          y="145"
          id="tspan18382">Language:</tspan></text>
     <rect
        ry="3.0000005"
        rx="3"
        transform="rotate(-90)"
-       y="396.44141"
+       y="372.44141"
        x="-153.5"
        height="277"
        width="25"
@@ -7319,7 +7141,7 @@
        ry="1.9999999"
        rx="2"
        transform="rotate(-90)"
-       y="397.44141"
+       y="373.44141"
        x="-152.5"
        height="275"
        width="23"
@@ -7331,7 +7153,7 @@
        width="21"
        height="273"
        x="130.5"
-       y="398.44141"
+       y="374.44141"
        transform="matrix(0,1,1,0,0,0)"
        rx="1"
        ry="1" />
@@ -7339,11 +7161,11 @@
        sodipodi:linespacing="170%"
        id="text18390"
        y="146"
-       x="403.94141"
+       x="379.94141"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:170.00000477%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:url(#linearGradient333853);fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="146"
-         x="403.94141"
+         x="379.94141"
          id="tspan18392"
          sodipodi:role="line">English</tspan></text>
     <path
@@ -7361,16 +7183,55 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m 304,207.04988 -8.70345,-15.07482 17.4069,0 z"
-       transform="matrix(0.45958796,0,0,0.53068646,521.22666,35.12144)"
+       transform="matrix(0.45958796,0,0,0.53068646,497.22666,35.12144)"
        inkscape:transform-center-y="1.3333329" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path19967"
+       d="m 23,74 190,0 0,407.74008 -190,0 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path19971"
+       d="m 22,462 192,0 0,21 -192,0 z"
+       style="display:inline;opacity:1;fill:#f1f1f1;fill-opacity:1;stroke:none" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path19973"
+       d="m 22,461 192,0 0,1 -192,0 z"
+       style="display:inline;fill:#999999;fill-opacity:1;stroke:none" />
+    <g
+       style="display:inline;fill:#555555;fill-opacity:1"
+       transform="translate(-33,-262)"
+       id="g19975">
+      <path
+         d="m 67,729 0,4 -4,0 0,2 4,0 0,4 2,0 0,-4 4,0 0,-2 -4,0 0,-4 -2,0 z"
+         inkscape:connector-curvature="0"
+         id="path19977"
+         style="color:#bebebe;fill:#555555;fill-opacity:1" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccccccccccccc"
+       d="m 56,471 0,0 -4,0 0,2 4,0 0,0 2,0 0,0 4,0 0,-2 -4,0 0,0 z"
+       inkscape:connector-curvature="0"
+       id="path19979"
+       style="color:#bebebe;display:inline;fill:#555555;fill-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path19981"
+       d="m 22,71.5 0,0.5 0,412.24023 192,0 L 214,71.5 Z m 1,1 190,0 0,410.74023 -190,0 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#929292;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="header"
      style="display:inline"
-     transform="translate(0,-20)"
-     sodipodi:insensitive="true">
+     transform="translate(0,-20)">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient7167-6-9);fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate"
        d="m 27,45 c -2.216,0 -4,1.784 -4,4 l 0,44 698,0 0,-44 c 0,-2.216 -1.784,-4 -4,-4 z"
@@ -7575,5 +7436,36 @@
          id="path95475"
          style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';display:inline;fill:#444444;fill-opacity:1;stroke:none"
+       x="35.025391"
+       y="117.33588"
+       id="text18223"><tspan
+         sodipodi:role="line"
+         id="tspan18225"
+         x="35.025391"
+         y="117.33588">English</tspan></text>
+    <text
+       id="text18227"
+       y="145.33588"
+       x="35.025391"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';display:inline;fill:#333333;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="145.33588"
+         x="35.025391"
+         id="tspan18229"
+         sodipodi:role="line"
+         style="font-size:12px">Français</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';display:inline;fill:#333333;fill-opacity:1;stroke:none"
+       x="35.025391"
+       y="173.33588"
+       id="text18251"><tspan
+         sodipodi:role="line"
+         id="tspan18253"
+         x="35.025391"
+         y="173.33588">Deutsche</tspan></text>
   </g>
 </svg>
