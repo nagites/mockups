@@ -34,8 +34,8 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="619.58912"
-     inkscape:cy="367.60734"
+     inkscape:cx="763.5902"
+     inkscape:cy="507.36887"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="0"
@@ -59,6 +59,18 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4609">
+      <stop
+         style="stop-color:#269be4;stop-opacity:1;"
+         offset="0"
+         id="stop4611" />
+      <stop
+         style="stop-color:#51b2ee;stop-opacity:1"
+         offset="1"
+         id="stop4613" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient3732-7-6">
@@ -683,6 +695,15 @@
        y1="220"
        x2="316.60287"
        y2="219.98749" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4609"
+       id="linearGradient4615"
+       x1="840"
+       y1="104"
+       x2="840"
+       y2="64"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata7">
@@ -2770,7 +2791,7 @@
        sodipodi:nodetypes="ccccc" />
     <path
        style="opacity:0.3;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 723.5,103 0,-47"
+       d="m 763.5,103 0,-47"
        id="path3742"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -2778,11 +2799,17 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path4512"
-       d="m 724.5,103 0,-47"
+       d="m 764.5,103 0,-47"
        style="opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:url(#linearGradient4615);fill-opacity:1;stroke:none"
+       d="m 764,64 117,0 0,38 -117,0 z"
+       id="rect4607"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
     <g
        id="g4595"
-       transform="translate(761,76)"
+       transform="translate(791,76)"
        style="fill:#ffffff;fill-opacity:1">
       <path
          style="color:#bebebe;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -2800,10 +2827,10 @@
        xml:space="preserve"
        id="text4599"
        y="89.117188"
-       x="648.6001"><tspan
+       x="678.6001"><tspan
          id="tspan4601"
          y="89.117188"
-         x="822.92236"
+         x="852.92236"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">Unlock</tspan></text>
   </g>
   <g
