@@ -34,12 +34,12 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="414.25719"
-     inkscape:cy="330.02504"
+     inkscape:cx="646.87307"
+     inkscape:cy="350.37309"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer5"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -1050,6 +1050,16 @@
        id="linearGradient3270"
        xlink:href="#linearGradient5639"
        inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5639"
+       id="linearGradient4060"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,-1,0,614.87918,438.81854)"
+       x1="81.030319"
+       y1="526.84888"
+       x2="95.030319"
+       y2="526.84888" />
   </defs>
   <metadata
      id="metadata7">
@@ -2707,12 +2717,6 @@
      inkscape:label="contents"
      style="display:inline"
      transform="translate(0,90)">
-    <path
-       sodipodi:nodetypes="sssssssss"
-       inkscape:connector-curvature="0"
-       id="path5258"
-       d="m 483.4375,125.125 c -0.82235,0 -1.5,0.67765 -1.5,1.5 l 0,19 c 0,0.82235 0.67765,1.5 1.5,1.5 l 211,0 c 0.82235,0 1.5,-0.67765 1.5,-1.5 l 0,-19 c 0,-0.82235 -0.67765,-1.5 -1.5,-1.5 z"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient5621);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     <rect
        ry="1"
        rx="0.99999982"
@@ -2725,37 +2729,6 @@
        inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:url(#linearGradient5619);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;display:inline"
-       d="m 481.42236,145.61719 0,-19 c 0,-1.108 0.892,-2 2,-2 l 211,0 c 1.108,0 2,0.892 2,2 l 0,19 c 0,1.108 -0.892,2 -2,2 l -211,0 c -1.108,0 -2,-0.892 -2,-2 z"
-       id="rect18283"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssssss" />
-    <path
-       style="opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;display:inline"
-       d="m 482.42236,126.61719 0,19 c 0,0.554 0.446,1 1,1 l 211,0 c 0.554,0 1,-0.446 1,-1 l 0,-19 c 0,-0.554 -0.446,-1 -1,-1 l -211,0 c -0.554,0 -1,0.446 -1,1 z"
-       id="rect18285"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssssss" />
-    <text
-       sodipodi:linespacing="170%"
-       id="text18287"
-       y="141.11719"
-       x="487.92236"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:170.00000477%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       xml:space="preserve"><tspan
-         style="fill:#333333;fill-opacity:1"
-         y="141.11719"
-         x="487.92236"
-         id="tspan18289"
-         sodipodi:role="line">Administrator</tspan></text>
-    <path
-       style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
-       inkscape:transform-center-y="1.3333329"
-       d="m 684.92234,139.1172 -4,-6.00001 8,0 z"
-       id="path18291"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
     <text
        x="297.6001"
        y="180.11719"
@@ -3961,16 +3934,86 @@
        sodipodi:cy="-275.98779"
        sodipodi:rx="19.5"
        sodipodi:ry="19.5" />
-    <text
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#333333;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       xml:space="preserve"
-       id="text5633"
-       y="140.11719"
-       x="297.6001"><tspan
-         id="tspan5635"
+    <g
+       id="g4062">
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient5621);fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 483.4375,125.125 c -0.82235,0 -1.5,0.67765 -1.5,1.5 l 0,19 c 0,0.82235 0.67765,1.5 1.5,1.5 l 211,0 c 0.82235,0 1.5,-0.67765 1.5,-1.5 l 0,-19 c 0,-0.82235 -0.67765,-1.5 -1.5,-1.5 z"
+         id="path5258"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <path
+         sodipodi:nodetypes="sssssssss"
+         inkscape:connector-curvature="0"
+         id="rect18283"
+         d="m 481.42236,145.61719 0,-19 c 0,-1.108 0.892,-2 2,-2 l 211,0 c 1.108,0 2,0.892 2,2 l 0,19 c 0,1.108 -0.892,2 -2,2 l -211,0 c -1.108,0 -2,-0.892 -2,-2 z"
+         style="fill:none;stroke:url(#linearGradient5619);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;display:inline" />
+      <path
+         sodipodi:nodetypes="sssssssss"
+         inkscape:connector-curvature="0"
+         id="rect18285"
+         d="m 482.42236,126.61719 0,19 c 0,0.554 0.446,1 1,1 l 211,0 c 0.554,0 1,-0.446 1,-1 l 0,-19 c 0,-0.554 -0.446,-1 -1,-1 l -211,0 c -0.554,0 -1,0.446 -1,1 z"
+         style="opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;display:inline" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:170.00000477%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+         x="487.92236"
+         y="141.11719"
+         id="text18287"
+         sodipodi:linespacing="170%"><tspan
+           sodipodi:role="line"
+           id="tspan18289"
+           x="487.92236"
+           y="141.11719"
+           style="fill:#333333;fill-opacity:1">Administrator</tspan></text>
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path18291"
+         d="m 684.92234,139.1172 -4,-6.00001 8,0 z"
+         inkscape:transform-center-y="1.3333329"
+         style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline" />
+      <text
+         x="297.6001"
          y="140.11719"
-         x="471.92236"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#333333;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">Account type:</tspan></text>
+         id="text5633"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#333333;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#333333;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+           x="471.92236"
+           y="140.11719"
+           id="tspan5635">Account type:</tspan></text>
+    </g>
+    <g
+       id="g4399"
+       transform="translate(705,128)"
+       style="opacity:0.3;fill:#000000">
+      <path
+         style="color:#bebebe;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5137-6"
+         inkscape:connector-curvature="0"
+         d="M 7,0 C 4.9843357,0 3,2.0259433 3,4 L 3,6 13,6 13,4 C 13,2.0051395 11.036468,0 9,0 z m 0,2 2,0 c 1.15731,0 2,1.1700861 2,2 L 11,6 5,6 5,4 C 5,3.3328733 5.8010827,2 7,2 z" />
+      <path
+         style="color:#bebebe;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect2995-7"
+         inkscape:connector-curvature="0"
+         d="m 2,7 0,2.25 2.25,0 0,0.5 -2.25,0 0,1.25 0,0.25 2.25,0 0,0.5 -2.25,0 0,1.5 2.25,0 0,0.5 -2.25,0 0,0.25 0,0.5 C 2,15.331 2.669,16 3.5,16 l 9,0 c 0.831,0 1.5,-0.669 1.5,-1.5 l 0,-0.5 0,-0.25 -2.25,0 0,-0.5 2.25,0 0,-1.5 -2.25,0 0,-0.5 2.25,0 0,-0.25 0,-1.25 -2.25,0 0,-0.5 2.25,0 L 14,7 z m 6,2 c 1.1045695,0 2,0.6715729 2,1.5 0,0.554048 -0.4042701,1.021494 -1,1.28125 L 9,13 C 9,13.554 8.554,13.75 8,13.75 7.446,13.75 7,13.554 7,13 L 7,11.78125 C 6.4042701,11.521494 6,11.054048 6,10.5 6,9.6715729 6.8954305,9 8,9 z" />
+    </g>
+    <g
+       style="opacity:0.3;fill:#000000"
+       transform="translate(546,207)"
+       id="g4403">
+      <path
+         d="M 7,0 C 4.9843357,0 3,2.0259433 3,4 L 3,6 13,6 13,4 C 13,2.0051395 11.036468,0 9,0 z m 0,2 2,0 c 1.15731,0 2,1.1700861 2,2 L 11,6 5,6 5,4 C 5,3.3328733 5.8010827,2 7,2 z"
+         inkscape:connector-curvature="0"
+         id="path4405"
+         style="color:#bebebe;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         d="m 2,7 0,2.25 2.25,0 0,0.5 -2.25,0 0,1.25 0,0.25 2.25,0 0,0.5 -2.25,0 0,1.5 2.25,0 0,0.5 -2.25,0 0,0.25 0,0.5 C 2,15.331 2.669,16 3.5,16 l 9,0 c 0.831,0 1.5,-0.669 1.5,-1.5 l 0,-0.5 0,-0.25 -2.25,0 0,-0.5 2.25,0 0,-1.5 -2.25,0 0,-0.5 2.25,0 0,-0.25 0,-1.25 -2.25,0 0,-0.5 2.25,0 L 14,7 z m 6,2 c 1.1045695,0 2,0.6715729 2,1.5 0,0.554048 -0.4042701,1.021494 -1,1.28125 L 9,13 C 9,13.554 8.554,13.75 8,13.75 7.446,13.75 7,13.554 7,13 L 7,11.78125 C 6.4042701,11.521494 6,11.054048 6,10.5 6,9.6715729 6.8954305,9 8,9 z"
+         inkscape:connector-curvature="0"
+         id="path4407"
+         style="color:#bebebe;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
