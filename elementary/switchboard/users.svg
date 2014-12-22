@@ -17,9 +17,9 @@
    id="svg2"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="users.svg"
-   inkscape:export-filename="/Users/Sam/SparkleShare/mockups/elementary/switchboard/notifications/notifications-dnd.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-filename="/home/sam/SparkleShare/mockups/elementary/switchboard/users-plug.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -34,12 +34,12 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="436.30963"
-     inkscape:cy="347.71189"
+     inkscape:cx="534.96367"
+     inkscape:cy="305.11415"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer7"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -555,16 +555,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3789-2"
-       id="linearGradient18361"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,11.956521,0,-1665.8819,418.6172)"
-       x1="165.5"
-       y1="188.5"
-       x2="189.5"
-       y2="188.5" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient113263-3"
        id="linearGradient18357"
        gradientUnits="userSpaceOnUse"
@@ -716,66 +706,6 @@
        x2="840"
        y2="64"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient113263-3"
-       id="linearGradient4648"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,2.2892567,0,236.74057,686.47941)"
-       x1="499.36218"
-       y1="132"
-       x2="525.36218"
-       y2="132" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3789-2"
-       id="linearGradient4650"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,11.956521,0,-1714.8819,351.6172)"
-       x1="165.5"
-       y1="188.5"
-       x2="189.5"
-       y2="188.5" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10919"
-       id="linearGradient4701"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.928934,0,0,0.92592983,1484.1676,-129.39776)"
-       x1="-1068.0714"
-       y1="402.14792"
-       x2="-1068.0714"
-       y2="398.37155" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4467-3-0-0-0-0-4-0-6-0-271-771-913-5-2-1-9"
-       id="linearGradient4703"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.6452655,0,0,1.0384615,-248.51348,-58.45686)"
-       x1="287.24359"
-       y1="289.32889"
-       x2="287.5824"
-       y2="266.21777" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3732-7-6"
-       id="linearGradient4705"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.8453607,0,0,1,2114.2037,-228.14786)"
-       x1="-879.07129"
-       y1="447.14792"
-       x2="-879.07129"
-       y2="450.14792" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3732-7-6"
-       id="linearGradient4707"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.8453607,0,0,1,2116.0489,-229.14796)"
-       x1="-880.07129"
-       y1="448.14792"
-       x2="-880.07129"
-       y2="470.14789" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3732-7-6"
@@ -957,7 +887,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3973,13 +3903,13 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="86.03125"
-       y="169.12938"
+       x="85.03125"
+       y="170.12938"
        id="text13084"><tspan
          sodipodi:role="line"
          id="tspan13086"
-         x="86.03125"
-         y="169.12938">User</tspan></text>
+         x="85.03125"
+         y="170.12938">User</tspan></text>
     <text
        id="text13088"
        y="151.06366"
@@ -4005,13 +3935,13 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="86.03125"
-       y="221.12936"
+       x="85.03125"
+       y="222.12936"
        id="text30223"><tspan
          sodipodi:role="line"
          id="tspan30225"
-         x="86.03125"
-         y="221.12936">Enable</tspan></text>
+         x="85.03125"
+         y="222.12936">Enabled</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
@@ -4120,6 +4050,11 @@
          id="tspan3725"
          sodipodi:role="line"
          style="font-size:18px;font-weight:bold;-inkscape-font-specification:Droid Sans Bold">Mr. Bojangles</tspan></text>
+    <path
+       style="opacity:0.9;color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3815-7-4"
+       inkscape:connector-curvature="0"
+       d="m 574,206.00008 0,2 c -2.98103,0 -6.02422,6 -8,6 l -2,0 0,2 2,0 c 2.99366,0 5.99591,-6 8,-6 l 0,2 4,-3 z m -10,2 0,2 2,0 c 0.58158,0 1.26226,0.54756 2,1.28125 0.12045,-0.13122 0.25181,-0.24972 0.375,-0.375 0.30725,-0.32527 0.62752,-0.66346 0.9375,-1 -1.07195,-1.05469 -2.18988,-1.90625 -3.3125,-1.90625 l -2,0 z m 10,4 0,2 c -0.59135,0 -1.29196,-0.54475 -2.03125,-1.28125 -0.42399,0.45527 -0.85717,0.91598 -1.28125,1.375 1.0758,1.05468 2.19461,1.90625 3.3125,1.90625 l 0,2 4,-3 -4,-3 z" />
   </g>
   <g
      inkscape:groupmode="layer"
