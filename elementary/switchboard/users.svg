@@ -16,7 +16,7 @@
    height="510"
    id="svg2"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="notifications.svg"
+   sodipodi:docname="users.svg"
    inkscape:export-filename="/Users/Sam/SparkleShare/mockups/elementary/switchboard/notifications/notifications-dnd.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -34,8 +34,8 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="181.38299"
-     inkscape:cy="278.95811"
+     inkscape:cx="166.0594"
+     inkscape:cy="286.29271"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="0"
@@ -2419,7 +2419,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -7251,26 +7251,24 @@
        cy="-275.98779"
        r="19.5" />
     <text
-       transform="translate(0,-20)"
        xml:space="preserve"
-       style="display:inline;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="82.043472"
-       y="139.00438"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="86.043472"
+       y="119.00438"
        id="text22991"><tspan
          style="font-size:14px;font-weight:bold;-inkscape-font-specification:Droid Sans Bold"
          sodipodi:role="line"
          id="tspan22993"
-         x="82.043472"
-         y="139.00438">Mr. Bojangles</tspan></text>
+         x="86.043472"
+         y="119.00438">Mr. Bojangles</tspan></text>
     <text
-       transform="translate(0,-20)"
        id="text30012"
-       y="161.12938"
-       x="83.043442"
-       style="display:inline;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       y="141.12938"
+       x="87.043442"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
-         y="161.12938"
-         x="83.043442"
+         y="141.12938"
+         x="87.043442"
          id="tspan30014"
          sodipodi:role="line">Administrator</tspan></text>
     <image
@@ -7356,51 +7354,47 @@
        cy="-275.98779"
        r="19.5" />
     <text
-       transform="translate(0,-20)"
        xml:space="preserve"
-       style="display:inline;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="82.03125"
-       y="251.12938"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="86.03125"
+       y="229.12938"
        id="text13084"><tspan
          sodipodi:role="line"
          id="tspan13086"
-         x="82.03125"
-         y="251.12938">Logged in</tspan></text>
+         x="86.03125"
+         y="229.12938">User</tspan></text>
     <text
-       transform="translate(0,-20)"
        id="text13088"
-       y="229.06367"
-       x="81.031281"
-       style="display:inline;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       y="211.06367"
+       x="85.031281"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
-         y="229.06367"
-         x="81.031281"
+         y="211.06367"
+         x="85.031281"
          id="tspan13090"
          sodipodi:role="line"
-         style="font-size:14px;font-weight:bold;-inkscape-font-specification:Droid Sans Bold">Daniel Fore</tspan></text>
+         style="font-size:14px;font-weight:bold;-inkscape-font-specification:Droid Sans Bold">Daniel Foré</tspan></text>
     <text
-       transform="translate(0,-20)"
        id="text30219"
-       y="283.00436"
-       x="82.031281"
-       style="display:inline;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       y="263.00436"
+       x="86.031281"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
-         y="283.00436"
-         x="82.031281"
+         y="263.00436"
+         x="86.031281"
          id="tspan30221"
          sodipodi:role="line"
          style="font-size:14px;font-weight:bold;-inkscape-font-specification:Droid Sans Bold">Guest</tspan></text>
     <text
-       transform="translate(0,-20)"
        xml:space="preserve"
-       style="display:inline;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-       x="83.03125"
-       y="305.12936"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       x="87.03125"
+       y="283.12936"
        id="text30223"><tspan
          sodipodi:role="line"
          id="tspan30225"
-         x="83.03125"
-         y="305.12936">Guest</tspan></text>
+         x="87.03125"
+         y="283.12936">Enable</tspan></text>
     <text
        transform="translate(0,-20)"
        xml:space="preserve"
@@ -7660,5 +7654,5 @@
            height="176"
            x="-50"
            y="185" /></flowRegion><flowPara
-         id="flowPara6182"></flowPara></flowRoot>  </g>
+         id="flowPara6182" /></flowRoot>  </g>
 </svg>
