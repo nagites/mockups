@@ -34,8 +34,8 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="208.42405"
-     inkscape:cy="327.60734"
+     inkscape:cx="528.42405"
+     inkscape:cy="407.60734"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="0"
@@ -581,7 +581,7 @@
        xlink:href="#linearGradient3789-2"
        id="linearGradient18347"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,11.956521,-279.6172,-1666.8819)"
+       gradientTransform="matrix(0,-1,11.956521,0,-1714.8819,235.6172)"
        x1="165.5"
        y1="188.5"
        x2="189.5"
@@ -648,7 +648,7 @@
        xlink:href="#linearGradient3789-2"
        id="linearGradient8990"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,11.956521,0,-1666.8819,247.6172)"
+       gradientTransform="matrix(0,-1,11.956521,0,-1714.8819,273.6172)"
        x1="165.5"
        y1="188.5"
        x2="189.5"
@@ -658,7 +658,7 @@
        xlink:href="#linearGradient113263-3"
        id="linearGradient8992"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,2.2892567,0,284.74057,582.47941)"
+       gradientTransform="matrix(0,-1,2.2892567,0,236.74057,608.47941)"
        x1="499.36218"
        y1="132"
        x2="525.36218"
@@ -692,7 +692,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2340,47 +2340,34 @@
      inkscape:label="contents"
      style="display:inline"
      transform="translate(0,90)">
-    <text
-       x="265.6001"
-       y="106.11719"
-       id="text18277"
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#333333;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#333333;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-         x="439.92236"
-         y="106.11719"
-         id="tspan18279">Formats:</tspan></text>
     <path
-       transform="matrix(0,-1,1,0,0,0)"
        style="fill:none;stroke:url(#linearGradient18347);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;display:inline"
-       d="m -111.61719,449.42236 19.000003,0 c 1.108,0 2,0.892 2,2 l 0,211 c 0,1.108 -0.892,2 -2,2 l -19.000003,0 c -1.108,0 -2,-0.892 -2,-2 l 0,-211 c 0,-1.108 0.892,-2 2,-2 z"
+       d="m 401.42236,67.61719 0,-19.000003 c 0,-1.108 0.892,-2 2,-2 l 211,0 c 1.108,0 2,0.892 2,2 l 0,19.000003 c 0,1.108 -0.892,2 -2,2 l -211,0 c -1.108,0 -2,-0.892 -2,-2 z"
        id="rect18283"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssssss" />
     <path
-       transform="matrix(0,1,1,0,0,0)"
        style="opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;display:inline"
-       d="m 92.617187,450.42236 19.000003,0 c 0.554,0 1,0.446 1,1 l 0,211 c 0,0.554 -0.446,1 -1,1 l -19.000003,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-211 c 0,-0.554 0.446,-1 1,-1 z"
+       d="m 402.42236,48.617187 0,19.000003 c 0,0.554 0.446,1 1,1 l 211,0 c 0.554,0 1,-0.446 1,-1 l 0,-19.000003 c 0,-0.554 -0.446,-1 -1,-1 l -211,0 c -0.554,0 -1,0.446 -1,1 z"
        id="rect18285"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssssss" />
     <text
        sodipodi:linespacing="170%"
        id="text18287"
-       y="107.11719"
-       x="455.92236"
+       y="63.117188"
+       x="407.92236"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:170.00000477%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          style="fill:#333333;fill-opacity:1"
-         y="107.11719"
-         x="455.92236"
+         y="63.117188"
+         x="407.92236"
          id="tspan18289"
          sodipodi:role="line">Administrator</tspan></text>
     <path
-       transform="matrix(0.45958796,0,0,0.53068646,573.2076,-3.7613715)"
        style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        inkscape:transform-center-y="1.3333329"
-       d="m 173.44828,207.04988 -8.70345,-15.07482 17.4069,0 z"
+       d="m 604.92234,62.117196 -4,-8.000003 8,0 z"
        id="path18291"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -2409,49 +2396,49 @@
          id="tspan18327"
          sodipodi:role="line">Apply to entire system</tspan></text>
     <text
-       x="265.6001"
-       y="74.117188"
+       x="217.6001"
+       y="100.11719"
        id="text18380"
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#333333;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#333333;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-         x="439.92236"
-         y="74.117188"
+         x="391.92236"
+         y="100.11719"
          id="tspan18382">Language:</tspan></text>
     <path
        style="opacity:0.1;fill:none;stroke:url(#linearGradient8992);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;display:inline"
-       d="m 448.42236,79.617187 0,-19 c 0,-1.662 1.338,-3 3,-3 l 211,0 c 1.662,0 3,1.338 3,3 l 0,19 c 0,1.662 -1.338,3 -3,3 l -211,0 c -1.662,0 -3,-1.338 -3,-3 z"
+       d="m 400.42236,105.61719 0,-19 c 0,-1.662003 1.338,-3.000003 3,-3.000003 l 211,0 c 1.662,0 3,1.338 3,3.000003 l 0,19 c 0,1.662 -1.338,3 -3,3 l -211,0 c -1.662,0 -3,-1.338 -3,-3 z"
        id="rect18384"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssssss" />
     <path
        style="fill:none;stroke:url(#linearGradient8990);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;display:inline"
-       d="m 449.42236,79.617187 0,-19 c 0,-1.108 0.892,-2 2,-2 l 211,0 c 1.108,0 2,0.892 2,2 l 0,19 c 0,1.108 -0.892,2 -2,2 l -211,0 c -1.108,0 -2,-0.892 -2,-2 z"
+       d="m 401.42236,105.61719 0,-19 c 0,-1.108003 0.892,-2.000003 2,-2.000003 l 211,0 c 1.108,0 2,0.892 2,2.000003 l 0,19 c 0,1.108 -0.892,2 -2,2 l -211,0 c -1.108,0 -2,-0.892 -2,-2 z"
        id="rect18386"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssssss" />
     <path
        style="opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;display:inline"
-       d="m 450.42236,60.617189 0,19 c 0,0.554 0.446,1 1,1 l 211,0 c 0.554,0 1,-0.446 1,-1 l 0,-19 c 0,-0.554 -0.446,-1 -1,-1 l -211,0 c -0.554,0 -1,0.446 -1,1 z"
+       d="m 402.42236,86.61719 0,19 c 0,0.554 0.446,1 1,1 l 211,0 c 0.554,0 1,-0.446 1,-1 l 0,-19 c 0,-0.554 -0.446,-1.000001 -1,-1.000001 l -211,0 c -0.554,0 -1,0.446001 -1,1.000001 z"
        id="rect18388"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssssss" />
     <text
        sodipodi:linespacing="170%"
        id="text18390"
-       y="75.117188"
-       x="455.92236"
+       y="100.11719"
+       x="407.92236"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:170.00000477%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
        xml:space="preserve"><tspan
          style="fill:#333333;fill-opacity:1"
-         y="75.117188"
-         x="455.92236"
+         y="100.11719"
+         x="407.92236"
          id="tspan18392"
-         sodipodi:role="line">English</tspan></text>
+         sodipodi:role="line">English (Canada)</tspan></text>
     <path
        style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
        inkscape:transform-center-y="1.3333329"
-       d="m 652.92234,74.117196 -4,-8.000003 8,0 z"
+       d="m 604.92234,100.1172 -4,-8.00001 8,0 z"
        id="path18394"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -2717,7 +2704,7 @@
        id="path19979"
        style="display:inline;color:#bebebe;fill:#555555;fill-opacity:1" />
     <image
-       transform="translate(83.01221,-354.9878)"
+       transform="matrix(1.5356718,0,0,1.5356718,-94.41614,-545.53088)"
        clip-path="url(#clipPath30335-0)"
        width="40"
        height="40"
@@ -2731,9 +2718,9 @@
        r="20.512196"
        cy="-276"
        cx="-204"
-       style="fill:none;stroke:url(#linearGradient9000);stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:none;stroke:url(#linearGradient9000);stroke-width:0.6511808;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        id="circle8996"
-       transform="matrix(0,-1,-1,0,99.0122,-178.9878)"
+       transform="matrix(0,-1.5356718,-1.5356718,0,-69.845408,-275.25265)"
        sodipodi:cx="-204"
        sodipodi:cy="-276"
        sodipodi:rx="20.512196"
@@ -2743,13 +2730,24 @@
        r="19.5"
        cy="-275.98779"
        cx="204.01219"
-       transform="matrix(0,1,-1,0,99.0122,-178.9878)"
+       transform="matrix(0,1.5356718,-1.5356718,0,-69.845408,-275.25265)"
        id="circle8998"
-       style="opacity:0.5;fill:none;stroke:url(#linearGradient9002);stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="opacity:0.5;fill:none;stroke:url(#linearGradient9002);stroke-width:0.65118074;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        sodipodi:cx="204.01219"
        sodipodi:cy="-275.98779"
        sodipodi:rx="19.5"
        sodipodi:ry="19.5" />
+    <text
+       id="text3723"
+       y="27.004379"
+       x="404.04346"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
+       xml:space="preserve"><tspan
+         y="27.004379"
+         x="404.04346"
+         id="tspan3725"
+         sodipodi:role="line"
+         style="font-size:18px;font-weight:bold;-inkscape-font-specification:Droid Sans Bold">Mr. Bojangles</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
