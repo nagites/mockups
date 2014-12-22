@@ -1026,7 +1026,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2781,10 +2781,10 @@
        xml:space="preserve"
        id="text4632"
        y="218.11719"
-       x="216.6001"><tspan
+       x="217.6001"><tspan
          id="tspan4634"
          y="218.11719"
-         x="390.92236"
+         x="391.92236"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#333333;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">Automatic login:</tspan></text>
     <rect
        inkscape:export-ydpi="90"
@@ -3874,13 +3874,13 @@
          inkscape:connector-curvature="0" />
     </g>
     <text
-       x="216.6001"
+       x="217.6001"
        y="255.11719"
        id="text5236"
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#333333;fill-opacity:1;stroke:none;display:inline;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#333333;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
-         x="390.92236"
+         x="391.92236"
          y="255.11719"
          id="tspan5238">Password:</tspan></text>
     <text
@@ -3937,7 +3937,7 @@
          id="tspan5635"
          y="140.11719"
          x="391.92236"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#333333;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">Language:</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#333333;fill-opacity:1;font-family:Droid Sans;-inkscape-font-specification:Droid Sans">Account type:</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
