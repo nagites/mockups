@@ -34,12 +34,12 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="170.44458"
+     inkscape:cx="215.94458"
      inkscape:cy="332.01961"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer14"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -869,6 +869,19 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="rectangle"
+     style="display:none">
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect13120"
+       width="792"
+       height="512"
+       x="0"
+       y="-2" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -6422,15 +6435,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="notations"
-     style="display:none"
-     sodipodi:insensitive="true">
-    <rect
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect13120"
-       width="792"
-       height="504"
-       x="0"
-       y="6" />
+     style="display:none">
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#269be4;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
        d="m 448,128 152,0"
