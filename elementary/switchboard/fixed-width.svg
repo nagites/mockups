@@ -12,7 +12,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="904"
+   width="792"
    height="600"
    id="svg2"
    inkscape:version="0.91+devel+osxmenu r12863"
@@ -35,7 +35,7 @@
      showgrid="false"
      inkscape:zoom="1"
      inkscape:cx="532.15508"
-     inkscape:cy="102.04255"
+     inkscape:cy="302.04255"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -1430,7 +1430,7 @@
        cy="4.625"
        cx="62.625" />
     <linearGradient
-       gradientTransform="translate(24,0)"
+       gradientTransform="translate(24)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient3707-319-631-407-324-3-8"
        id="linearGradient4060-4"
@@ -1699,7 +1699,7 @@
        y1="9"
        x1="16" />
     <linearGradient
-       gradientTransform="translate(-27.661017,0)"
+       gradientTransform="translate(-27.661017)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient3732-7-6"
        id="linearGradient3036"
@@ -1764,7 +1764,7 @@
        cy="8.4497671"
        cx="7.4956832" />
     <linearGradient
-       gradientTransform="translate(41.285715,0)"
+       gradientTransform="translate(41.285715)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient3732-7-6"
        id="linearGradient3857"
@@ -3212,11 +3212,11 @@
        x1="35.004684" />
     <filter
        id="filter6251"
-       color-interpolation-filters="sRGB"
        height="1.0951581"
        width="1.4848505"
        y="-0.047579072"
-       x="-0.24242526">
+       x="-0.24242526"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          id="feGaussianBlur6253"
          stdDeviation="0.24444548" />
@@ -4080,7 +4080,7 @@
        y1="-35.402748"
        x1="-40.587261" />
     <linearGradient
-       gradientTransform="translate(24,0)"
+       gradientTransform="translate(24)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient3707-319-631-407-324-3-8"
        id="linearGradient3106"
@@ -4455,12 +4455,65 @@
        xlink:href="#linearGradient18082"
        id="radialGradient18090"
        cx="9.5172415"
-       cy="24.999692"
+       cy="24.999693"
        fx="9.5172415"
-       fy="24.999692"
-       r="9.5172416"
+       fy="24.999693"
+       r="9.5172415"
        gradientTransform="matrix(1,0,0,0.31521738,0,17.119355)"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="matrix(1.1022033,0,0,1.1022038,-63.55275,-14.715001)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4806-9"
+       id="linearGradient3024-21"
+       y2="40.495617"
+       x2="71.204407"
+       y1="15.369057"
+       x1="71.204407" />
+    <radialGradient
+       gradientTransform="matrix(0.17524541,0,0,0.05575992,-1.37681,18.119145)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3820-7-2-1"
+       id="radialGradient3034"
+       fy="186.17059"
+       fx="99.157013"
+       r="62.769119"
+       cy="186.17059"
+       cx="99.157013" />
+    <radialGradient
+       gradientTransform="matrix(0,1.2316483,-1.625754,0,18.486966,-28.721977)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3093-0-3-6-6"
+       r="20.396999"
+       cy="3.99"
+       cx="23.896">
+      <stop
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1"
+         id="stop3244-9-33-7-0-9" />
+      <stop
+         offset="0.26238"
+         style="stop-color:#dddddd;stop-opacity:1"
+         id="stop3246-3-5-0-8-5" />
+      <stop
+         offset="0.66093999"
+         style="stop-color:#abacae;stop-opacity:1"
+         id="stop3248-1-7-8-8-1" />
+      <stop
+         offset="1"
+         style="stop-color:#89898b;stop-opacity:1"
+         id="stop3250-9-3-0-5-1" />
+    </radialGradient>
+    <radialGradient
+       gradientTransform="matrix(0,2.0431009,-2.6968569,0,26.760726,-47.62282)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#radialGradient3093-0-3-6-6"
+       id="radialGradient3412"
+       fy="3.99"
+       fx="23.896"
+       r="20.396999"
+       cy="3.99"
+       cx="23.896" />
   </defs>
   <metadata
      id="metadata7">
@@ -6120,7 +6173,7 @@
      transform="translate(0,90)">
     <g
        id="g14612"
-       transform="translate(160,152)">
+       transform="translate(160,160)">
       <rect
          style="opacity:0.4;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:0.27058824"
          id="rect14614"
@@ -6146,10 +6199,10 @@
        width="72"
        height="72"
        x="360"
-       y="277.99997" />
+       y="285.99997" />
     <g
        id="g16069"
-       transform="translate(160,248)">
+       transform="translate(160,264)">
       <rect
          style="opacity:0.4;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:0.27058824"
          id="rect16071"
@@ -6300,7 +6353,7 @@
     </g>
     <g
        id="g14604"
-       transform="translate(24,152)">
+       transform="translate(24,160)">
       <rect
          y="30"
          x="64"
@@ -6322,7 +6375,7 @@
     </g>
     <g
        id="g14161"
-       transform="translate(24,-16)">
+       transform="translate(24,-24)">
       <rect
          y="30"
          x="64"
@@ -6342,28 +6395,24 @@
            y="89.869797"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;fill:#626262;fill-opacity:1">Applications</tspan></text>
     </g>
-    <g
-       transform="translate(24,80)"
-       id="g14274">
-      <rect
-         style="opacity:0.4;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:0.27058824"
-         id="rect14276"
-         width="72"
-         height="72"
-         x="64"
-         y="30" />
-      <text
-         id="text14278"
-         y="89.869797"
-         x="99.932617"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#626262;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;fill:#626262;fill-opacity:1"
-           y="89.869797"
-           x="99.932617"
-           sodipodi:role="line"
-           id="tspan14280">Device Colour Profiles</tspan></text>
-    </g>
+    <rect
+       y="110"
+       x="88"
+       height="72"
+       width="72"
+       id="rect14276"
+       style="opacity:0.4;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:0.27058824" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#626262;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       x="123.93262"
+       y="169.8698"
+       id="text14278"><tspan
+         id="tspan14280"
+         sodipodi:role="line"
+         x="123.93262"
+         y="169.8698"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;fill:#626262;fill-opacity:1">Device Colour Profiles</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#626262;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -6383,12 +6432,12 @@
        sodipodi:nodetypes="cc" />
     <text
        id="text10280"
-       y="105.8698"
+       y="97.869797"
        x="39.616211"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#626262;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#626262;fill-opacity:1"
-         y="105.8698"
+         y="97.869797"
          x="39.616211"
          sodipodi:role="line"
          id="tspan10282">Hardware</tspan></text>
@@ -6396,33 +6445,33 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path10284"
-       d="m 112,100.5 640,0"
+       d="m 114,94.5 640,0"
        style="fill:#d0d0d0;fill-opacity:1;fill-rule:evenodd;stroke:#d0d0d0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#626262;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        x="39.616211"
-       y="273.86981"
+       y="281.86981"
        id="text10286"><tspan
          id="tspan10288"
          sodipodi:role="line"
          x="39.616211"
-         y="273.86981"
+         y="281.86981"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#626262;fill-opacity:1">Network and Wireless</tspan></text>
     <path
        style="fill:#d0d0d0;fill-opacity:1;fill-rule:evenodd;stroke:#d0d0d0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 198,270.5 554,0"
+       d="m 198,278.5 554,0"
        id="path10290"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        id="text10292"
-       y="363.86978"
+       y="387.86978"
        x="39.616211"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#626262;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.33333302px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#626262;fill-opacity:1"
-         y="363.86978"
+         y="387.86978"
          x="39.616211"
          sodipodi:role="line"
          id="tspan10294">Administration</tspan></text>
@@ -6430,11 +6479,11 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path10296"
-       d="m 150,360.5 602,0"
+       d="m 150,386.5 602,0"
        style="fill:#d0d0d0;fill-opacity:1;fill-rule:evenodd;stroke:#d0d0d0;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <g
        id="g12381"
-       transform="translate(108,24)">
+       transform="translate(108,16)">
       <rect
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient4196);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
          id="rect5505-2"
@@ -6538,7 +6587,7 @@
     </g>
     <g
        id="layer1-9"
-       transform="translate(379,289)">
+       transform="translate(379,305)">
       <g
          style="display:inline;opacity:0.6"
          id="g2036-4-2"
@@ -6685,13 +6734,13 @@
     </g>
     <g
        id="layer1-87"
-       transform="translate(244.06482,195.81126)">
+       transform="translate(244.06482,203.81126)">
       <path
          style="display:inline;opacity:0.3;fill:url(#radialGradient6706);fill-opacity:1;stroke:none"
          id="path16236"
          transform="matrix(1.1477414,0,0,1.8075756,2.8485246,-42.02351)"
          inkscape:connector-curvature="0"
-         d="m 22.097087,36.863068 a 10.69499,3.5355395 0 1 1 -21.38998041,0 10.69499,3.5355395 0 1 1 21.38998041,0 z" />
+         d="m 22.097087,36.863068 a 10.69499,3.5355415 0 1 1 -21.38998041,0 10.69499,3.5355415 0 1 1 21.38998041,0 z" />
       <path
          style="fill:#2e3436;fill-opacity:1;stroke:#555753;stroke-width:1.78977013;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path5330"
@@ -6785,7 +6834,7 @@
     </g>
     <g
        id="g14166"
-       transform="translate(160,-16)">
+       transform="translate(160,-24)">
       <rect
          style="opacity:0.4;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:0.27058824"
          id="rect14168"
@@ -6806,7 +6855,7 @@
            id="tspan14172">Desktop</tspan></text>
     </g>
     <g
-       transform="translate(296,-16)"
+       transform="translate(296,-24)"
        id="g14174">
       <rect
          y="30"
@@ -6829,7 +6878,7 @@
     </g>
     <g
        id="g14182"
-       transform="translate(432,-16)">
+       transform="translate(432,-24)">
       <rect
          style="opacity:0.4;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:0.27058824"
          id="rect14184"
@@ -6850,7 +6899,7 @@
            id="tspan14188">Language &amp; Region</tspan></text>
     </g>
     <g
-       transform="translate(576,-16)"
+       transform="translate(576,-24)"
        id="g14190">
       <rect
          y="30"
@@ -6873,7 +6922,7 @@
     </g>
     <g
        id="g12620"
-       transform="translate(516,23.999935)">
+       transform="translate(516,15.999935)">
       <g
          style="display:inline;opacity:0.75"
          id="g2036-4-8"
@@ -7000,7 +7049,7 @@
     </g>
     <g
        id="g12723"
-       transform="translate(381,24.000056)">
+       transform="translate(381,16.000056)">
       <g
          style="display:inline"
          id="g2036-3"
@@ -7099,7 +7148,7 @@
     </g>
     <g
        id="layer1-5"
-       transform="translate(243,24)">
+       transform="translate(243,16)">
       <rect
          style="display:inline;overflow:visible;visibility:visible;opacity:0.40206185;fill:url(#linearGradient4352);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none"
          id="rect2512-9-5"
@@ -7208,7 +7257,7 @@
     </g>
     <g
        id="g14057"
-       transform="translate(660,25)">
+       transform="translate(660,17)">
       <rect
          style="opacity:0.3;fill:url(#radialGradient3093);fill-opacity:1;stroke:none"
          id="rect2801-2"
@@ -7391,7 +7440,7 @@
            id="tspan14312">Power</tspan></text>
     </g>
     <g
-       transform="translate(296,152)"
+       transform="translate(296,160)"
        id="g14620">
       <rect
          y="30"
@@ -7414,7 +7463,7 @@
     </g>
     <g
        id="g14680"
-       transform="translate(381,192.00006)">
+       transform="translate(381,200.00006)">
       <g
          style="display:inline"
          id="g14682"
@@ -7591,7 +7640,7 @@
     </g>
     <g
        id="layer1-0"
-       transform="translate(660,107.24967)">
+       transform="translate(660,105.99933)">
       <path
          style="fill:url(#radialGradient4119);fill-opacity:1;stroke:none"
          id="path3818-0-2-8"
@@ -7625,7 +7674,7 @@
     </g>
     <g
        id="g16003"
-       transform="translate(108,193)">
+       transform="translate(108,201)">
       <g
          style="display:inline"
          id="g2036-2-2"
@@ -7749,18 +7798,18 @@
     </g>
     <text
        id="text16029"
-       y="337.86978"
+       y="353.86978"
        x="395.92676"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#626262;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;fill:#626262;fill-opacity:1"
-         y="337.86978"
+         y="353.86978"
          x="395.92676"
          sodipodi:role="line"
          id="tspan16031">Online Accounts</tspan></text>
     <g
        id="g16061"
-       transform="translate(23.999999,248)">
+       transform="translate(24,264)">
       <rect
          y="30"
          x="64"
@@ -7782,7 +7831,7 @@
     </g>
     <g
        id="layer1-4"
-       transform="translate(243,288.5)">
+       transform="translate(243,304.5)">
       <path
          style="fill:url(#radialGradient4210);fill-opacity:1;stroke:none"
          id="path3818-0-2-4"
@@ -7871,7 +7920,7 @@
     </g>
     <g
        id="layer1-53"
-       transform="translate(108,288.99993)">
+       transform="translate(108,304.99993)">
       <path
          style="opacity:0.4;fill:url(#radialGradient4099)"
          id="path3361"
@@ -7926,7 +7975,7 @@
          width="19.046869" />
     </g>
     <g
-       transform="translate(23.999999,344)"
+       transform="translate(24,368)"
        id="g16918">
       <rect
          style="opacity:0.4;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:0.27058824"
@@ -7948,7 +7997,7 @@
            id="tspan16924">Applications</tspan></text>
     </g>
     <g
-       transform="translate(160,344)"
+       transform="translate(160,368)"
        id="g16964">
       <rect
          y="30"
@@ -7971,7 +8020,7 @@
     </g>
     <g
        id="g16972"
-       transform="translate(296,344)">
+       transform="translate(296,368)">
       <rect
          style="opacity:0.4;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:0.27058824"
          id="rect16974"
@@ -7992,7 +8041,7 @@
            id="tspan16978">Notifications</tspan></text>
     </g>
     <g
-       transform="translate(432,344)"
+       transform="translate(432,368)"
        id="g16980">
       <rect
          y="30"
@@ -8015,7 +8064,7 @@
     </g>
     <g
        id="g12234"
-       transform="translate(380,384.00006)">
+       transform="translate(380,408.00006)">
       <path
          d="m 27.000001,28.499422 a 11,3.4999999 0 1 1 -21.9999997,0 11,3.4999999 0 1 1 21.9999997,0 z"
          inkscape:connector-curvature="0"
@@ -8056,7 +8105,7 @@
     </g>
     <g
        id="layer1-2"
-       transform="translate(243,385)"
+       transform="translate(243,409)"
        inkscape:transform-center-x="-41"
        inkscape:transform-center-y="-0.75000001">
       <path
@@ -8108,7 +8157,7 @@
     </g>
     <g
        id="g17687"
-       transform="translate(108,385.50058)">
+       transform="translate(108,409.50058)">
       <path
          style="fill:url(#radialGradient3315-6);fill-opacity:1;stroke:none"
          id="path3818-0-2-88"
@@ -8147,7 +8196,7 @@
     </g>
     <g
        id="g4005"
-       transform="translate(516.19922,385)">
+       transform="translate(516.19922,409)">
       <g
          id="g3996">
         <path
@@ -8228,6 +8277,50 @@
            id="path3906"
            inkscape:connector-curvature="0"
            d="m 20.000002,3.4997762 c -1.578445,-0.031463 -3.034642,1.1664635 -3.388069,2.6909471 -0.233174,1.0034105 -0.04469,2.0406579 0.07761,3.0470577 0.113228,0.6678987 0.192524,1.351298 0.375784,2.000751 0.66871,1.163508 1.691301,2.069914 2.461217,3.157989 0.412903,0.122857 1.079832,0.241399 1.323731,-0.198062 0.691144,-1.019356 1.571217,-1.917699 2.125742,-3.02571 C 23.274472,9.6804095 23.5787,8.1576319 23.470502,6.6280494 23.29848,5.0137106 21.908939,3.6071807 20.272085,3.5103276 c -0.09051,-0.00705 -0.181338,-0.010502 -0.272086,-0.010551 z" />
+      </g>
+    </g>
+    <g
+       id="g21763"
+       transform="translate(108,121.99933)">
+      <path
+         style="fill:url(#radialGradient3034);fill-opacity:1;stroke:none"
+         id="path3818-0-2-7"
+         d="m 27.000001,28.499999 a 11,3.4999999 0 1 1 -21.9999996,0 11,3.4999999 0 1 1 21.9999996,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient3412);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;enable-background:accumulate"
+         id="path2555-7-2"
+         d="M 16,1.5000005 C 7.999402,1.5000005 1.5,7.9993995 1.5,16 1.5,24.0006 7.999402,30.500002 16,30.5 24.000598,30.5 30.500007,24.000599 30.5,16 30.5,7.9993995 24.000598,1.5000005 16,1.5000005 Z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="path2555-7-1-7-8"
+         d="M 16,1.5 C 7.9994,1.5 1.5,7.999399 1.5,15.999999 1.5,24.0006 7.9994,30.500003 16,30.5 24.0006,30.5 30.50001,24.0006 30.5,15.999999 30.5,7.999399 24.0006,1.5 16,1.5 Z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.8;fill:none;stroke:url(#linearGradient3024-21);stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="path3421-37"
+         d="M 29.5,16 C 29.5,23.455845 23.45583,29.5 16,29.5 8.54417,29.5 2.5,23.455845 2.5,16 2.5,8.544157 8.54417,2.5 16,2.5 23.45583,2.5 29.5,8.544157 29.5,16 Z"
+         inkscape:connector-curvature="0" />
+      <g
+         style="opacity:0.5;fill:#ffffff;fill-opacity:1"
+         id="layer15-3"
+         transform="translate(-433,-391.4997)">
+        <path
+           style="color:#000000;fill:#ffffff;fill-opacity:1"
+           id="path35543-6-4-5"
+           d="m 449,402 c -0.22065,0 -0.44081,0.0113 -0.65625,0.0312 l -0.40625,2.0938 c -0.33446,0.0733 -0.66305,0.17589 -0.96875,0.3125 l -1.5312,-1.4688 c -0.38863,0.23011 -0.72695,0.51408 -1.0625,0.8125 l 0.90625,1.9062 c -0.22242,0.24899 -0.42425,0.5225 -0.59375,0.8125 l -2.0938,-0.28125 c -0.17772,0.40877 -0.30872,0.83637 -0.40625,1.2812 l 1.8438,1 c -0.0171,0.16809 -0.0312,0.3274 -0.0312,0.5 0,0.1726 0.0142,0.33191 0.0312,0.5 l -1.8438,1 c 0.0975,0.44488 0.22853,0.87248 0.40625,1.2812 l 2.0938,-0.28125 c 0.1695,0.29 0.37133,0.56351 0.59375,0.8125 l -0.90625,1.9062 c 0.33555,0.29842 0.67387,0.58239 1.0625,0.8125 l 1.5312,-1.4688 c 0.3057,0.13661 0.63429,0.23916 0.96875,0.3125 l 0.40625,2.0938 c 0.21544,0.02 0.4356,0.0312 0.65625,0.0312 0.22065,0 0.44081,-0.0113 0.65625,-0.0312 l 0.40625,-2.0938 c 0.33446,-0.0733 0.66305,-0.17589 0.96875,-0.3125 l 1.5312,1.4688 c 0.38863,-0.23011 0.72695,-0.51408 1.0625,-0.8125 l -0.90625,-1.9062 c 0.22242,-0.24899 0.42425,-0.5225 0.59375,-0.8125 l 2.0938,0.28125 c 0.17772,-0.40877 0.30872,-0.83637 0.40625,-1.2812 l -1.8438,-1 c 0.0171,-0.16809 0.0312,-0.3274 0.0312,-0.5 0,-0.1726 -0.0142,-0.33191 -0.0312,-0.5 l 1.8438,-1 c -0.0975,-0.44488 -0.22853,-0.87248 -0.40625,-1.2812 l -2.0938,0.28125 c -0.1695,-0.29 -0.37133,-0.56351 -0.59375,-0.8125 l 0.90625,-1.9062 c -0.33555,-0.29842 -0.67387,-0.58239 -1.0625,-0.8125 l -1.5312,1.4688 c -0.3057,-0.13661 -0.63429,-0.23916 -0.96875,-0.3125 l -0.40625,-2.0938 C 449.44081,402.0112 449.22065,402 449,402 Z m 0,4 c 1.6568,0 3,1.3432 3,3 0,1.6568 -1.3432,3 -3,3 -1.6568,0 -3,-1.3432 -3,-3 0,-1.6568 1.3432,-3 3,-3 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         style="fill:#323232;fill-opacity:0.58431373"
+         id="layer15"
+         transform="translate(-433,-392.49952)">
+        <path
+           style="color:#000000;fill:#323232;fill-opacity:0.58431373"
+           id="path35543-6-4"
+           d="m 449,402 c -0.22065,0 -0.44081,0.0113 -0.65625,0.0312 l -0.40625,2.0938 c -0.33446,0.0733 -0.66305,0.17589 -0.96875,0.3125 l -1.5312,-1.4688 c -0.38863,0.23011 -0.72695,0.51408 -1.0625,0.8125 l 0.90625,1.9062 c -0.22242,0.24899 -0.42425,0.5225 -0.59375,0.8125 l -2.0938,-0.28125 c -0.17772,0.40877 -0.30872,0.83637 -0.40625,1.2812 l 1.8438,1 c -0.0171,0.16809 -0.0312,0.3274 -0.0312,0.5 0,0.1726 0.0142,0.33191 0.0312,0.5 l -1.8438,1 c 0.0975,0.44488 0.22853,0.87248 0.40625,1.2812 l 2.0938,-0.28125 c 0.1695,0.29 0.37133,0.56351 0.59375,0.8125 l -0.90625,1.9062 c 0.33555,0.29842 0.67387,0.58239 1.0625,0.8125 l 1.5312,-1.4688 c 0.3057,0.13661 0.63429,0.23916 0.96875,0.3125 l 0.40625,2.0938 c 0.21544,0.02 0.4356,0.0312 0.65625,0.0312 0.22065,0 0.44081,-0.0113 0.65625,-0.0312 l 0.40625,-2.0938 c 0.33446,-0.0733 0.66305,-0.17589 0.96875,-0.3125 l 1.5312,1.4688 c 0.38863,-0.23011 0.72695,-0.51408 1.0625,-0.8125 l -0.90625,-1.9062 c 0.22242,-0.24899 0.42425,-0.5225 0.59375,-0.8125 l 2.0938,0.28125 c 0.17772,-0.40877 0.30872,-0.83637 0.40625,-1.2812 l -1.8438,-1 c 0.0171,-0.16809 0.0312,-0.3274 0.0312,-0.5 0,-0.1726 -0.0142,-0.33191 -0.0312,-0.5 l 1.8438,-1 c -0.0975,-0.44488 -0.22853,-0.87248 -0.40625,-1.2812 l -2.0938,0.28125 c -0.1695,-0.29 -0.37133,-0.56351 -0.59375,-0.8125 l 0.90625,-1.9062 c -0.33555,-0.29842 -0.67387,-0.58239 -1.0625,-0.8125 l -1.5312,1.4688 c -0.3057,-0.13661 -0.63429,-0.23916 -0.96875,-0.3125 l -0.40625,-2.0938 C 449.44081,402.0112 449.22065,402 449,402 Z m 0,4 c 1.6568,0 3,1.3432 3,3 0,1.6568 -1.3432,3 -3,3 -1.6568,0 -3,-1.3432 -3,-3 0,-1.6568 1.3432,-3 3,-3 z"
+           inkscape:connector-curvature="0" />
       </g>
     </g>
   </g>
