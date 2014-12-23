@@ -12,7 +12,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="800"
+   width="540"
    height="510"
    id="svg2"
    inkscape:version="0.91+devel+osxmenu r12863"
@@ -35,11 +35,11 @@
      showgrid="false"
      inkscape:zoom="1"
      inkscape:cx="170.44458"
-     inkscape:cy="333.01961"
+     inkscape:cy="332.01961"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="layer6"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -846,6 +846,16 @@
        y1="124.57397"
        x2="558.36224"
        y2="124.57395" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7942-4-7"
+       id="linearGradient13129"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,0.73059956,0.79202568,0,-568.27635,-43.432209)"
+       x1="541.14355"
+       y1="576.39075"
+       x2="19.439564"
+       y2="576.39075" />
   </defs>
   <metadata
      id="metadata7">
@@ -6025,7 +6035,7 @@
          sodipodi:nodetypes="sssssssss"
          id="path12848"
          d="m 110.72656,202.99999 322.54688,0 c 3.72651,0 6.72656,2.676 6.72656,6 l 0,106 c 0,3.324 -3.00005,6 -6.72656,6 l -322.54688,0 c -3.72651,0 -6.72656,-2.676 -6.72656,-6 l 0,-106 c 0,-3.324 3.00005,-6 6.72656,-6 z"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient7567-3);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99992168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient13129);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99992168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
          inkscape:connector-curvature="0" />
       <g
          id="g12921">
@@ -6412,8 +6422,15 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="notations"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect13120"
+       width="792"
+       height="504"
+       x="0"
+       y="6" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#269be4;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
        d="m 448,128 152,0"
