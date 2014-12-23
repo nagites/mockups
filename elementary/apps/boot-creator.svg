@@ -5834,13 +5834,18 @@
        id="text9887"
        y="137.88278"
        x="606.18945"
-       style="display:inline;color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter Bold';text-align:start;text-anchor:start;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter Bold';text-align:start;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        xml:space="preserve"><tspan
-         style="text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;-inkscape-font-specification:'Droid Sans';font-family:'Droid Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1"
          y="137.88278"
          x="606.18945"
          sodipodi:role="line"
-         id="tspan9889">Locally detected images</tspan></text>
+         id="tspan9889">Locally detected images (those</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1"
+         y="152.88278"
+         x="606.18945"
+         sodipodi:role="line"
+         id="tspan9954">that are already downloaded)</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
