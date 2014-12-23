@@ -12,7 +12,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="540"
+   width="800"
    height="510"
    id="svg2"
    inkscape:version="0.91+devel+osxmenu r12863"
@@ -34,12 +34,12 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="352"
-     inkscape:cy="293.66666"
+     inkscape:cx="408.94824"
+     inkscape:cy="374.23441"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer6"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -192,7 +192,7 @@
        width="1.0398182"
        y="-0.030206896"
        height="1.0604138"
-       color-interpolation-filters="sRGB">
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="5.84"
@@ -633,7 +633,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5819,5 +5819,95 @@
          id="path95475"
          style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="notations">
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#269be4;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 448,134 152,0"
+       id="path9885"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text9887"
+       y="137.88278"
+       x="606.18945"
+       style="display:inline;color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter Bold';text-align:start;text-anchor:start;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         style="text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;-inkscape-font-specification:'Droid Sans';font-family:'Droid Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         y="137.88278"
+         x="606.18945"
+         sodipodi:role="line"
+         id="tspan9889">Locally detected images</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9912"
+       d="m 528,466 72,0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#269be4;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter Bold';text-align:start;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       x="606.18945"
+       y="469.88278"
+       id="text9914"><tspan
+         id="tspan9916"
+         sodipodi:role="line"
+         x="606.18945"
+         y="469.88278"
+         style="text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;-inkscape-font-specification:'Droid Sans';font-family:'Droid Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">For filtering out incompatible</tspan><tspan
+         sodipodi:role="line"
+         x="606.18945"
+         y="484.88278"
+         style="text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;-inkscape-font-specification:'Droid Sans';font-family:'Droid Sans';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="tspan9934">image files from the list</tspan></text>
+    <rect
+       style="opacity:1;fill:#269be4;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9940"
+       width="16"
+       height="16"
+       x="440"
+       y="126"
+       ry="8" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path9942"
+       d="m 312,390 288,0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#269be4;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter Bold';text-align:start;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       x="606.18945"
+       y="393.88278"
+       id="text9944"><tspan
+         id="tspan9946"
+         sodipodi:role="line"
+         x="606.18945"
+         y="393.88278"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Option to pick your own image</tspan><tspan
+         sodipodi:role="line"
+         x="606.18945"
+         y="408.88278"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1"
+         id="tspan9952">file</tspan></text>
+    <rect
+       ry="8"
+       y="382"
+       x="304"
+       height="16"
+       width="16"
+       id="rect9948"
+       style="opacity:1;fill:#269be4;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#269be4;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9950"
+       width="16"
+       height="16"
+       x="516"
+       y="458"
+       ry="8" />
   </g>
 </svg>
