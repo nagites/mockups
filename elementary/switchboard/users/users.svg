@@ -17,7 +17,7 @@
    id="svg2"
    inkscape:version="0.91+devel+osxmenu r12863"
    sodipodi:docname="users.svg"
-   inkscape:export-filename="/Users/Sam/SparkleShare/mockups/elementary/switchboard/users/users-plug_delete-user.png"
+   inkscape:export-filename="/Users/Sam/SparkleShare/mockups/elementary/switchboard/users/users-plug_change-password.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <sodipodi:namedview
@@ -34,12 +34,12 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="542.43771"
+     inkscape:cx="349.93771"
      inkscape:cy="318.35028"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="g5479"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -1843,7 +1843,7 @@
        xlink:href="#linearGradient3732-7-6-2"
        id="linearGradient4379"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,2.2892567,0,164.81821,948.36223)"
+       gradientTransform="matrix(0,-1,2.2892567,0,280.81821,948.36223)"
        x1="499.36218"
        y1="132"
        x2="525.36218"
@@ -1853,7 +1853,7 @@
        xlink:href="#linearGradient3789-2-2"
        id="linearGradient4381"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,11.956521,0,-1786.8043,613.50002)"
+       gradientTransform="matrix(0,-1,11.956521,0,-1670.8043,613.50002)"
        x1="165.5"
        y1="188.5"
        x2="189.5"
@@ -1863,7 +1863,7 @@
        xlink:href="#linearGradient5248-3"
        id="linearGradient4383"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-71.92236,299.88282)"
+       gradientTransform="translate(44.07764,299.88282)"
        x1="536"
        y1="150"
        x2="536"
@@ -2634,7 +2634,7 @@
        xlink:href="#linearGradient3732-7-6-2"
        id="linearGradient5833"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,2.2892567,0,164.81821,888.36223)"
+       gradientTransform="matrix(0,-1,2.2892567,0,280.81821,888.36223)"
        x1="499.36218"
        y1="132"
        x2="525.36218"
@@ -2644,7 +2644,7 @@
        xlink:href="#linearGradient3789-2-2"
        id="linearGradient5835"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,11.956521,0,-1786.8043,553.50002)"
+       gradientTransform="matrix(0,-1,11.956521,0,-1670.8043,553.50002)"
        x1="165.5"
        y1="188.5"
        x2="189.5"
@@ -2654,7 +2654,7 @@
        xlink:href="#linearGradient5248-3"
        id="linearGradient5837"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-71.92236,239.88282)"
+       gradientTransform="translate(44.07764,239.88282)"
        x1="536"
        y1="150"
        x2="536"
@@ -2719,6 +2719,19 @@
        y1="150"
        x2="536"
        y2="126" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5993"
+       x="-0.045714286"
+       width="1.0914286"
+       y="-0.087272727"
+       height="1.1745455">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.4"
+         id="feGaussianBlur5995" />
+    </filter>
   </defs>
   <metadata
      id="metadata7">
@@ -5628,7 +5641,7 @@
        inkscape:groupmode="layer"
        id="layer10"
        inkscape:label="delete user"
-       style="display:inline">
+       style="display:none">
       <path
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          d="m 344.72657,222.00022 c -4.20524,0 -7.72656,3.0743 -7.72656,7 l 0,164 c 0,3.92569 3.52132,7 7.72656,7 l 322.54688,0 c 4.20524,0 7.72656,-3.07431 7.72656,-7 l 0,-164 c 0,-3.9257 -3.52132,-7 -7.72656,-7 z m 0,2 322.54688,0 c 3.24778,0 5.72656,2.27769 5.72656,5 l 0,164 c 0,2.7223 -2.47878,5 -5.72656,5 l -322.54688,0 c -3.24778,0 -5.72656,-2.2777 -5.72656,-5 l 0,-164 c 0,-2.72231 2.47878,-5 5.72656,-5 z"
@@ -5859,25 +5872,25 @@
          sodipodi:nodetypes="sssssssss"
          inkscape:connector-curvature="0"
          id="path4228"
-         d="m 348.5,445.50001 0,-19 c 0,-1.662 1.338,-3 3,-3 l 91,0 c 1.662,0 3,1.338 3,3 l 0,19 c 0,1.66199 -1.338,3 -3,3 l -91,0 c -1.662,0 -3,-1.33801 -3,-3 z"
+         d="m 464.5,445.50001 0,-19 c 0,-1.662 1.338,-3 3,-3 l 91,0 c 1.662,0 3,1.338 3,3 l 0,19 c 0,1.66199 -1.338,3 -3,3 l -91,0 c -1.662,0 -3,-1.33801 -3,-3 z"
          style="display:inline;opacity:0.1;fill:none;stroke:url(#linearGradient4379);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="sssssssss"
          inkscape:connector-curvature="0"
          id="path4230"
-         d="m 349.5,445.50001 0,-19 c 0,-1.108 0.892,-2 2,-2 l 91,0 c 1.108,0 2,0.892 2,2 l 0,19 c 0,1.108 -0.892,2 -2,2 l -91,0 c -1.108,0 -2,-0.892 -2,-2 z"
+         d="m 465.5,445.50001 0,-19 c 0,-1.108 0.892,-2 2,-2 l 91,0 c 1.108,0 2,0.892 2,2 l 0,19 c 0,1.108 -0.892,2 -2,2 l -91,0 c -1.108,0 -2,-0.892 -2,-2 z"
          style="display:inline;fill:none;stroke:url(#linearGradient4381);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="sssssssss"
          inkscape:connector-curvature="0"
          id="path4232"
-         d="m 351.51514,425.00782 c -0.82235,0 -1.5,0.67765 -1.5,1.5 l 0,19 c 0,0.82234 0.67765,1.5 1.5,1.5 l 91,0 c 0.82235,0 1.5,-0.67766 1.5,-1.5 l 0,-19 c 0,-0.82235 -0.67765,-1.5 -1.5,-1.5 z"
+         d="m 467.51514,425.00782 c -0.82235,0 -1.5,0.67765 -1.5,1.5 l 0,19 c 0,0.82234 0.67765,1.5 1.5,1.5 l 91,0 c 0.82235,0 1.5,-0.67766 1.5,-1.5 l 0,-19 c 0,-0.82235 -0.67765,-1.5 -1.5,-1.5 z"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4383);fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
       <path
          sodipodi:nodetypes="sssssssss"
          inkscape:connector-curvature="0"
          id="path4234"
-         d="m 350.5,426.50001 0,19 c 0,0.55399 0.446,1 1,1 l 91,0 c 0.554,0 1,-0.44601 1,-1 l 0,-19 c 0,-0.554 -0.446,-1 -1,-1 l -91,0 c -0.554,0 -1,0.446 -1,1 z"
+         d="m 466.5,426.50001 0,19 c 0,0.55399 0.446,1 1,1 l 91,0 c 0.554,0 1,-0.44601 1,-1 l 0,-19 c 0,-0.554 -0.446,-1 -1,-1 l -91,0 c -0.554,0 -1,0.446 -1,1 z"
          style="display:inline;opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
       <text
          inkscape:export-ydpi="90"
@@ -5885,12 +5898,12 @@
          inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
          xml:space="preserve"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         x="397.14941"
+         x="513.14941"
          y="440.84967"
          id="text4236"><tspan
            sodipodi:role="line"
            id="tspan4238"
-           x="397.14941"
+           x="513.14941"
            y="440.84967"
            style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1">Cancel</tspan></text>
       <g
@@ -6367,7 +6380,7 @@
        inkscape:groupmode="layer"
        id="g5479"
        inkscape:label="change password"
-       style="display:none">
+       style="display:inline">
       <path
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          d="m 344.72657,222.00022 c -4.20524,0 -7.72656,3.0743 -7.72656,7 l 0,164 c 0,3.92569 3.52132,7 7.72656,7 l 322.54688,0 c 4.20524,0 7.72656,-3.07431 7.72656,-7 l 0,-164 c 0,-3.9257 -3.52132,-7 -7.72656,-7 z m 0,2 322.54688,0 c 3.24778,0 5.72656,2.27769 5.72656,5 l 0,164 c 0,2.7223 -2.47878,5 -5.72656,5 l -322.54688,0 c -3.24778,0 -5.72656,-2.2777 -5.72656,-5 l 0,-164 c 0,-2.72231 2.47878,-5 5.72656,-5 z"
@@ -6376,7 +6389,7 @@
          sodipodi:nodetypes="ssssssssssssssssss" />
       <path
          inkscape:connector-curvature="0"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99992168;marker:none;filter:url(#filter7462);enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99992168;marker:none;enable-background:accumulate;filter:url(#filter5993)"
          d="m 344.72656,225 322.54688,0 c 3.72651,0 6.72656,2.676 6.72656,6 l 0,164 c 0,3.324 -3.00005,6 -6.72656,6 l -322.54688,0 C 341.00005,401 338,398.324 338,395 l 0,-164 c 0,-3.324 3.00005,-6 6.72656,-6 z"
          id="path5483"
          sodipodi:nodetypes="sssssssss" />
@@ -6388,32 +6401,32 @@
          sodipodi:nodetypes="sssssssss" />
       <path
          style="display:inline;opacity:0.1;fill:none;stroke:url(#linearGradient5833);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
-         d="m 348.5,385.50001 0,-19 c 0,-1.662 1.338,-3 3,-3 l 91,0 c 1.662,0 3,1.338 3,3 l 0,19 c 0,1.66199 -1.338,3 -3,3 l -91,0 c -1.662,0 -3,-1.33801 -3,-3 z"
+         d="m 464.5,385.50001 0,-19 c 0,-1.662 1.338,-3 3,-3 l 91,0 c 1.662,0 3,1.338 3,3 l 0,19 c 0,1.66199 -1.338,3 -3,3 l -91,0 c -1.662,0 -3,-1.33801 -3,-3 z"
          id="path5489"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="sssssssss" />
       <path
          style="display:inline;fill:none;stroke:url(#linearGradient5835);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
-         d="m 349.5,385.50001 0,-19 c 0,-1.108 0.892,-2 2,-2 l 91,0 c 1.108,0 2,0.892 2,2 l 0,19 c 0,1.108 -0.892,2 -2,2 l -91,0 c -1.108,0 -2,-0.892 -2,-2 z"
+         d="m 465.5,385.50001 0,-19 c 0,-1.108 0.892,-2 2,-2 l 91,0 c 1.108,0 2,0.892 2,2 l 0,19 c 0,1.108 -0.892,2 -2,2 l -91,0 c -1.108,0 -2,-0.892 -2,-2 z"
          id="path5491"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="sssssssss" />
       <path
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient5837);fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         d="m 351.51514,365.00782 c -0.82235,0 -1.5,0.67765 -1.5,1.5 l 0,19 c 0,0.82234 0.67765,1.5 1.5,1.5 l 91,0 c 0.82235,0 1.5,-0.67766 1.5,-1.5 l 0,-19 c 0,-0.82235 -0.67765,-1.5 -1.5,-1.5 z"
+         d="m 467.51514,365.00782 c -0.82235,0 -1.5,0.67765 -1.5,1.5 l 0,19 c 0,0.82234 0.67765,1.5 1.5,1.5 l 91,0 c 0.82235,0 1.5,-0.67766 1.5,-1.5 l 0,-19 c 0,-0.82235 -0.67765,-1.5 -1.5,-1.5 z"
          id="path5493"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="sssssssss" />
       <path
          style="display:inline;opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
-         d="m 350.5,366.50001 0,19 c 0,0.55399 0.446,1 1,1 l 91,0 c 0.554,0 1,-0.44601 1,-1 l 0,-19 c 0,-0.554 -0.446,-1 -1,-1 l -91,0 c -0.554,0 -1,0.446 -1,1 z"
+         d="m 466.5,366.50001 0,19 c 0,0.55399 0.446,1 1,1 l 91,0 c 0.554,0 1,-0.44601 1,-1 l 0,-19 c 0,-0.554 -0.446,-1 -1,-1 l -91,0 c -0.554,0 -1,0.446 -1,1 z"
          id="path5495"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="sssssssss" />
       <text
          id="text5497"
          y="380.84967"
-         x="397.14941"
+         x="513.14941"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
          xml:space="preserve"
          inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
@@ -6421,7 +6434,7 @@
          inkscape:export-ydpi="90"><tspan
            style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1"
            y="380.84967"
-           x="397.14941"
+           x="513.14941"
            id="tspan5499"
            sodipodi:role="line">Cancel</tspan></text>
       <path
@@ -7159,7 +7172,8 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="infobar"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        transform="translate(0,90)"
        style="display:inline;fill:#f1f1f1;fill-opacity:1;stroke:none"
