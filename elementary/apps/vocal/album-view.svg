@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="392"
-   height="392"
+   width="400"
+   height="400"
    id="svg4694"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -594,7 +594,7 @@
      id="layer1"
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     transform="translate(0,-208)">
+     transform="translate(0,-200)">
     <path
        style="fill:#363b3e;fill-opacity:1;stroke:none"
        d="m 0,200 400,0 0,400 -400,0 z"
@@ -1255,62 +1255,5 @@ UAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB//Z
        inkscape:label="actions"
        style="display:inline"
        transform="translate(-470.0002,1031.9918)" />
-    <g
-       id="g5728"
-       transform="translate(354,216)">
-      <path
-         style="fill:url(#radialGradient3315);fill-opacity:1;stroke:none"
-         id="path3818-0-2"
-         d="m 27.000001,28.499422 a 11,3.4999999 0 1 1 -21.9999997,0 11,3.4999999 0 1 1 21.9999997,0 z"
-         inkscape:connector-curvature="0" />
-      <path
-         style="color:#000000;fill:url(#radialGradient3092);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path2555"
-         d="M 16.000002,1.4999989 C 7.9994024,1.4999989 1.5,7.9993978 1.5,15.999998 1.5,24.0006 7.9994024,30.500002 16.000002,30.5 24.000599,30.5 30.500007,24.0006 30.5,15.999998 30.5,7.9993978 24.000599,1.4999989 16.000002,1.4999989 z"
-         inkscape:connector-curvature="0" />
-      <path
-         style="opacity:0.5;color:#000000;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#00537d;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path2555-6"
-         d="M 16.000002,1.4999989 C 7.999402,1.4999989 1.5,7.9993981 1.5,15.999999 1.5,24.000599 7.999402,30.500002 16.000002,30.5 24.000598,30.5 30.500008,24.000599 30.5,15.999999 30.5,7.9993981 24.000598,1.4999989 16.000002,1.4999989 z"
-         inkscape:connector-curvature="0" />
-      <path
-         style="opacity:0.5;color:#000000;fill:none;stroke:url(#linearGradient3089);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="path8655"
-         d="m 29.5,15.999521 c 0,7.456085 -6.044601,13.500478 -13.499829,13.500478 C 8.54426,29.499999 2.5,23.455537 2.5,15.999521 2.5,8.5437808 8.54426,2.5000002 16.000171,2.5000002 23.455399,2.5000002 29.5,8.5437808 29.5,15.999521 l 0,0 z"
-         inkscape:connector-curvature="0" />
-    </g>
-    <text
-       sodipodi:linespacing="125%"
-       id="text5741"
-       y="240"
-       x="364.15848"
-       style="font-size:22.09575272px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.15;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-       xml:space="preserve"><tspan
-         y="240"
-         x="364.15848"
-         id="tspan5743"
-         sodipodi:role="line">2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:22.09575272px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.15;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.43236718;stroke-dasharray:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-       x="364.15848"
-       y="240"
-       id="text5745"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5747"
-         x="364.15848"
-         y="240">2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:22.09575272px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-       x="364.15848"
-       y="239"
-       id="text5737"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5739"
-         x="364.15848"
-         y="239">2</tspan></text>
   </g>
 </svg>
