@@ -34,12 +34,12 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="648.44905"
-     inkscape:cy="457.5614"
+     inkscape:cx="-124.10816"
+     inkscape:cy="202.81555"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer5"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -4428,12 +4428,6 @@
      inkscape:label="overscan"
      style="display:inline"
      transform="translate(0,258)">
-    <circle
-       style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path8224"
-       cx="0"
-       cy="126.00001"
-       r="32" />
     <rect
        y="-90.5"
        x="255.5"
@@ -4639,23 +4633,29 @@
          id="layer12" />
     </g>
     <circle
-       r="32"
-       cy="126.00001"
-       cx="1366"
-       id="circle8226"
-       style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       r="32"
-       cy="-258"
+       style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle8232"
        cx="683.00024"
-       id="circle8228"
-       style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       cy="-258"
+       r="16" />
     <circle
        style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle8230"
-       cx="683.00024"
+       id="circle8234"
+       cx="1366"
+       cy="126.00001"
+       r="16" />
+    <circle
+       r="16"
        cy="510"
-       r="32" />
+       cx="683.00024"
+       id="circle8236"
+       style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="16"
+       cy="126.00001"
+       cx="0"
+       id="circle8238"
+       style="opacity:1;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
