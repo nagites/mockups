@@ -34,12 +34,12 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="589.57273"
-     inkscape:cy="350.49019"
+     inkscape:cx="759.13256"
+     inkscape:cy="449.28271"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer8"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -1150,7 +1150,7 @@
     <linearGradient
        id="linearGradient17874"
        osb:paint="solid"
-       gradientTransform="matrix(-0.04461435,0,0,0.0793144,1912.949,612.16402)">
+       gradientTransform="matrix(-0.04461435,0,0,0.0793144,1912.949,642.16402)">
       <stop
          style="stop-color:#505050;stop-opacity:1;"
          offset="0"
@@ -5262,6 +5262,34 @@
      id="layer7"
      inkscape:label="contents"
      style="display:inline">
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:end;text-anchor:end;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       x="691.93457"
+       y="363.84967"
+       id="text10262"><tspan
+         sodipodi:role="line"
+         id="tspan10264"
+         x="691.93457"
+         y="363.84967"
+         style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:end;text-anchor:end;fill:#333333;fill-opacity:1">Resolution:</tspan></text>
+    <text
+       id="text10258"
+       y="393.84967"
+       x="691.93457"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:end;text-anchor:end;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       xml:space="preserve"
+       inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:end;text-anchor:end;fill:#333333;fill-opacity:1"
+         y="393.84967"
+         x="691.93457"
+         id="tspan10260"
+         sodipodi:role="line">Rotation:</tspan></text>
     <path
        id="path9154"
        d="m 464,149.25977 -221,1 0,509.74023 221,1 1,0 0,-511.74023 z"
@@ -5401,22 +5429,12 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssssss" />
     <path
-       style="display:inline;fill:url(#linearGradient17874);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="display:inline;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
        inkscape:transform-center-y="1.3333329"
        d="m 906.99999,361.0447 4,-3.99999 -8,0 z"
        id="path18394-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;display:inline;opacity:1;fill:#292929;fill-opacity:1;stroke:none"
-       x="692.01855"
-       y="363.16187"
-       id="text6653-0-8-5-4-5-5-7-3"><tspan
-         sodipodi:role="line"
-         id="tspan6655-0-8-89-0-0-8-4-2"
-         x="692.01855"
-         y="363.16187">Resolution:</tspan></text>
     <path
        sodipodi:nodetypes="sssssssss"
        inkscape:connector-curvature="0"
@@ -5441,17 +5459,7 @@
        id="path9029-5"
        d="m 906.99999,391.0447 -4,-4 8,0 z"
        inkscape:transform-center-y="1.3333329"
-       style="display:inline;fill:url(#linearGradient17874);fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <text
-       id="text9031-6"
-       y="393.16187"
-       x="692.01855"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;display:inline;opacity:1;fill:#292929;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="393.16187"
-         x="692.01855"
-         id="tspan9033-1"
-         sodipodi:role="line">Rotation:</tspan></text>
+       style="display:inline;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <text
        id="text9041-3"
        y="364.16187"
@@ -5461,7 +5469,7 @@
          y="364.16187"
          x="709.57715"
          id="tspan9043-6"
-         sodipodi:role="line">1366x768</tspan></text>
+         sodipodi:role="line">1366 x 768</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;text-anchor:start;display:inline;opacity:1;fill:#292929;fill-opacity:1;stroke:none"
