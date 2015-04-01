@@ -18,7 +18,34 @@
    inkscape:version="0.91+devel+osxmenu r12897"
    sodipodi:docname="gala-workspaces.svg">
   <defs
-     id="defs4596" />
+     id="defs4596">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5269"
+       x="-0.01378087"
+       width="1.0275617"
+       y="-0.092859377"
+       height="1.1857188">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.40948405"
+         id="feGaussianBlur5271" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5281"
+       x="-0.013483306"
+       width="1.0269666"
+       y="-0.10908042"
+       height="1.2181608">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.23216928"
+         id="feGaussianBlur5283" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -30,14 +57,19 @@
      inkscape:cx="630"
      inkscape:cy="400"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
      inkscape:window-height="970"
      inkscape:window-x="0"
      inkscape:window-y="23"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5249"
+       empspacing="4" />
+  </sodipodi:namedview>
   <metadata
      id="metadata4599">
     <rdf:RDF>
@@ -51,10 +83,12 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="background"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-89.03752)">
+     transform="translate(0,-89.03752)"
+     style="display:inline"
+     sodipodi:insensitive="true">
     <image
        y="89.037506"
        x="-1.8520833"
@@ -12074,5 +12108,69 @@ nh8s6fUzyTXPD3N7Hx6ffvz07s9/+fO7P/3pT+/+P8C4ZnaME3twAAAAAElFTkSuQmCC
        preserveAspectRatio="none"
        height="207.96249"
        width="266.43542" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="overlay">
+    <rect
+       style="opacity:0.01;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5251"
+       width="228.59999"
+       height="173.56667"
+       x="19.049999"
+       y="4.7624998" />
+    <g
+       id="g5285"
+       transform="translate(0,-6.0307584)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5269)"
+         x="132.97276"
+         y="94.559601"
+         id="text5257"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5259"
+           x="132.97276"
+           y="94.559601"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;fill-opacity:1;stroke-width:0.26458332px">Nothing to do?</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5253"
+         y="94.295021"
+         x="132.97276"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#cfcfcf;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#cfcfcf;fill-opacity:1;stroke-width:0.26458332px"
+           y="94.295021"
+           x="132.97276"
+           id="tspan5255"
+           sodipodi:role="line">Nothing to do?</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5277"
+         y="107.78875"
+         x="132.97276"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5281)"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#000000;fill-opacity:1;stroke-width:0.26458332px"
+           y="107.78875"
+           x="132.97276"
+           id="tspan5279"
+           sodipodi:role="line">Open some apps</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#cfcfcf;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="132.97276"
+         y="107.52417"
+         id="text5273"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5275"
+           x="132.97276"
+           y="107.52417"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#cfcfcf;fill-opacity:1;stroke-width:0.26458332px">Open some apps</tspan></text>
+    </g>
   </g>
 </svg>
