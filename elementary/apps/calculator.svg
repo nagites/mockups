@@ -34,12 +34,12 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="376.45447"
-     inkscape:cy="383.08208"
+     inkscape:cx="311.94737"
+     inkscape:cy="178.84873"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer6"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -11116,9 +11116,9 @@
            inkscape:export-ydpi="90"><tspan
              style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
              y="460.29395"
-             x="195.29346"
+             x="196.85205"
              id="tspan9187"
-             sodipodi:role="line">0</tspan></text>
+             sodipodi:role="line">π </tspan></text>
         <text
            inkscape:export-ydpi="90"
            inkscape:export-xdpi="90"
@@ -11132,7 +11132,7 @@
              id="tspan9191"
              x="195.29346"
              y="459.29395"
-             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">0</tspan></text>
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">π</tspan></text>
       </g>
       <g
          style="display:inline;stroke:none"
@@ -11165,7 +11165,9 @@
              id="tspan9201"
              x="195.29346"
              y="459.29395"
-             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">tanh</tspan></text>
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">tan<tspan
+   style="font-style:italic"
+   id="tspan11386">h</tspan></tspan></text>
       </g>
       <g
          style="display:inline;stroke:none"
@@ -11231,7 +11233,9 @@
              y="459.29395"
              x="195.29346"
              id="tspan9221"
-             sodipodi:role="line">cosh</tspan></text>
+             sodipodi:role="line">cos<tspan
+   style="font-style:italic"
+   id="tspan11392">h</tspan></tspan></text>
       </g>
       <g
          style="display:inline;stroke:none"
@@ -11297,7 +11301,9 @@
              id="tspan9241"
              x="195.29346"
              y="459.29395"
-             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">sinh</tspan></text>
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">sin<tspan
+   style="font-style:italic"
+   id="tspan11390">h</tspan></tspan></text>
       </g>
       <g
          style="display:inline;stroke:none"
