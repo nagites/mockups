@@ -34,7 +34,7 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="631.75197"
+     inkscape:cx="351.75197"
      inkscape:cy="203.8183"
      inkscape:window-x="0"
      inkscape:window-y="23"
@@ -81,7 +81,7 @@
        xlink:href="#linearGradient3732-7-6"
        id="linearGradient7954-5"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.9388889,0,0,0.02409639,-131.35556,148.8675)"
+       gradientTransform="matrix(1.9388889,0,0,0.02409639,-113.35556,128.8675)"
        x1="210"
        y1="130"
        x2="210"
@@ -133,7 +133,7 @@
        xlink:href="#3619"
        id="linearGradient7167-6-9"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(11.813285,0,0,1,-617.70777,-111.08431)"
+       gradientTransform="matrix(11.813285,0,0,1,-599.70777,-131.08431)"
        x1="104.40901"
        y1="217.43742"
        x2="104.40901"
@@ -171,7 +171,7 @@
        id="linearGradient10946"
        xlink:href="#linearGradient10919"
        inkscape:collect="always"
-       gradientTransform="translate(-35,56)" />
+       gradientTransform="translate(-17,36)" />
     <linearGradient
        id="linearGradient4467-3-0-0-0-0-4-0-6-0-271-771-913-5-2-1-9">
       <stop
@@ -7303,7 +7303,7 @@
   </g>
   <g
      transform="translate(0,-50)"
-     style="display:inline"
+     style="display:none"
      inkscape:label="header"
      id="g12064"
      inkscape:groupmode="layer">
@@ -7311,35 +7311,35 @@
        sodipodi:nodetypes="sccccss"
        inkscape:connector-curvature="0"
        id="path12066"
-       d="m 19.827148,102.38278 c -2.216,0 -4,1.784 -4,4 l 0,44 290.000002,0 0,-44 c 0,-2.216 -1.784,-4 -4,-4 z"
+       d="m 37.827148,82.38278 c -2.216,0 -4,1.784 -4,4 l 0,44 290.000002,0 0,-44 c 0,-2.216 -1.784,-4 -4,-4 z"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient7167-6-9);fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path12068"
-       d="m 16,150 290,0 0,2 -290,0 z"
+       d="m 34,130 290,0 0,2 -290,0 z"
        style="display:inline;opacity:0.15;fill:url(#linearGradient7954-5);fill-opacity:1;stroke:none" />
     <path
        inkscape:connector-curvature="0"
        style="display:inline;opacity:0.2;fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 16,149.5 290,0"
+       d="m 34,129.5 290,0"
        id="path12070"
        sodipodi:nodetypes="cc" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path12072"
-       d="m 16,150.4514 289.99997,0"
+       d="m 34,130.4514 289.99997,0"
        style="display:inline;fill:none;stroke:#8d8d8d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="sssssssss"
        inkscape:connector-curvature="0"
        id="path12074"
-       d="M 19.499996,102.5 302.5,102.5 c 1.662,0 3,1.338 3,3 l 0,10 c 0,1.662 -1.338,3 -3,3 l -283.000004,0 c -1.662,0 -3,-1.338 -3,-3 l 0,-10 c 0,-1.662 1.338,-3 3,-3 z"
+       d="M 37.499996,82.5 320.5,82.5 c 1.662,0 3,1.338 3,3 l 0,10 c 0,1.662 -1.338,3 -3,3 l -283.000004,0 c -1.662,0 -3,-1.338 -3,-3 l 0,-10 c 0,-1.662 1.338,-3 3,-3 z"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.8;fill:none;stroke:url(#linearGradient10946);stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <g
        style="fill:#454545;fill-opacity:1"
-       transform="translate(23.999995,118)"
+       transform="translate(41.999995,98)"
        id="g12076">
       <path
          d="m 4.8814786,4.0082925 c -0.2252363,0 -0.4518548,0.077632 -0.6237043,0.2494817 -0.3436992,0.343699 -0.3436992,0.9037095 0,1.2474086 L 6.7525914,7.9999999 4.2577743,10.494817 c -0.3436989,0.3437 -0.3436989,0.903709 0,1.247409 0.3437,0.343698 0.9037086,0.343698 1.2474085,0 L 8,9.2474085 10.494817,11.742226 c 0.3437,0.343698 0.903709,0.343698 1.247409,0 0.343699,-0.3437 0.343699,-0.903709 0,-1.247409 L 9.2474085,7.9999999 11.742226,5.5051828 c 0.343699,-0.3436991 0.343699,-0.9037096 0,-1.2474086 -0.343699,-0.3436989 -0.90371,-0.3436989 -1.247409,0 L 8,6.7525914 5.5051828,4.2577742 C 5.3333333,4.0859246 5.1067148,4.0082925 4.8814786,4.0082925 Z"
@@ -7349,7 +7349,7 @@
     </g>
     <g
        id="g12080"
-       transform="translate(23.999995,119)"
+       transform="translate(41.999995,99)"
        style="opacity:0.2;fill:#ffffff;fill-opacity:1">
       <path
          style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
@@ -7360,40 +7360,40 @@
     <text
        sodipodi:linespacing="125%"
        id="text12084"
-       y="73.882782"
-       x="372"
+       y="53.882782"
+       x="390"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="73.882782"
-         x="372"
+         y="53.882782"
+         x="390"
          id="tspan12086"
          sodipodi:role="line" /></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter Bold';display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       x="156"
-       y="130.88278"
+       x="174"
+       y="110.88278"
        id="text12088"><tspan
          style="color:#000000;text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
          sodipodi:role="line"
          id="tspan12090"
-         x="156"
-         y="130.88278">Calculator</tspan></text>
+         x="174"
+         y="110.88278">Calculator</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter Bold';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#6d6d6d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       x="156"
-       y="129.88278"
+       x="174"
+       y="109.88278"
        id="text12092"><tspan
          id="tspan12094"
          sodipodi:role="line"
-         x="156"
-         y="129.88278"
+         x="174"
+         y="109.88278"
          style="text-align:center;text-anchor:middle;fill:#6d6d6d;fill-opacity:1">Calculator</tspan></text>
     <g
        style="display:inline;opacity:0.4;fill:#ffffff;fill-opacity:1;stroke-width:0.66666669"
        id="g6648"
-       transform="matrix(1.5,0,0,1.5,230,114.5)">
+       transform="matrix(1.5,0,0,1.5,248,94.5)">
       <g
          transform="translate(-273.0004,-28)"
          style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.66666669"
@@ -7445,7 +7445,7 @@
     <g
        style="display:inline;opacity:0.4;fill:#ffffff;fill-opacity:1;stroke-width:0.66666669"
        id="g6668"
-       transform="matrix(1.5,0,0,1.5,268.5003,114.5)">
+       transform="matrix(1.5,0,0,1.5,286.5003,94.5)">
       <g
          transform="translate(-473.0004,-168)"
          style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.66666669"
@@ -7497,7 +7497,7 @@
       </g>
     </g>
     <g
-       transform="matrix(1.5,0,0,1.5,230,113.5)"
+       transform="matrix(1.5,0,0,1.5,248,93.5)"
        id="g6688"
        style="display:inline;fill:#636363;fill-opacity:1;stroke-width:0.66666669">
       <g
@@ -7549,7 +7549,7 @@
       </g>
     </g>
     <g
-       transform="matrix(1.5,0,0,1.5,268.5003,113.5)"
+       transform="matrix(1.5,0,0,1.5,286.5003,93.5)"
        id="g6708"
        style="display:inline;fill:#636363;fill-opacity:1;stroke-width:0.66666669">
       <g
