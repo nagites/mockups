@@ -12,7 +12,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="480"
+   width="500"
    height="480"
    id="svg2"
    inkscape:version="0.91+devel+osxmenu r12897"
@@ -39,7 +39,7 @@
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="g7000"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -1331,8 +1331,18 @@
        gradientTransform="translate(18,-12)" />
     <linearGradient
        inkscape:collect="always"
+       xlink:href="#linearGradient6780"
+       id="linearGradient9503"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(18,-12)"
+       x1="160"
+       y1="146"
+       x2="160"
+       y2="106" />
+    <linearGradient
+       inkscape:collect="always"
        xlink:href="#linearGradient3732-7-6"
-       id="linearGradient6994"
+       id="linearGradient9505"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-1,2.2892567,0,-57.18179,980.36222)"
        x1="497.36221"
@@ -1342,7 +1352,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5221-1-5-5"
-       id="linearGradient6996"
+       id="linearGradient9507"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,-1,-293.92236,576.13282)"
        x1="536"
@@ -1352,7 +1362,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5418"
-       id="linearGradient6998"
+       id="linearGradient9509"
        gradientUnits="userSpaceOnUse"
        x1="196"
        y1="429.5"
@@ -6104,7 +6114,7 @@
          id="tspan4089-7-2-9-9-81"
          sodipodi:role="line" /></text>
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6786);fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient9503);fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        d="m 37.826172,74.38281 c -2.216,0 -4,1.784 -4,4 l 0,42 0.173828,0 0,381.65625 290,0 0,-388.16797 -0.17188,0 0,-35.48828 c 0,-2.216 -1.78399,-4 -4,-4 z"
        id="rect7875-6"
        inkscape:connector-curvature="0"
@@ -10913,528 +10923,525 @@
          id="flowPara9139" /></flowRoot>    <g
        inkscape:groupmode="layer"
        id="layer6"
-       inkscape:label="content" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer5"
-     inkscape:label="sidepane content"
-     style="display:inline">
-    <use
-       style="display:inline"
-       height="100%"
-       width="100%"
-       transform="translate(210,-30)"
-       id="use9157"
-       xlink:href="#g12109"
-       y="0"
-       x="0" />
-    <use
-       style="display:inline"
-       height="100%"
-       width="100%"
-       transform="translate(210,-30)"
-       id="use9159"
-       xlink:href="#use12119"
-       y="0"
-       x="0" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       xlink:href="#g12109"
-       id="use9161"
-       transform="translate(210,-86)"
-       width="100%"
-       height="100%" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       xlink:href="#use12119"
-       id="use9163"
-       transform="translate(210,-86)"
-       width="100%"
-       height="100%" />
-    <use
-       style="display:inline"
-       height="100%"
-       width="100%"
-       transform="translate(210,-142)"
-       id="use9165"
-       xlink:href="#g12109"
-       y="0"
-       x="0" />
-    <use
-       style="display:inline"
-       height="100%"
-       width="100%"
-       transform="translate(210,-142)"
-       id="use9167"
-       xlink:href="#use12119"
-       y="0"
-       x="0" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       xlink:href="#g12109"
-       id="use9169"
-       transform="translate(210,-198)"
-       width="100%"
-       height="100%" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       xlink:href="#use12119"
-       id="use9171"
-       transform="translate(210,-198)"
-       width="100%"
-       height="100%" />
-    <g
-       style="display:inline;stroke:none"
-       transform="translate(227,-34)"
-       id="g9173">
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         xml:space="preserve"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
-         x="195.29346"
-         y="460.29395"
-         id="text9175"><tspan
-           sodipodi:role="line"
-           id="tspan9177"
+       inkscape:label="content"
+       style="display:inline">
+      <use
+         style="display:inline"
+         height="100%"
+         width="100%"
+         transform="translate(210,20)"
+         id="use9157"
+         xlink:href="#g12109"
+         y="0"
+         x="0" />
+      <use
+         style="display:inline"
+         height="100%"
+         width="100%"
+         transform="translate(210,20)"
+         id="use9159"
+         xlink:href="#use12119"
+         y="0"
+         x="0" />
+      <use
+         style="display:inline"
+         x="0"
+         y="0"
+         xlink:href="#g12109"
+         id="use9161"
+         transform="translate(210,-36)"
+         width="100%"
+         height="100%" />
+      <use
+         style="display:inline"
+         x="0"
+         y="0"
+         xlink:href="#use12119"
+         id="use9163"
+         transform="translate(210,-36)"
+         width="100%"
+         height="100%" />
+      <use
+         style="display:inline"
+         height="100%"
+         width="100%"
+         transform="translate(210,-92)"
+         id="use9165"
+         xlink:href="#g12109"
+         y="0"
+         x="0" />
+      <use
+         style="display:inline"
+         height="100%"
+         width="100%"
+         transform="translate(210,-92)"
+         id="use9167"
+         xlink:href="#use12119"
+         y="0"
+         x="0" />
+      <use
+         style="display:inline"
+         x="0"
+         y="0"
+         xlink:href="#g12109"
+         id="use9169"
+         transform="translate(210,-148)"
+         width="100%"
+         height="100%" />
+      <use
+         style="display:inline"
+         x="0"
+         y="0"
+         xlink:href="#use12119"
+         id="use9171"
+         transform="translate(210,-148)"
+         width="100%"
+         height="100%" />
+      <g
+         style="display:inline;stroke:none"
+         transform="translate(227,16)"
+         id="g9173">
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           xml:space="preserve"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
            x="195.29346"
            y="460.29395"
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">e</tspan></text>
-      <text
-         id="text9179"
-         y="459.29395"
-         x="195.29346"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         xml:space="preserve"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           id="text9175"><tspan
+             sodipodi:role="line"
+             id="tspan9177"
+             x="195.29346"
+             y="460.29395"
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">e</tspan></text>
+        <text
+           id="text9179"
            y="459.29395"
            x="195.29346"
-           id="tspan9181"
-           sodipodi:role="line">e</tspan></text>
-    </g>
-    <g
-       style="display:inline;stroke:none"
-       id="g9183"
-       transform="translate(158,-34)">
-      <text
-         id="text9185"
-         y="460.29395"
-         x="195.29346"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
-         xml:space="preserve"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+           xml:space="preserve"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+             y="459.29395"
+             x="195.29346"
+             id="tspan9181"
+             sodipodi:role="line">e</tspan></text>
+      </g>
+      <g
+         style="display:inline;stroke:none"
+         id="g9183"
+         transform="translate(158,16)">
+        <text
+           id="text9185"
            y="460.29395"
            x="195.29346"
-           id="tspan9187"
-           sodipodi:role="line">0</tspan></text>
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         xml:space="preserve"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         x="195.29346"
-         y="459.29395"
-         id="text9189"><tspan
-           sodipodi:role="line"
-           id="tspan9191"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+           xml:space="preserve"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+             y="460.29395"
+             x="195.29346"
+             id="tspan9187"
+             sodipodi:role="line">0</tspan></text>
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           xml:space="preserve"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
            x="195.29346"
            y="459.29395"
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">0</tspan></text>
-    </g>
-    <g
-       style="display:inline;stroke:none"
-       id="g9193"
-       transform="translate(227,-90)">
-      <text
-         id="text9195"
-         y="460.29395"
-         x="195.29346"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
-         xml:space="preserve"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+           id="text9189"><tspan
+             sodipodi:role="line"
+             id="tspan9191"
+             x="195.29346"
+             y="459.29395"
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">0</tspan></text>
+      </g>
+      <g
+         style="display:inline;stroke:none"
+         id="g9193"
+         transform="translate(227,-40)">
+        <text
+           id="text9195"
            y="460.29395"
            x="195.29346"
-           id="tspan9197"
-           sodipodi:role="line">tanh</tspan></text>
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         xml:space="preserve"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         x="195.29346"
-         y="459.29395"
-         id="text9199"><tspan
-           sodipodi:role="line"
-           id="tspan9201"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+           xml:space="preserve"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+             y="460.29395"
+             x="195.29346"
+             id="tspan9197"
+             sodipodi:role="line">tanh</tspan></text>
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           xml:space="preserve"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
            x="195.29346"
            y="459.29395"
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">tanh</tspan></text>
-    </g>
-    <g
-       style="display:inline;stroke:none"
-       transform="translate(158,-90)"
-       id="g9203">
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         xml:space="preserve"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
-         x="195.29346"
-         y="460.29395"
-         id="text9205"><tspan
-           sodipodi:role="line"
-           id="tspan9207"
+           id="text9199"><tspan
+             sodipodi:role="line"
+             id="tspan9201"
+             x="195.29346"
+             y="459.29395"
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">tanh</tspan></text>
+      </g>
+      <g
+         style="display:inline;stroke:none"
+         transform="translate(158,-40)"
+         id="g9203">
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           xml:space="preserve"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
            x="195.29346"
            y="460.29395"
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">tan</tspan></text>
-      <text
-         id="text9209"
-         y="459.29395"
-         x="195.29346"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         xml:space="preserve"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           id="text9205"><tspan
+             sodipodi:role="line"
+             id="tspan9207"
+             x="195.29346"
+             y="460.29395"
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">tan</tspan></text>
+        <text
+           id="text9209"
            y="459.29395"
            x="195.29346"
-           id="tspan9211"
-           sodipodi:role="line">tan</tspan></text>
-    </g>
-    <g
-       style="display:inline;stroke:none"
-       transform="translate(227,-146)"
-       id="g9213">
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         xml:space="preserve"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
-         x="195.29346"
-         y="460.29395"
-         id="text9215"><tspan
-           sodipodi:role="line"
-           id="tspan9217"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+           xml:space="preserve"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+             y="459.29395"
+             x="195.29346"
+             id="tspan9211"
+             sodipodi:role="line">tan</tspan></text>
+      </g>
+      <g
+         style="display:inline;stroke:none"
+         transform="translate(227,-96)"
+         id="g9213">
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           xml:space="preserve"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
            x="195.29346"
            y="460.29395"
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">cosh</tspan></text>
-      <text
-         id="text9219"
-         y="459.29395"
-         x="195.29346"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         xml:space="preserve"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           id="text9215"><tspan
+             sodipodi:role="line"
+             id="tspan9217"
+             x="195.29346"
+             y="460.29395"
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">cosh</tspan></text>
+        <text
+           id="text9219"
            y="459.29395"
            x="195.29346"
-           id="tspan9221"
-           sodipodi:role="line">cosh</tspan></text>
-    </g>
-    <g
-       style="display:inline;stroke:none"
-       id="g9223"
-       transform="translate(158,-146)">
-      <text
-         id="text9225"
-         y="460.29395"
-         x="195.29346"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
-         xml:space="preserve"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+           xml:space="preserve"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+             y="459.29395"
+             x="195.29346"
+             id="tspan9221"
+             sodipodi:role="line">cosh</tspan></text>
+      </g>
+      <g
+         style="display:inline;stroke:none"
+         id="g9223"
+         transform="translate(158,-96)">
+        <text
+           id="text9225"
            y="460.29395"
            x="195.29346"
-           id="tspan9227"
-           sodipodi:role="line">cos</tspan></text>
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         xml:space="preserve"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         x="195.29346"
-         y="459.29395"
-         id="text9229"><tspan
-           sodipodi:role="line"
-           id="tspan9231"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+           xml:space="preserve"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+             y="460.29395"
+             x="195.29346"
+             id="tspan9227"
+             sodipodi:role="line">cos</tspan></text>
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           xml:space="preserve"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
            x="195.29346"
            y="459.29395"
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">cos</tspan></text>
-    </g>
-    <g
-       style="display:inline;stroke:none"
-       id="g9233"
-       transform="translate(227,-202)">
-      <text
-         id="text9235"
-         y="460.29395"
-         x="195.29346"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
-         xml:space="preserve"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+           id="text9229"><tspan
+             sodipodi:role="line"
+             id="tspan9231"
+             x="195.29346"
+             y="459.29395"
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">cos</tspan></text>
+      </g>
+      <g
+         style="display:inline;stroke:none"
+         id="g9233"
+         transform="translate(227,-152)">
+        <text
+           id="text9235"
            y="460.29395"
            x="195.29346"
-           id="tspan9237"
-           sodipodi:role="line">sinh</tspan></text>
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         xml:space="preserve"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         x="195.29346"
-         y="459.29395"
-         id="text9239"><tspan
-           sodipodi:role="line"
-           id="tspan9241"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+           xml:space="preserve"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+             y="460.29395"
+             x="195.29346"
+             id="tspan9237"
+             sodipodi:role="line">sinh</tspan></text>
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           xml:space="preserve"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
            x="195.29346"
            y="459.29395"
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">sinh</tspan></text>
-    </g>
-    <g
-       style="display:inline;stroke:none"
-       transform="translate(158,-202)"
-       id="g9243">
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         xml:space="preserve"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
-         x="195.29346"
-         y="460.29395"
-         id="text9245"><tspan
-           sodipodi:role="line"
-           id="tspan9247"
+           id="text9239"><tspan
+             sodipodi:role="line"
+             id="tspan9241"
+             x="195.29346"
+             y="459.29395"
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">sinh</tspan></text>
+      </g>
+      <g
+         style="display:inline;stroke:none"
+         transform="translate(158,-152)"
+         id="g9243">
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           xml:space="preserve"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
            x="195.29346"
            y="460.29395"
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">sin</tspan></text>
-      <text
-         id="text9249"
-         y="459.29395"
-         x="195.29346"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         xml:space="preserve"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           id="text9245"><tspan
+             sodipodi:role="line"
+             id="tspan9247"
+             x="195.29346"
+             y="460.29395"
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">sin</tspan></text>
+        <text
+           id="text9249"
            y="459.29395"
            x="195.29346"
-           id="tspan9251"
-           sodipodi:role="line">sin</tspan></text>
-    </g>
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g12109"
-       id="use9302"
-       transform="translate(210,-254)"
-       width="100%"
-       height="100%"
-       style="display:inline" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use12119"
-       id="use9304"
-       transform="translate(210,-254)"
-       width="100%"
-       height="100%"
-       style="display:inline" />
-    <use
-       height="100%"
-       width="100%"
-       transform="translate(210,-310)"
-       id="use9306"
-       xlink:href="#g12109"
-       y="0"
-       x="0"
-       style="display:inline" />
-    <use
-       height="100%"
-       width="100%"
-       transform="translate(210,-310)"
-       id="use9308"
-       xlink:href="#use12119"
-       y="0"
-       x="0"
-       style="display:inline" />
-    <g
-       id="g9310"
-       transform="translate(227,-258)"
-       style="display:inline;stroke:none">
-      <text
-         id="text9312"
-         y="460.29395"
-         x="195.29346"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
-         xml:space="preserve"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+           xml:space="preserve"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+             y="459.29395"
+             x="195.29346"
+             id="tspan9251"
+             sodipodi:role="line">sin</tspan></text>
+      </g>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g12109"
+         id="use9302"
+         transform="translate(210,-204)"
+         width="100%"
+         height="100%"
+         style="display:inline" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#use12119"
+         id="use9304"
+         transform="translate(210,-204)"
+         width="100%"
+         height="100%"
+         style="display:inline" />
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(210,-260)"
+         id="use9306"
+         xlink:href="#g12109"
+         y="0"
+         x="0"
+         style="display:inline" />
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(210,-260)"
+         id="use9308"
+         xlink:href="#use12119"
+         y="0"
+         x="0"
+         style="display:inline" />
+      <g
+         id="g9310"
+         transform="translate(227,-208)"
+         style="display:inline;stroke:none">
+        <text
+           id="text9312"
            y="460.29395"
            x="195.29346"
-           id="tspan9314"
-           sodipodi:role="line">√</tspan></text>
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         xml:space="preserve"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         x="195.29346"
-         y="459.29395"
-         id="text9316"><tspan
-           sodipodi:role="line"
-           id="tspan9318"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+           xml:space="preserve"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+             y="460.29395"
+             x="195.29346"
+             id="tspan9314"
+             sodipodi:role="line">√</tspan></text>
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           xml:space="preserve"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
            x="195.29346"
            y="459.29395"
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">√</tspan></text>
-    </g>
-    <g
-       transform="translate(158,-258)"
-       id="g9320"
-       style="display:inline;stroke:none">
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         xml:space="preserve"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
-         x="195.29346"
-         y="460.29395"
-         id="text9322"><tspan
-           sodipodi:role="line"
-           id="tspan9324"
+           id="text9316"><tspan
+             sodipodi:role="line"
+             id="tspan9318"
+             x="195.29346"
+             y="459.29395"
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">√</tspan></text>
+      </g>
+      <g
+         transform="translate(158,-208)"
+         id="g9320"
+         style="display:inline;stroke:none">
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           xml:space="preserve"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
            x="195.29346"
            y="460.29395"
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">^</tspan></text>
-      <text
-         id="text9326"
-         y="459.29395"
-         x="195.29346"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         xml:space="preserve"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           id="text9322"><tspan
+             sodipodi:role="line"
+             id="tspan9324"
+             x="195.29346"
+             y="460.29395"
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">^</tspan></text>
+        <text
+           id="text9326"
            y="459.29395"
            x="195.29346"
-           id="tspan9328"
-           sodipodi:role="line">^</tspan></text>
-    </g>
-    <g
-       transform="translate(227,-316)"
-       id="g9330"
-       style="display:inline;stroke:none">
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         xml:space="preserve"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
-         x="195.29346"
-         y="460.29395"
-         id="text9332"><tspan
-           sodipodi:role="line"
-           id="tspan9334"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+           xml:space="preserve"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+             y="459.29395"
+             x="195.29346"
+             id="tspan9328"
+             sodipodi:role="line">^</tspan></text>
+      </g>
+      <g
+         transform="translate(227,-266)"
+         id="g9330"
+         style="display:inline;stroke:none">
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           xml:space="preserve"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
            x="195.29346"
            y="460.29395"
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">)</tspan></text>
-      <text
-         id="text9336"
-         y="459.29395"
-         x="195.29346"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         xml:space="preserve"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           id="text9332"><tspan
+             sodipodi:role="line"
+             id="tspan9334"
+             x="195.29346"
+             y="460.29395"
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">)</tspan></text>
+        <text
+           id="text9336"
            y="459.29395"
            x="195.29346"
-           id="tspan9338"
-           sodipodi:role="line">)</tspan></text>
-    </g>
-    <g
-       id="g9340"
-       transform="translate(158,-316)"
-       style="display:inline;stroke:none">
-      <text
-         id="text9342"
-         y="460.29395"
-         x="195.29346"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
-         xml:space="preserve"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+           xml:space="preserve"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+             y="459.29395"
+             x="195.29346"
+             id="tspan9338"
+             sodipodi:role="line">)</tspan></text>
+      </g>
+      <g
+         id="g9340"
+         transform="translate(158,-266)"
+         style="display:inline;stroke:none">
+        <text
+           id="text9342"
            y="460.29395"
            x="195.29346"
-           id="tspan9344"
-           sodipodi:role="line">(</tspan></text>
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-         xml:space="preserve"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         x="195.29346"
-         y="459.29395"
-         id="text9346"><tspan
-           sodipodi:role="line"
-           id="tspan9348"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-opacity:1;marker:none;enable-background:accumulate"
+           xml:space="preserve"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+             y="460.29395"
+             x="195.29346"
+             id="tspan9344"
+             sodipodi:role="line">(</tspan></text>
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           xml:space="preserve"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
            x="195.29346"
            y="459.29395"
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">(</tspan></text>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="430.5"
-       y="422.75"
-       id="text9350"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan9352"
+           id="text9346"><tspan
+             sodipodi:role="line"
+             id="tspan9348"
+             x="195.29346"
+             y="459.29395"
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none">(</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="430.5"
-         y="422.75" /></text>
+         y="422.75"
+         id="text9350"
+         sodipodi:linespacing="125%"
+         transform="translate(0,50)"><tspan
+           sodipodi:role="line"
+           id="tspan9352"
+           x="430.5"
+           y="422.75" /></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -11450,7 +11457,7 @@
          inkscape:connector-curvature="0"
          id="path5489"
          d="m 162.5,477.5 0,-47 c 0,-1.662 1.338,-3 3,-3 l 61,0 c 1.662,0 3,1.338 3,3 l 0,47 c 0,1.662 -1.338,3 -3,3 l -61,0 c -1.662,0 -3,-1.338 -3,-3 z"
-         style="display:inline;opacity:0.1;fill:none;stroke:url(#linearGradient6994);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+         style="display:inline;opacity:0.1;fill:none;stroke:url(#linearGradient9505);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="sssssssss"
          inkscape:connector-curvature="0"
@@ -11462,13 +11469,13 @@
          inkscape:connector-curvature="0"
          id="path5493"
          d="m 165.51514,479.00782 c -0.82235,0 -1.5,-0.67765 -1.5,-1.5 l 0,-47 c 0,-0.82233 0.67765,-1.5 1.5,-1.5 l 61,0 c 0.82235,0 1.5,0.67767 1.5,1.5 l 0,47 c 0,0.82235 -0.67765,1.5 -1.5,1.5 z"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient6996);fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient9507);fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
       <path
          sodipodi:nodetypes="sssssssss"
          inkscape:connector-curvature="0"
          id="path5495"
          d="m 164.5,430.5 0,47 c 0,0.55399 0.446,1 1,1 l 61,0 c 0.554,0 1,-0.44601 1,-1 l 0,-47 c 0,-0.55399 -0.446,-1 -1,-1 l -61,0 c -0.554,0 -1,0.44601 -1,1 z"
-         style="display:inline;opacity:0.3;fill:none;stroke:url(#linearGradient6998);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+         style="display:inline;opacity:0.3;fill:none;stroke:url(#linearGradient9509);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
     </g>
     <path
        style="display:inline;opacity:0.1;fill:none;stroke:url(#linearGradient5839);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
