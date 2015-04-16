@@ -34,8 +34,8 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="585.98317"
-     inkscape:cy="221.10891"
+     inkscape:cx="425.98317"
+     inkscape:cy="181.10891"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -5176,7 +5176,7 @@
          x="345.84619"
          id="tspan39844"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#444444;fill-opacity:1">Wireless</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#444444;fill-opacity:1">Wifi Network</tspan></text>
     <g
        style="display:inline"
        id="g33342-6"
@@ -6206,7 +6206,7 @@
     </g>
     <g
        style="display:inline"
-       transform="translate(397.21888,-83.999996)"
+       transform="translate(396.71573,-83.999996)"
        id="g56012-8">
       <g
          style="display:inline"
@@ -7246,6 +7246,17 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;display:inline;fill:#333333;fill-opacity:1;stroke:none"
+       x="772.57422"
+       y="25.117188"
+       id="text31835-1"><tspan
+         sodipodi:role="line"
+         id="tspan31837-9"
+         x="772.57422"
+         y="25.117188"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:end;text-anchor:end">Wireless:</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8167,7 +8178,7 @@
          sodipodi:role="line"
          id="tspan22993-3"
          x="75.846207"
-         y="58.697266">Wireless</tspan></text>
+         y="58.697266">Wi-Fi Network</tspan></text>
     <text
        id="text30012-5"
        y="73.822266"
@@ -8270,7 +8281,7 @@
     <g
        style="display:inline"
        id="g33342"
-       transform="translate(-179.5063,395.00021)">
+       transform="translate(-180,395.00021)">
       <g
          id="layer1-7"
          inkscape:label="Layer 1"
