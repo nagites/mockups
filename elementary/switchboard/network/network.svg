@@ -34,12 +34,12 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="596.25188"
-     inkscape:cy="332.54668"
+     inkscape:cx="320.5"
+     inkscape:cy="409.5"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer7"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -59,6 +59,18 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient14586">
+      <stop
+         style="stop-color:#f5f5f5;stop-opacity:1;"
+         offset="0"
+         id="stop14588" />
+      <stop
+         style="stop-color:#eeeeee;stop-opacity:1"
+         offset="1"
+         id="stop14590" />
+    </linearGradient>
     <linearGradient
        id="linearGradient5305">
       <stop
@@ -2920,6 +2932,15 @@
        y1="6.2375584"
        x2="71.204407"
        y2="44.340794" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14586"
+       id="linearGradient14592"
+       x1="464"
+       y1="536"
+       x2="464"
+       y2="576"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata7">
@@ -5749,7 +5770,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.35;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
        d="m 22.5,-28.240082 196,0 0,511.740082 -196,0 z"
        id="rect26188"
        inkscape:connector-curvature="0"
@@ -5786,17 +5807,17 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path19971"
-       d="m 23,412 195,0 0,21 -195,0 z"
+       d="m 23,420 195,0 0,21 -195,0 z"
        style="display:inline;fill:#f1f1f1;fill-opacity:1;stroke:none" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path19973"
-       d="m 23,411 195,0 0,1 -195,0 z"
+       d="m 23,419 195,0 0,1 -195,0 z"
        style="display:inline;fill:#999999;fill-opacity:1;stroke:none" />
     <g
        style="display:inline;fill:#555555;fill-opacity:1"
-       transform="translate(-32,-312)"
+       transform="translate(-32,-304)"
        id="g19975">
       <path
          d="m 67,729 0,4 -4,0 0,2 4,0 0,4 2,0 0,-4 4,0 0,-2 -4,0 0,-4 -2,0 z"
@@ -5806,10 +5827,10 @@
     </g>
     <path
        sodipodi:nodetypes="ccccccccccccc"
-       d="m 57,421 0,0 -4,0 0,2 4,0 0,0 2,0 0,0 4,0 0,-2 -4,0 0,0 z"
+       d="m 57,429 0,0 -4,0 0,2 4,0 0,0 2,0 0,0 4,0 0,-2 -4,0 0,0 z"
        inkscape:connector-curvature="0"
        id="path19979"
-       style="color:#bebebe;display:inline;fill:#555555;fill-opacity:1" />
+       style="color:#bebebe;display:inline;fill:#555555;fill-opacity:1;opacity:0.5" />
     <g
        id="g8259"
        transform="translate(32.999992,-14.975609)">
@@ -6259,6 +6280,24 @@
          id="tspan7884"
          x="76.846176"
          y="163.82227">Not Connected</tspan></text>
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;opacity:0.1"
+       d="m 23,420 195,0 0,1 -195,0 z"
+       id="path14594"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path14596"
+       d="m 23,421 195,0 0,1 -195,0 z"
+       style="display:inline;opacity:0.02;fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="display:inline;opacity:0.05;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 23,440 195,0 0,1 -195,0 z"
+       id="path14598"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6266,28 +6305,28 @@
      inkscape:label="toolbar"
      style="display:inline">
     <path
-       style="display:inline;opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 23.5,524 857,0 0,48 -857,0 z"
+       style="display:inline;opacity:1;fill:url(#linearGradient14592);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 23,532 857,0 0,41 -857,0 z"
        id="rect26190"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="display:inline;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 23,523 858,0 0,1 -858,0 z"
+       style="display:inline;opacity:1;fill:#aaaaaa;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 23,531 858,0 0,1 -858,0 z"
        id="rect26192"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';display:inline;fill:#333333;fill-opacity:1;stroke:none"
-       x="716.69849"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;display:inline;fill:#333333;fill-opacity:1;stroke:none"
+       x="798.67505"
        y="557.03503"
        id="text31835"><tspan
          sodipodi:role="line"
          id="tspan31837"
-         x="716.69849"
+         x="798.67505"
          y="557.03503"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold'">Do No Disturb</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:end;text-anchor:end">Airplane Mode</tspan></text>
     <g
        style="display:inline"
        id="g33342"
