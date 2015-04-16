@@ -15,7 +15,7 @@
    width="900"
    height="600"
    id="svg2"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91+devel+osxmenu r12897"
    sodipodi:docname="network.svg"
    inkscape:export-filename="/Users/Sam/SparkleShare/mockups/elementary/switchboard/users/users-plug_change-password.png"
    inkscape:export-xdpi="96"
@@ -29,17 +29,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1364"
-     inkscape:window-height="710"
+     inkscape:window-width="1920"
+     inkscape:window-height="971"
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="356.62324"
+     inkscape:cx="181.62324"
      inkscape:cy="297.56497"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer7"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -2816,7 +2816,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6015,6 +6015,48 @@
          inkscape:connector-curvature="0"
          d="m 10.801322,38.255047 c 1.20655,-0.816329 2.838554,-1.640402 5.198651,-1.604198 2.335375,-0.03582 3.773604,0.646201 5.089371,1.514822" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;text-anchor:start;display:inline;fill:#444444;fill-opacity:1;stroke:none"
+       x="75.846207"
+       y="46.697266"
+       id="text22991-1"><tspan
+         style="font-weight:bold;font-size:13.33333302px;-inkscape-font-specification:'Droid Sans Bold';fill:#444444;fill-opacity:1"
+         sodipodi:role="line"
+         id="tspan22993-3"
+         x="75.846207"
+         y="46.697266">Wireless Network</tspan></text>
+    <text
+       id="text30012-5"
+       y="61.822266"
+       x="76.846176"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;text-anchor:start;display:inline;fill:#444444;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="61.822266"
+         x="76.846176"
+         id="tspan30014-5"
+         sodipodi:role="line">Not Connected</tspan></text>
+    <text
+       id="text7842"
+       y="46.697266"
+       x="75.846207"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;text-anchor:start;display:inline;fill:#444444;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="46.697266"
+         x="75.846207"
+         id="tspan7844"
+         sodipodi:role="line"
+         style="font-weight:bold;font-size:13.33333302px;-inkscape-font-specification:'Droid Sans Bold';fill:#444444;fill-opacity:1">Wireless Network</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;text-anchor:start;display:inline;fill:#444444;fill-opacity:1;stroke:none"
+       x="76.846176"
+       y="61.822266"
+       id="text7846"><tspan
+         sodipodi:role="line"
+         id="tspan7848"
+         x="76.846176"
+         y="61.822266">Not Connected</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
