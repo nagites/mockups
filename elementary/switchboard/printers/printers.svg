@@ -34,12 +34,12 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="386.98432"
-     inkscape:cy="294.11464"
+     inkscape:cx="470.55062"
+     inkscape:cy="215.47674"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="layer11"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -4320,6 +4320,36 @@
        id="linearGradient3860"
        xlink:href="#linearGradient3904"
        inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5248"
+       id="linearGradient27676"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-48.92236,200.88281)"
+       x1="536"
+       y1="150"
+       x2="536"
+       y2="126" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3789-2"
+       id="linearGradient27678"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-1,11.956521,0,-1763.8043,514.50001)"
+       x1="165.5"
+       y1="188.5"
+       x2="189.5"
+       y2="188.5" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient29849"
+       id="linearGradient27680"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-1,2.2892567,0,187.81821,849.3622)"
+       x1="499.36218"
+       y1="132"
+       x2="525.36218"
+       y2="132" />
   </defs>
   <metadata
      id="metadata7">
@@ -6029,7 +6059,8 @@
      id="layer5"
      inkscape:label="contents"
      style="display:inline"
-     transform="translate(0,90)">
+     transform="translate(0,90)"
+     sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
        id="layer16"
@@ -8111,7 +8142,8 @@
      id="layer7"
      inkscape:label="sidebar"
      style="display:inline"
-     transform="translate(0,90)">
+     transform="translate(0,90)"
+     sodipodi:insensitive="true">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        d="m 22.5,-26.240082 216,0 0,489.740082 -216,0 z"
@@ -8740,52 +8772,42 @@
   <g
      inkscape:groupmode="layer"
      id="layer11"
-     inkscape:label="warning"
-     style="display:none">
+     inkscape:label="no printers"
+     style="display:inline">
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path22700"
-       d="m 239,57.915787 641,0 0,515.168423 -641,0 z"
+       d="m 23,57.915787 857,0 0,515.168423 -857,0 z"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
-    <path
-       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 23,63 215,0 0,354 -215,0 z"
-       id="rect37354"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
     <text
-       x="397.00781"
-       y="273.19528"
+       x="363.00781"
+       y="253.19528"
        id="text4736-1"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none"
        sodipodi:linespacing="125%"><tspan
-         x="397.00781"
-         y="273.19528"
+         x="363.00781"
+         y="253.19528"
          id="tspan4738-3"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:24px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:start;writing-mode:lr-tb;text-anchor:start">No Printers Detected</tspan><tspan
-         x="397.00781"
-         y="273.19528"
+         x="363.00781"
+         y="253.19528"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:24px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan8136" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot57240-7"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(232.29687,16.19529)"><flowRegion
+       transform="translate(198.29687,-3.80471)"><flowRegion
          id="flowRegion57242-2"><rect
            id="rect57244-1"
            width="456"
            height="152.94238"
            x="165"
            y="290" /></flowRegion><flowPara
-         id="flowPara57250"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#545454;fill-opacity:1">You have no printers :(</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#545454;fill-opacity:1"
-         id="flowPara8138" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#545454;fill-opacity:1"
-         id="flowPara8140">Add one.</flowPara><flowPara
+         id="flowPara8140">You appear have no printers installed.</flowPara><flowPara
          id="flowPara57252"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#545454;fill-opacity:1" /><flowPara
          id="flowPara57254"
@@ -8846,7 +8868,7 @@
     <g
        style="display:inline"
        id="g7889"
-       transform="translate(335.91525,242)">
+       transform="translate(299.91525,222)">
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -8952,6 +8974,48 @@
          id="rect3991-7"
          d="m 39,25 2,0 0,2 -2,0 z"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0cceff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+    </g>
+    <g
+       id="g27686"
+       transform="translate(33,0)">
+      <path
+         style="display:inline;opacity:0.1;fill:none;stroke:url(#linearGradient27680);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+         d="m 359.5,346.5 0,-19 c 0,-1.662 1.338,-3 3,-3 l 111,0 c 1.662,0 3,1.338 3,3 l 0,19 c 0,1.66199 -1.338,3 -3,3 l -111,0 c -1.662,0 -3,-1.33801 -3,-3 z"
+         id="path27652"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <path
+         style="display:inline;fill:none;stroke:url(#linearGradient27678);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+         d="m 360.5,346.5 0,-19 c 0,-1.108 0.892,-2 2,-2 l 111,0 c 1.108,0 2,0.892 2,2 l 0,19 c 0,1.108 -0.892,2 -2,2 l -111,0 c -1.108,0 -2,-0.892 -2,-2 z"
+         id="path27654"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient27676);fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         d="m 362.51514,326.00781 c -0.82235,0 -1.5,0.67765 -1.5,1.5 l 0,19 c 0,0.82234 0.67765,1.5 1.5,1.5 l 111,0 c 0.82235,0 1.5,-0.67766 1.5,-1.5 l 0,-19 c 0,-0.82235 -0.67765,-1.5 -1.5,-1.5 z"
+         id="path27656"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <path
+         style="display:inline;opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+         d="m 361.5,327.5 0,19 c 0,0.55399 0.446,1 1,1 l 111,0 c 0.554,0 1,-0.44601 1,-1 l 0,-19 c 0,-0.554 -0.446,-1 -1,-1 l -111,0 c -0.554,0 -1,0.446 -1,1 z"
+         id="path27658"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <text
+         id="text27660"
+         y="341.84967"
+         x="418.11719"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         xml:space="preserve"
+         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1"
+           y="341.84967"
+           x="418.11719"
+           id="tspan27662"
+           sodipodi:role="line">Add a new printer</tspan></text>
     </g>
   </g>
   <g
