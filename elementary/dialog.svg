@@ -39,7 +39,7 @@
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer1"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -754,27 +754,32 @@
      transform="translate(0,-110)">
     <g
        inkscape:groupmode="layer"
-       id="layer10"
-       inkscape:label="content"
-       style="display:inline">
+       id="layer1"
+       inkscape:label="background">
       <path
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.3;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         style="display:inline;color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;overflow:visible;visibility:visible;opacity:0.3;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m 38.72657,204.00021 c -4.20524,0 -7.72656,3.0743 -7.72656,7 l 0,186 c 0,3.92569 3.52132,7 7.72656,7 l 322.54688,0 c 4.20524,0 7.72656,-3.07431 7.72656,-7 l 0,-186 c 0,-3.9257 -3.52132,-7 -7.72656,-7 z m 0,2 322.54688,0 c 3.24778,0 5.72656,2.27769 5.72656,5 l 0,186 c 0,2.7223 -2.47878,5 -5.72656,5 l -322.54688,0 c -3.24778,0 -5.72656,-2.2777 -5.72656,-5 l 0,-186 c 0,-2.72231 2.47878,-5 5.72656,-5 z"
          id="rect7454"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ssssssssssssssssss" />
       <path
          inkscape:connector-curvature="0"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99992168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate;filter:url(#filter5910)"
+         style="display:inline;color:#000000;overflow:visible;visibility:visible;opacity:0.3;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99992168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate;filter:url(#filter5910)"
          d="m 38.72656,206.99999 322.54688,0 c 3.72651,0 6.72656,2.676 6.72656,6 l 0,186 c 0,3.324 -3.00005,6 -6.72656,6 l -322.54688,0 c -3.72651,0 -6.72656,-2.676 -6.72656,-6 l 0,-186 c 0,-3.324 3.00005,-6 6.72656,-6 z"
          id="rect7456"
          sodipodi:nodetypes="sssssssss" />
       <path
          inkscape:connector-curvature="0"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient7567-3);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99992168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="display:inline;color:#000000;overflow:visible;visibility:visible;fill:url(#linearGradient7567-3);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99992168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
          d="m 38.72656,204.99999 322.54688,0 c 3.72651,0 6.72656,2.676 6.72656,6 l 0,186 c 0,3.324 -3.00005,6 -6.72656,6 l -322.54688,0 c -3.72651,0 -6.72656,-2.676 -6.72656,-6 l 0,-186 c 0,-3.324 3.00005,-6 6.72656,-6 z"
          id="rect4903"
          sodipodi:nodetypes="sssssssss" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer10"
+       inkscape:label="content"
+       style="display:inline">
       <g
          id="g8653">
         <path
@@ -843,27 +848,27 @@
            inkscape:export-xdpi="90"
            inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
            xml:space="preserve"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate;text-anchor:middle;text-align:center;"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
            x="306.06738"
            y="385.84967"
            id="text12419"><tspan
              sodipodi:role="line"
              id="tspan12421"
-             x="275.13281"
+             x="306.06738"
              y="385.84967"
-             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';fill:#000000;fill-opacity:1;text-anchor:middle;text-align:center;">Blue Button</tspan></text>
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">Blue Button</tspan></text>
         <text
            id="text4695"
            y="384.84967"
            x="306.06738"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate;text-anchor:middle;text-align:center;"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
            xml:space="preserve"
            inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
            inkscape:export-xdpi="90"
            inkscape:export-ydpi="90"><tspan
-             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';fill:#ffffff;fill-opacity:1;text-anchor:middle;text-align:center;"
+             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
              y="384.84967"
-             x="275.13281"
+             x="306.06738"
              id="tspan4697"
              sodipodi:role="line">Blue Button</tspan></text>
         <path
