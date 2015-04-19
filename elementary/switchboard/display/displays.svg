@@ -34,12 +34,12 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="613.0895"
-     inkscape:cy="409.75085"
+     inkscape:cx="458.44692"
+     inkscape:cy="346.34563"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="layer5"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -3318,36 +3318,6 @@
        y1="14"
        x2="17"
        y2="10" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5248"
-       id="linearGradient19160-1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-22.92236,316.88281)"
-       x1="536"
-       y1="150"
-       x2="536"
-       y2="126" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3789-2"
-       id="linearGradient19162-5"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,11.956521,0,-1737.8043,630.50001)"
-       x1="165.5"
-       y1="188.5"
-       x2="189.5"
-       y2="188.5" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient29849"
-       id="linearGradient19164-3"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,2.2892567,0,213.81821,965.36222)"
-       x1="499.36218"
-       y1="132"
-       x2="525.36218"
-       y2="132" />
     <linearGradient
        gradientTransform="matrix(0.24324324,0,0,0.35135133,2.1621636,-0.43242804)"
        gradientUnits="userSpaceOnUse"
@@ -6955,9 +6925,9 @@
       <g
          style="display:inline"
          id="g4919"
-         transform="translate(281.00006,-1)">
+         transform="translate(281.00006,1)">
         <path
-           style="display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:url(#radialGradient3001-8);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.80000001;marker:none"
+           style="display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:url(#radialGradient3001-8);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.80000001;marker:none"
            id="path2589-0"
            inkscape:connector-curvature="0"
            d="m 38,44 c 0,1.656855 -6.268014,3 -14.000001,3 C 16.268013,47 10,45.656855 10,44 10,42.343146 16.268013,41 23.999999,41 31.731986,41 38,42.343146 38,44 l 0,0 z" />
@@ -7170,44 +7140,6 @@
          clip-path="url(#clipPath10333)"
          transform="translate(-212,-367)" />
     </g>
-    <path
-       style="display:inline;opacity:0.1;fill:none;stroke:url(#linearGradient19164-3);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
-       d="m 385.5,462.5 0,-19 c 0,-1.662 1.338,-3 3,-3 l 111,0 c 1.662,0 3,1.338 3,3 l 0,19 c 0,1.66199 -1.338,3 -3,3 l -111,0 c -1.662,0 -3,-1.33801 -3,-3 z"
-       id="path41340-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssssss" />
-    <path
-       style="display:inline;fill:none;stroke:url(#linearGradient19162-5);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
-       d="m 386.5,462.5 0,-19 c 0,-1.108 0.892,-2 2,-2 l 111,0 c 1.108,0 2,0.892 2,2 l 0,19 c 0,1.108 -0.892,2 -2,2 l -111,0 c -1.108,0 -2,-0.892 -2,-2 z"
-       id="path41342-7"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssssss" />
-    <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient19160-1);fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 388.51514,442.00781 c -0.82235,0 -1.5,0.67765 -1.5,1.5 l 0,19 c 0,0.82234 0.67765,1.5 1.5,1.5 l 111,0 c 0.82235,0 1.5,-0.67766 1.5,-1.5 l 0,-19 c 0,-0.82235 -0.67765,-1.5 -1.5,-1.5 z"
-       id="path41344-8"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssssss" />
-    <path
-       style="display:inline;opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
-       d="m 387.5,443.5 0,19 c 0,0.55399 0.446,1 1,1 l 111,0 c 0.554,0 1,-0.44601 1,-1 l 0,-19 c 0,-0.554 -0.446,-1 -1,-1 l -111,0 c -0.554,0 -1,0.446 -1,1 z"
-       id="path41346-6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssssssss" />
-    <text
-       id="text41348-4"
-       y="457.84967"
-       x="446.14941"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       xml:space="preserve"
-       inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1"
-         y="457.84967"
-         x="446.14941"
-         id="tspan41350-1"
-         sodipodi:role="line">Print a Test Page...</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
