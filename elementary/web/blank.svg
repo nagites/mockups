@@ -1635,10 +1635,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="411.50956"
+     inkscape:cx="91.509561"
      inkscape:cy="1325.4858"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
      inkscape:snap-global="true"
@@ -1681,6 +1681,10 @@
        position="840,1360"
        orientation="1,0"
        id="guide5809" />
+    <sodipodi:guide
+       position="32,1296"
+       orientation="0,1"
+       id="guide5811" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -1714,7 +1718,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,307.63782)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        x="1971.2668"
        y="-41.317272"
@@ -2727,9 +2732,4 @@
          id="tspan5795"
          sodipodi:role="line">Get Involved</tspan></text>
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="columns"
-     style="display:inline" />
 </svg>
