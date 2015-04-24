@@ -17,7 +17,7 @@
    id="svg2"
    inkscape:version="0.91+devel+osxmenu r12897"
    sodipodi:docname="dialog_server-connect.svg"
-   inkscape:export-filename="/Users/Sam/SparkleShare/mockups/elementary/apps/boot-creator/boot-creator.png"
+   inkscape:export-filename="/Users/Sam/SparkleShare/mockups/elementary/dialog_server-connect.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <sodipodi:namedview
@@ -39,7 +39,7 @@
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer1"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -971,18 +971,6 @@
          id="rect4903"
          sodipodi:nodetypes="sssssssss" />
       <path
-         inkscape:connector-curvature="0"
-         d="M 20.97018,179.55597 23.5,177 25,178.5 22.40143,180.98722 25,183.5 23.5,185 20.98722,182.40143 18.5,185 17,183.5 19.58579,181 17,178.5 18.5,177 Z"
-         id="path9926"
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0.4;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         sodipodi:nodetypes="ccccccccccccc" />
-      <path
-         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#aaaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-         id="path2386"
-         d="M 20.97018,178.55597 23.5,176 25,177.5 22.40143,179.98722 25,182.5 23.5,184 20.98722,181.40143 18.5,184 17,182.5 19.58579,180 17,177.5 18.5,176 Z"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccccccccccc" />
-      <path
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#b5b5b5;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 24.5,342.5 352,0 0,104 -352,0 z"
          id="rect6617"
@@ -1300,7 +1288,7 @@
            id="tspan4732"
            x="111"
            y="298"
-           style="fill:#555555;fill-opacity:1">foo.example.org/bar</tspan></text>
+           style="fill:#555555;fill-opacity:1">foo.example.org:/bar</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:170.00000477%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555555;fill-opacity:1;stroke:none"
