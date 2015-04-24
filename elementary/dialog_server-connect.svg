@@ -39,7 +39,7 @@
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer10"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -984,42 +984,42 @@
          sodipodi:nodetypes="ccccccccccccc" />
       <path
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#b5b5b5;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 20.5,340.5 360,0 0,104 -360,0 z"
+         d="m 24.5,342.5 352,0 0,104 -352,0 z"
          id="rect6617"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
       <path
          style="opacity:0.05;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 20,340 360,0 0,24 -360,0 z"
+         d="m 24,342 352,0 0,24 -352,0 z"
          id="rect6672"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:189.99999762%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#666666;fill-opacity:1;stroke:none"
-         x="28.000031"
-         y="334.99969"
+         x="32.000031"
+         y="336.99969"
          id="text5931-3"
          sodipodi:linespacing="190%"><tspan
            sodipodi:role="line"
            id="tspan5933-6"
-           x="28.000031"
-           y="334.99969" /><tspan
+           x="32.000031"
+           y="336.99969" /><tspan
            sodipodi:role="line"
-           x="28.000031"
-           y="357.79968"
-           id="tspan5974-7">smb://192.168.0.134/media</tspan><tspan
+           x="32.000031"
+           y="359.79968"
+           id="tspan5974-7">smb://192.168.0.134/stuff</tspan><tspan
            sodipodi:role="line"
-           x="28.000031"
-           y="380.5997"
+           x="32.000031"
+           y="382.5997"
            id="tspan5935-9">ftp://43.22.114.55</tspan><tspan
            sodipodi:role="line"
-           x="28.000031"
-           y="403.39969"
+           x="32.000031"
+           y="405.39969"
            id="tspan5949-0">ftp://ftp/elementary.org/</tspan></text>
       <path
          style="opacity:0.05;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 20,388 360,0 0,24 -360,0 z"
+         d="m 24,390 352,0 0,24 -352,0 z"
          id="rect6674"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
@@ -1305,13 +1305,13 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:170.00000477%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#555555;fill-opacity:1;stroke:none"
          x="20.998047"
-         y="332"
+         y="331"
          id="text6826"
          sodipodi:linespacing="170%"><tspan
            sodipodi:role="line"
            id="tspan6828"
            x="20.998047"
-           y="332"
+           y="331"
            style="text-align:start;text-anchor:start;fill:#555555;fill-opacity:1">Recent connections</tspan></text>
     </g>
   </g>
