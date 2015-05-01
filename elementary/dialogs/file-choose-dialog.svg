@@ -34,8 +34,8 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="315.09586"
-     inkscape:cy="513.10897"
+     inkscape:cx="624.7713"
+     inkscape:cy="335.10696"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="0"
@@ -797,6 +797,27 @@
          stdDeviation="5.97"
          id="feGaussianBlur4448" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8332-2-6"
+       id="linearGradient25493"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(11.874085,0,0,0.84,-428.34132,-397.43193)"
+       x1="91.163322"
+       y1="454.77618"
+       x2="91.163322"
+       y2="480.7785" />
+    <linearGradient
+       id="linearGradient8332-2-6">
+      <stop
+         style="stop-color:#fafafa;stop-opacity:1;"
+         offset="0"
+         id="stop8334-5-2" />
+      <stop
+         style="stop-color:#dddddd;stop-opacity:1"
+         offset="1"
+         id="stop8336-3-9" />
+    </linearGradient>
   </defs>
   <metadata
      id="metadata7">
@@ -885,12 +906,153 @@
            inkscape:connector-curvature="0" />
       </g>
       <path
-         transform="scale(-1,1)"
          style="opacity:0.02000002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m -170,-6 138,0 0,363 -138,0 z"
          id="rect4439"
          inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         transform="scale(-1,1)" />
+      <path
+         transform="scale(1,-1)"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient25493);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         d="m 171,-15 597,0 0,21 -597,0 z"
+         id="rect8330-1"
+         inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4471"
+         d="m 171,15.5 597.99999,0"
+         style="display:inline;opacity:0.3;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:198.00000191%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#666666;fill-opacity:1;stroke:none"
+         x="178"
+         y="-15.000313"
+         id="text5931"
+         sodipodi:linespacing="198%"><tspan
+           sodipodi:role="line"
+           id="tspan5933"
+           x="178"
+           y="-15.000313" /><tspan
+           sodipodi:role="line"
+           x="178"
+           y="8.7596874"
+           id="tspan5972"
+           style="font-weight:bold">Name</tspan><tspan
+           sodipodi:role="line"
+           x="178"
+           y="32.519688"
+           id="tspan5974">Track 1</tspan><tspan
+           sodipodi:role="line"
+           x="178"
+           y="56.279686"
+           id="tspan5935">Track 2</tspan><tspan
+           sodipodi:role="line"
+           x="178"
+           y="80.039688"
+           id="tspan5937">Track 3</tspan><tspan
+           sodipodi:role="line"
+           x="178"
+           y="103.79969"
+           id="tspan5939">Track 4</tspan><tspan
+           sodipodi:role="line"
+           x="178"
+           y="127.55969"
+           id="tspan5941">Track 5</tspan><tspan
+           sodipodi:role="line"
+           x="178"
+           y="151.31969"
+           id="tspan5943">Track 6</tspan><tspan
+           sodipodi:role="line"
+           x="178"
+           y="175.07968"
+           id="tspan5945">Track 7</tspan><tspan
+           sodipodi:role="line"
+           x="178"
+           y="198.83969"
+           id="tspan5947">Track 8</tspan><tspan
+           sodipodi:role="line"
+           x="178"
+           y="222.59969"
+           id="tspan5949">Track 9</tspan></text>
+      <path
+         style="opacity:0.16000001;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 705.5,-6 0,21"
+         id="path6010"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="opacity:0.16000001;fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 706.5,-6 0,21"
+         id="path6010-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         sodipodi:linespacing="198%"
+         id="text4509"
+         y="-15.000313"
+         x="714"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:198.00000191%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';letter-spacing:0px;word-spacing:0px;display:inline;fill:#666666;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="-15.000313"
+           x="714"
+           id="tspan4511"
+           sodipodi:role="line" /><tspan
+           style="font-weight:bold"
+           id="tspan4513"
+           y="8.7596874"
+           x="714"
+           sodipodi:role="line">Name</tspan><tspan
+           id="tspan4515"
+           y="32.519688"
+           x="714"
+           sodipodi:role="line">Track 1</tspan><tspan
+           id="tspan4517"
+           y="56.279686"
+           x="714"
+           sodipodi:role="line">Track 2</tspan><tspan
+           id="tspan4519"
+           y="80.039688"
+           x="714"
+           sodipodi:role="line">Track 3</tspan><tspan
+           id="tspan4521"
+           y="103.79969"
+           x="714"
+           sodipodi:role="line">Track 4</tspan><tspan
+           id="tspan4523"
+           y="127.55969"
+           x="714"
+           sodipodi:role="line">Track 5</tspan><tspan
+           id="tspan4525"
+           y="151.31969"
+           x="714"
+           sodipodi:role="line">Track 6</tspan><tspan
+           id="tspan4527"
+           y="175.07968"
+           x="714"
+           sodipodi:role="line">Track 7</tspan><tspan
+           id="tspan4529"
+           y="198.83969"
+           x="714"
+           sodipodi:role="line">Track 8</tspan><tspan
+           id="tspan4531"
+           y="222.59969"
+           x="714"
+           sodipodi:role="line">Track 9</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4546"
+         d="m 605.5,-6 0,21"
+         style="opacity:0.16000001;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4548"
+         d="m 606.5,-6 0,21"
+         style="opacity:0.16000001;fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <g
        inkscape:groupmode="layer"
