@@ -1793,7 +1793,7 @@
        xlink:href="#linearGradient3924-4-8"
        id="linearGradient17246"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-1,0,0,1,720.99999,-63.79059)"
+       gradientTransform="matrix(-1,0,0,1,940.99999,-63.79059)"
        x1="105.47171"
        y1="283.47653"
        x2="105.99999"
@@ -1807,7 +1807,7 @@
        x2="647"
        y2="486"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-20,-244)" />
+       gradientTransform="translate(200,-244)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient100992"
@@ -12311,24 +12311,24 @@
     </g>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient17254);fill-opacity:1;fill-rule:nonzero;stroke:#afafaf;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       d="m 665.72279,218.50001 9.46875,11.6875 -9.46875,11.3125 -4.25,0 -87.97279,0 c -1.10799,0 -2,-0.892 -2,-2 l 0,-19 c 0,-1.108 0.89201,-2 2,-2 l 87.81654,0 z"
+       d="m 885.72279,218.50001 9.46875,11.6875 -9.46875,11.3125 -4.25,0 -87.97279,0 c -1.10799,0 -2,-0.892 -2,-2 l 0,-19 c 0,-1.108 0.89201,-2 2,-2 l 87.81654,0 z"
        id="path17232"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccssccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:none;stroke:url(#linearGradient17246);stroke-width:0.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       d="m 665.372,219.50001 8.60079,10.6875 -8.65782,10.3125 -91.81497,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-19 c 0,-0.554 0.446,-1 1,-1 z"
+       d="m 885.372,219.50001 8.60079,10.6875 -8.65782,10.3125 -91.81497,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-19 c 0,-0.554 0.446,-1 1,-1 z"
        id="path17234"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccssssc" />
     <text
        id="text17240"
        y="233.96701"
-       x="580.32031"
+       x="800.32031"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#4d4d4d;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="233.96701"
-         x="580.32031"
+         x="800.32031"
          id="tspan17242"
          sodipodi:role="line">Battery Usage</tspan></text>
     <g
