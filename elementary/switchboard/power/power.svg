@@ -34,8 +34,8 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="133.75262"
-     inkscape:cy="166.31942"
+     inkscape:cx="272.82064"
+     inkscape:cy="144.22836"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -56,10 +56,6 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true" />
-    <sodipodi:guide
-       position="128,176"
-       orientation="0,1"
-       id="guide130282" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -10684,23 +10680,6 @@
      id="layer9"
      inkscape:label="content"
      style="display:inline">
-    <path
-       inkscape:connector-curvature="0"
-       id="path130254"
-       d="m 369.5,354 0,8"
-       style="opacity:0.3;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path130248"
-       d="m 62,349 618,0"
-       style="opacity:0.4;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 366,348 314,0"
-       id="path18273"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
     <g
        style="display:inline"
        id="g15850"
@@ -11011,8 +10990,19 @@
            y="94" /></flowRegion><flowPara
          id="flowPara18244"></flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
+       id="path130254"
+       d="m 369.5,354 0,8"
+       style="opacity:0.3;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:none;fill-rule:evenodd;stroke:#cccccc;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 372,348 286,0"
+       id="path18273"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
        id="path18275"
-       d="m 62,348 306,0"
+       d="m 84,348 290,0"
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#777777;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <g
@@ -12085,47 +12075,32 @@
     </g>
     <path
        style="opacity:0.3;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 103.5,354 0,8"
+       d="m 105.5,354 0,8"
        id="path130250"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
-       id="path130252"
-       d="m 677.5,354 0,8"
-       style="opacity:0.3;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
        id="path130258"
-       d="m 213.5,354 0,8"
+       d="m 153.5,354 0,8"
        style="opacity:0.3;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <text
-       x="-96.487587"
-       y="374.14941"
-       id="text130260"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;display:inline;fill:#4b4b4b;fill-opacity:1;stroke:none"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;fill:#4b4b4b;fill-opacity:1"
-         x="103"
-         y="374.14941"
-         id="tspan130262">5 min</tspan></text>
     <text
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;display:inline;fill:#4b4b4b;fill-opacity:1;stroke:none"
        xml:space="preserve"
        id="text130264"
        y="374.14941"
-       x="17.327505"><tspan
+       x="-42.672493"><tspan
          id="tspan130266"
          y="374.14941"
-         x="214"
+         x="154"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;fill:#4b4b4b;fill-opacity:1">15 min</tspan></text>
     <text
-       x="173.5775"
+       x="29.577499"
        y="374.14941"
        id="text130268"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;display:inline;fill:#4b4b4b;fill-opacity:1;stroke:none"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;fill:#4b4b4b;fill-opacity:1"
-         x="370"
+         x="226"
          y="374.14941"
          id="tspan130270">30 min</tspan></text>
     <text
@@ -12133,26 +12108,56 @@
        xml:space="preserve"
        id="text130272"
        y="374.14941"
-       x="478.59052"><tspan
+       x="460.59052"><tspan
          id="tspan130274"
          y="374.14941"
-         x="676"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;fill:#4b4b4b;fill-opacity:1">1 hour</tspan></text>
+         x="658"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;fill:#4b4b4b;fill-opacity:1">2 hours</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path130276"
-       d="m 157.5,354 0,8"
+       d="m 129.5,354 0,8"
        style="opacity:0.3;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       x="170.59052"
+       y="374.14941"
+       id="text130284"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;display:inline;fill:#4b4b4b;fill-opacity:1;stroke:none"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;fill:#4b4b4b;fill-opacity:1"
+         x="368"
+         y="374.14941"
+         id="tspan130286">1 hour</tspan></text>
     <path
        style="opacity:0.3;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 265.5,354 0,8"
-       id="path130278"
+       d="m 225.5,354 0,8"
+       id="path130292"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.3;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 657.5,354 0,8"
+       id="path130298"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
-       id="path130280"
-       d="m 313.5,354 0,8"
+       id="path130778"
+       d="m 515.5,354 0,8"
        style="opacity:0.3;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path130782"
+       d="m 297.5,354 0,8"
+       style="opacity:0.3;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       x="-90.672493"
+       y="374.14941"
+       id="text130784"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;display:inline;fill:#4b4b4b;fill-opacity:1;stroke:none"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;fill:#4b4b4b;fill-opacity:1"
+         x="106"
+         y="374.14941"
+         id="tspan130786">5 min</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
