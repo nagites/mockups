@@ -34,8 +34,8 @@
      id="namedview629"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="275.2872"
-     inkscape:cy="397.39955"
+     inkscape:cx="195.2872"
+     inkscape:cy="197.39955"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -3930,6 +3930,19 @@
        y1="6.2375584"
        x2="71.204407"
        y2="44.340794" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5452"
+       x="-0.028324219"
+       width="1.0566484"
+       y="-0.020821249"
+       height="1.0416425">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.3989063"
+         id="feGaussianBlur5454" />
+    </filter>
   </defs>
   <metadata
      id="metadata7">
@@ -4048,7 +4061,7 @@
          sodipodi:nodetypes="ccsssssssscc"
          d="m 212.00006,152.21869 -9.28125,9.78125 -139.25,0 c -1.92715,0 -3.46875,1.5416 -3.46875,3.46875 l 0,375.0625 c 0,1.92715 1.5416,3.46875 3.46875,3.46875 l 281.0625,0 c 1.92715,0 3.46875,-1.5416 3.46875,-3.46875 l 0,-375.0625 c 0,-1.92715 -1.5416,-3.46875 -3.46875,-3.46875 l -123.1875,0 z"
          id="path31092"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99992174;marker:none;filter:url(#filter10855-9-4);enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99992174;marker:none;enable-background:accumulate;filter:url(#filter5452)"
          inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="ccsssssssscc"
