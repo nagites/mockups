@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1200"
-   height="800"
-   viewBox="0 0 317.5 211.66667"
+   width="1080"
+   height="680"
+   viewBox="0 0 285.75 179.91667"
    id="svg2"
    version="1.1"
    inkscape:version="0.91+devel+osxmenu r12897"
@@ -47,7 +47,7 @@
        id="filter5059"
        x="-0.019041322"
        width="1.0380826"
-       y="-0.032450704"
+       y="-0.032450706"
        height="1.0649014">
       <feGaussianBlur
          inkscape:collect="always"
@@ -63,7 +63,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="484.85359"
+     inkscape:cx="444.85359"
      inkscape:cy="537.17204"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -115,7 +115,7 @@
      inkscape:label="window"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-85.333313)">
+     transform="translate(0,-117.08331)">
     <path
        sodipodi:nodetypes="sssccss"
        inkscape:connector-curvature="0"
@@ -139,8 +139,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="header:focused"
-     transform="translate(0,52.916667)"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,21.166667)">
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 15.875,-6.3500133 254.00001,0 c 0.58632,0 1.05833,0.47201 1.05833,1.05833 l 0,10.3187533 -256.116675,0 2e-6,-10.3187533 c 0,-0.58632 0.472016,-1.05833 1.058333,-1.05833 z"
@@ -203,11 +203,11 @@
        inkscape:label="content:focused" />
   </g>
   <g
-     transform="translate(0,52.916667)"
      inkscape:label="header:backdrop"
      id="g5036"
      inkscape:groupmode="layer"
-     style="display:none">
+     style="display:none"
+     transform="translate(0,21.166667)">
     <path
        style="opacity:1;fill:#f6f6f6;fill-opacity:1;stroke:none;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 15.875,131.89997 254.00001,0 c 0.58632,0 1.05833,0.47201 1.05833,1.05833 l 0,10.58333 -256.116675,0 2e-6,-10.58333 c 0,-0.58632 0.472016,-1.05833 1.058333,-1.05833 z"
