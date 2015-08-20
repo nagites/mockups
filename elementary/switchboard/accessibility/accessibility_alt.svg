@@ -17,7 +17,7 @@
    id="svg2"
    inkscape:version="0.91+devel+osxmenu r12898"
    sodipodi:docname="accessibility_alt.svg"
-   inkscape:export-filename="/Users/Sam/SparkleShare/mockups/elementary/switchboard/accessibility/accessibility_keyboard_alt.png"
+   inkscape:export-filename="/Users/Sam/SparkleShare/mockups/elementary/switchboard/accessibility/accessibility_pointing+clicking_alt.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <sodipodi:namedview
@@ -34,7 +34,7 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="797.49226"
+     inkscape:cx="597.49226"
      inkscape:cy="310.69619"
      inkscape:window-x="0"
      inkscape:window-y="23"
@@ -11502,7 +11502,7 @@
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path55011"
-         d="m 264,182.50001 590,0"
+         d="m 265,182.50001 590,0"
          style="display:inline;opacity:0.1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#bbbbbb;stroke-width:0.99671626;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -12628,7 +12628,7 @@
       </g>
       <g
          id="g55515"
-         transform="translate(0,320)">
+         transform="translate(0,321)">
         <path
            sodipodi:nodetypes="sssssss"
            inkscape:connector-curvature="0"
@@ -12679,12 +12679,12 @@
          xml:space="preserve"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
          x="280.50684"
-         y="404.84967"
+         y="405.84967"
          id="text55531"><tspan
            sodipodi:role="line"
            id="tspan55533"
            x="280.50684"
-           y="404.84967"
+           y="405.84967"
            style="font-style:normal;font-weight:normal;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Motion threshold</tspan></text>
       <g
          transform="translate(217.99988,756)"
@@ -12708,6 +12708,12 @@
            id="path55553"
            style="color:#bebebe;text-indent:0;text-transform:none;block-progression:tb;display:inline;overflow:visible;visibility:visible;opacity:0.9;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
       </g>
+      <path
+         style="display:inline;opacity:0.1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 265,382.50001 590,0"
+         id="path55555"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -33150,7 +33156,7 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path43297"
-       d="m 23,266 215,0 0,48 -215,0 z"
+       d="m 23,314 215,0 0,48 -215,0 z"
        style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        id="text7850"
