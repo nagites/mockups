@@ -39,7 +39,7 @@
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="g42835"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -8699,7 +8699,7 @@
      style="display:inline"
      transform="translate(0,90)">
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="pointing"
        id="g24919"
        inkscape:groupmode="layer">
@@ -25371,7 +25371,7 @@
        inkscape:groupmode="layer"
        id="g42835"
        inkscape:label="zoom"
-       style="display:none">
+       style="display:inline">
       <g
          id="layer9-3"
          label="status"
@@ -25430,10 +25430,10 @@
            y="2.8496704"
            x="265.39746"
            id="tspan43295"
-           sodipodi:role="line">Screen Magnification:</tspan></text>
+           sodipodi:role="line">Screen Zoom:</tspan></text>
       <g
          id="g48564"
-         transform="translate(12.71573,-107)"
+         transform="translate(-35.28427,-107)"
          style="display:inline">
         <g
            transform="translate(385.28425,94.00021)"
