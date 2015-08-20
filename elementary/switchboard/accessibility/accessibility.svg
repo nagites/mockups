@@ -17,7 +17,7 @@
    id="svg2"
    inkscape:version="0.91+devel+osxmenu r12898"
    sodipodi:docname="accessibility.svg"
-   inkscape:export-filename="/Users/Sam/SparkleShare/mockups/elementary/switchboard/accessibility/accessibility_audio.png"
+   inkscape:export-filename="/Users/Sam/SparkleShare/mockups/elementary/switchboard/accessibility/accessibility_display.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <sodipodi:namedview
@@ -39,7 +39,7 @@
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="g22299"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -7571,7 +7571,7 @@
        inkscape:groupmode="layer"
        id="layer16"
        inkscape:label="audio"
-       style="display:inline">
+       style="display:none">
       <g
          style="display:inline"
          transform="translate(184.71573,7.000004)"
@@ -17675,52 +17675,10 @@
            id="tspan24403"
            x="265.39746"
            y="6.8496704"
-           style="font-style:normal;font-weight:bold;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Visual alerts</tspan></text>
-      <g
-         transform="translate(-6,2)"
-         id="g24405">
-        <path
-           style="display:inline;opacity:0.1;fill:none;stroke:url(#linearGradient13005);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
-           d="m 746.5,73.5 0,-19 c 0,-1.662 1.338,-3 3,-3 l 107,0 c 1.662,0 3,1.338 3,3 l 0,19 c 0,1.66199 -1.338,3 -3,3 l -107,0 c -1.662,0 -3,-1.33801 -3,-3 z"
-           id="path24407"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="sssssssss" />
-        <path
-           style="display:inline;fill:none;stroke:url(#linearGradient13007);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
-           d="m 747.5,73.5 0,-19 c 0,-1.108 0.892,-2 2,-2 l 107,0 c 1.108,0 2,0.892 2,2 l 0,19 c 0,1.108 -0.892,2 -2,2 l -107,0 c -1.108,0 -2,-0.892 -2,-2 z"
-           id="path24409"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="sssssssss" />
-        <path
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient13009);fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-           d="m 749.51514,53.00781 c -0.82235,0 -1.5,0.67765 -1.5,1.5 l 0,19 c 0,0.82234 0.67765,1.5 1.5,1.5 l 107,0 c 0.82235,0 1.5,-0.67766 1.5,-1.5 l 0,-19 c 0,-0.82235 -0.67765,-1.5 -1.5,-1.5 z"
-           id="path24411"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="sssssssss" />
-        <path
-           style="display:inline;opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
-           d="m 748.5,54.5 0,19 c 0,0.55399 0.446,1 1,1 l 107,0 c 0.554,0 1,-0.44601 1,-1 l 0,-19 c 0,-0.554 -0.446,-1 -1,-1 l -107,0 c -0.554,0 -1,0.446 -1,1 z"
-           id="path24413"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="sssssssss" />
-        <text
-           id="text24415"
-           y="68.84967"
-           x="803.14941"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-           xml:space="preserve"
-           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90"><tspan
-             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1"
-             y="68.84967"
-             x="803.14941"
-             id="tspan24417"
-             sodipodi:role="line">Test Screen Flash</tspan></text>
-      </g>
+           style="font-style:normal;font-weight:bold;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">General</tspan></text>
     </g>
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="reading"
        id="g22299"
        inkscape:groupmode="layer">
@@ -18793,49 +18751,7 @@
            id="tspan22759"
            x="265.39746"
            y="6.8496704"
-           style="font-style:normal;font-weight:bold;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Visual alerts</tspan></text>
-      <g
-         transform="translate(-6,2)"
-         id="g22761">
-        <path
-           style="display:inline;opacity:0.1;fill:none;stroke:url(#linearGradient13005);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
-           d="m 746.5,73.5 0,-19 c 0,-1.662 1.338,-3 3,-3 l 107,0 c 1.662,0 3,1.338 3,3 l 0,19 c 0,1.66199 -1.338,3 -3,3 l -107,0 c -1.662,0 -3,-1.33801 -3,-3 z"
-           id="path22763"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="sssssssss" />
-        <path
-           style="display:inline;fill:none;stroke:url(#linearGradient13007);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
-           d="m 747.5,73.5 0,-19 c 0,-1.108 0.892,-2 2,-2 l 107,0 c 1.108,0 2,0.892 2,2 l 0,19 c 0,1.108 -0.892,2 -2,2 l -107,0 c -1.108,0 -2,-0.892 -2,-2 z"
-           id="path22765"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="sssssssss" />
-        <path
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient13009);fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-           d="m 749.51514,53.00781 c -0.82235,0 -1.5,0.67765 -1.5,1.5 l 0,19 c 0,0.82234 0.67765,1.5 1.5,1.5 l 107,0 c 0.82235,0 1.5,-0.67766 1.5,-1.5 l 0,-19 c 0,-0.82235 -0.67765,-1.5 -1.5,-1.5 z"
-           id="path22767"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="sssssssss" />
-        <path
-           style="display:inline;opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
-           d="m 748.5,54.5 0,19 c 0,0.55399 0.446,1 1,1 l 107,0 c 0.554,0 1,-0.44601 1,-1 l 0,-19 c 0,-0.554 -0.446,-1 -1,-1 l -107,0 c -0.554,0 -1,0.446 -1,1 z"
-           id="path22769"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="sssssssss" />
-        <text
-           id="text22771"
-           y="68.84967"
-           x="803.14941"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-           xml:space="preserve"
-           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90"><tspan
-             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1"
-             y="68.84967"
-             x="803.14941"
-             id="tspan22773"
-             sodipodi:role="line">Test Screen Flash</tspan></text>
-      </g>
+           style="font-style:normal;font-weight:bold;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">General</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -28838,7 +28754,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 23,142 215,0 0,48 -215,0 z"
+       d="m 23,56 215,0 0,48 -215,0 z"
        id="rect14600"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
