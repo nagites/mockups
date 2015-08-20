@@ -34,12 +34,12 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="708.20562"
-     inkscape:cy="212.94405"
+     inkscape:cx="791.50872"
+     inkscape:cy="391.02006"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="g22775"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -12579,6 +12579,31 @@
            x="596.22559"
            id="tspan100309"
            sodipodi:role="line">Some sort of widget for testing click settings</tspan></text>
+      <g
+         style="display:inline"
+         id="g132151"
+         transform="translate(0,468)">
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           xml:space="preserve"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:end;text-anchor:end;display:inline;overflow:visible;visibility:visible;fill:#0088cc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+           x="936.62402"
+           y="-15.15033"
+           id="text132153"><tspan
+             sodipodi:role="line"
+             id="tspan132155"
+             x="936.62402"
+             y="-15.15033"
+             style="font-style:normal;font-weight:normal;-inkscape-font-specification:'Bitstream Charter';text-align:end;text-anchor:end;fill:#0088cc;fill-opacity:1">Mouse settings...</tspan></text>
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#0088cc;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 846,-13.5 92,0"
+           id="path132157"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
     </g>
     <g
        style="display:none"
@@ -14787,36 +14812,36 @@
          d="m 40,322 216,0 0,48 -216,0 z"
          style="display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
-         style="display:inline"
-         id="g132111"
-         transform="translate(0,80)">
+         transform="translate(0,468)"
+         id="g132139"
+         style="display:inline">
         <text
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-           xml:space="preserve"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#0088cc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-           x="774.50684"
+           id="text132141"
            y="-15.15033"
-           id="text132113"><tspan
-             sodipodi:role="line"
-             id="tspan132115"
-             x="774.50684"
+           x="936.62402"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:end;text-anchor:end;display:inline;overflow:visible;visibility:visible;fill:#0088cc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+           xml:space="preserve"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-style:normal;font-weight:normal;-inkscape-font-specification:'Bitstream Charter';text-align:end;text-anchor:end;fill:#0088cc;fill-opacity:1"
              y="-15.15033"
-             style="font-style:normal;font-weight:normal;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#0088cc;fill-opacity:1">On-screen keyboard settings...</tspan></text>
+             x="936.62402"
+             id="tspan132143"
+             sodipodi:role="line">Mouse settings...</tspan></text>
         <path
-           style="fill:none;fill-rule:evenodd;stroke:#0088cc;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 775,-13.5 164,0"
-           id="path132117"
+           sodipodi:nodetypes="cc"
            inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cc" />
+           id="path132145"
+           d="m 846,-13.5 92,0"
+           style="fill:none;fill-rule:evenodd;stroke:#0088cc;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
     <g
        inkscape:groupmode="layer"
        id="layer11"
        inkscape:label="keyboard"
-       style="display:inline">
+       style="display:none">
       <path
          style="display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 40,274 216,0 0,48 -216,0 z"
@@ -23625,6 +23650,31 @@
            inkscape:connector-curvature="0"
            id="path132104"
            d="m 775,-13.5 164,0"
+           style="fill:none;fill-rule:evenodd;stroke:#0088cc;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(0,468)"
+         id="g132163"
+         style="display:inline">
+        <text
+           id="text132165"
+           y="-15.15033"
+           x="936.62402"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:end;text-anchor:end;display:inline;overflow:visible;visibility:visible;fill:#0088cc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+           xml:space="preserve"
+           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-style:normal;font-weight:normal;-inkscape-font-specification:'Bitstream Charter';text-align:end;text-anchor:end;fill:#0088cc;fill-opacity:1"
+             y="-15.15033"
+             x="936.62402"
+             id="tspan132167"
+             sodipodi:role="line">Keyboard settings...</tspan></text>
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path132169"
+           d="m 831,-13.5 107,0"
            style="fill:none;fill-rule:evenodd;stroke:#0088cc;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
