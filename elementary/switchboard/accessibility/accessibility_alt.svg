@@ -39,7 +39,7 @@
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g24919"
+     inkscape:current-layer="g23943"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -20651,7 +20651,7 @@
        inkscape:groupmode="layer"
        id="layer16"
        inkscape:label="audio"
-       style="display:inline">
+       style="display:none">
       <path
          style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#bbbbbb;stroke-width:0.99671626;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 264.49835,238.49835 591.0033,0 0,39.00329 -591.0033,0 z"
@@ -30737,7 +30737,7 @@
          transform="translate(207.99988,597)" />
     </g>
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="display"
        id="g23943"
        inkscape:groupmode="layer">
@@ -31819,7 +31819,7 @@
              id="tspan24399"
              x="279.50684"
              y="46.84967"
-             style="font-style:normal;font-weight:normal;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Use high contrast theme</tspan></text>
+             style="font-style:normal;font-weight:normal;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">High contrast theme</tspan></text>
         <g
            id="g49026"
            transform="translate(400.71573,-23.999996)"
@@ -33931,7 +33931,7 @@
              id="tspan49946"
              x="279.00684"
              y="126.84967"
-             style="font-style:normal;font-weight:normal;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Use greyscale</tspan></text>
+             style="font-style:normal;font-weight:normal;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Greyscale</tspan></text>
         <path
            sodipodi:nodetypes="sssssss"
            inkscape:connector-curvature="0"
