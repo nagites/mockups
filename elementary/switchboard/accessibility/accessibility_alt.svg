@@ -39,7 +39,7 @@
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g76997"
+     inkscape:current-layer="layer16"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -4058,7 +4058,7 @@
        xlink:href="#linearGradient3732-7-6-2"
        id="linearGradient39114"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,2.2892567,0,570.81821,576.36222)"
+       gradientTransform="matrix(0,-1,2.2892567,0,677.81821,637.36222)"
        x1="499.36218"
        y1="132"
        x2="525.36218"
@@ -4068,7 +4068,7 @@
        xlink:href="#linearGradient3789-2-2"
        id="linearGradient39116"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,11.956521,0,-1380.8043,241.50001)"
+       gradientTransform="matrix(0,-1,11.956521,0,-1273.8043,302.50001)"
        x1="165.5"
        y1="188.5"
        x2="189.5"
@@ -4078,7 +4078,7 @@
        xlink:href="#linearGradient5248-3"
        id="linearGradient39118"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(334.07764,-72.11719)"
+       gradientTransform="translate(441.07764,-11.11719)"
        x1="536"
        y1="150"
        x2="536"
@@ -21455,7 +21455,7 @@
        inkscape:groupmode="layer"
        id="layer16"
        inkscape:label="audio"
-       style="display:none">
+       style="display:inline">
       <text
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -24664,49 +24664,44 @@
            x="297.50684"
            y="85.84967"
            style="font-style:normal;font-weight:normal;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Flash the screen when an alert sound occurs</tspan></text>
-      <g
-         style="display:inline"
-         id="g13011"
-         transform="translate(91,61)">
-        <path
-           sodipodi:nodetypes="sssssssss"
-           inkscape:connector-curvature="0"
-           id="path12993"
-           d="m 746.5,73.5 0,-19 c 0,-1.662 1.338,-3 3,-3 l 107,0 c 1.662,0 3,1.338 3,3 l 0,19 c 0,1.66199 -1.338,3 -3,3 l -107,0 c -1.662,0 -3,-1.33801 -3,-3 z"
-           style="display:inline;opacity:0.1;fill:none;stroke:url(#linearGradient39114);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
-        <path
-           sodipodi:nodetypes="sssssssss"
-           inkscape:connector-curvature="0"
-           id="path12995"
-           d="m 747.5,73.5 0,-19 c 0,-1.108 0.892,-2 2,-2 l 107,0 c 1.108,0 2,0.892 2,2 l 0,19 c 0,1.108 -0.892,2 -2,2 l -107,0 c -1.108,0 -2,-0.892 -2,-2 z"
-           style="display:inline;fill:none;stroke:url(#linearGradient39116);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
-        <path
-           sodipodi:nodetypes="sssssssss"
-           inkscape:connector-curvature="0"
-           id="path12997"
-           d="m 749.51514,53.00781 c -0.82235,0 -1.5,0.67765 -1.5,1.5 l 0,19 c 0,0.82234 0.67765,1.5 1.5,1.5 l 107,0 c 0.82235,0 1.5,-0.67766 1.5,-1.5 l 0,-19 c 0,-0.82235 -0.67765,-1.5 -1.5,-1.5 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient39118);fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
-        <path
-           sodipodi:nodetypes="sssssssss"
-           inkscape:connector-curvature="0"
-           id="path12999"
-           d="m 748.5,54.5 0,19 c 0,0.55399 0.446,1 1,1 l 107,0 c 0.554,0 1,-0.44601 1,-1 l 0,-19 c 0,-0.554 -0.446,-1 -1,-1 l -107,0 c -0.554,0 -1,0.446 -1,1 z"
-           style="display:inline;opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
-        <text
-           inkscape:export-ydpi="90"
-           inkscape:export-xdpi="90"
-           inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
-           xml:space="preserve"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-           x="803.14941"
-           y="68.84967"
-           id="text13001"><tspan
-             sodipodi:role="line"
-             id="tspan13003"
-             x="803.14941"
-             y="68.84967"
-             style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1">Test Screen Flash</tspan></text>
-      </g>
+      <path
+         style="display:inline;opacity:0.1;fill:none;stroke:url(#linearGradient39114);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+         d="m 873.5,134.5 0,-19 c 0,-1.662 1.338,-3 3,-3 l 67,0 c 1.662,0 3,1.338 3,3 l 0,19 c 0,1.66199 -1.338,3 -3,3 l -67,0 c -1.662,0 -3,-1.33801 -3,-3 z"
+         id="path12993"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <path
+         style="display:inline;fill:none;stroke:url(#linearGradient39116);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+         d="m 874.5,134.5 0,-19 c 0,-1.108 0.892,-2 2,-2 l 67,0 c 1.108,0 2,0.892 2,2 l 0,19 c 0,1.108 -0.892,2 -2,2 l -67,0 c -1.108,0 -2,-0.892 -2,-2 z"
+         id="path12995"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient39118);fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         d="m 876.51514,114.00781 c -0.82235,0 -1.5,0.67765 -1.5,1.5 l 0,19 c 0,0.82234 0.67765,1.5 1.5,1.5 l 67,0 c 0.82235,0 1.5,-0.67766 1.5,-1.5 l 0,-19 c 0,-0.82235 -0.67765,-1.5 -1.5,-1.5 z"
+         id="path12997"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <path
+         style="display:inline;opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+         d="m 875.5,115.5 0,19 c 0,0.55399 0.446,1 1,1 l 67,0 c 0.554,0 1,-0.44601 1,-1 l 0,-19 c 0,-0.554 -0.446,-1 -1,-1 l -67,0 c -0.554,0 -1,0.446 -1,1 z"
+         id="path12999"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <text
+         id="text13001"
+         y="129.84967"
+         x="910.14941"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         xml:space="preserve"
+         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1"
+           y="129.84967"
+           x="910.14941"
+           id="tspan13003"
+           sodipodi:role="line">Test flash</tspan></text>
       <text
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -33775,7 +33770,7 @@
        inkscape:groupmode="layer"
        id="g76997"
        inkscape:label="general"
-       style="display:inline">
+       style="display:none">
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
