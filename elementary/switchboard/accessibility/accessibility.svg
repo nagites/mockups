@@ -34,7 +34,7 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="683.08984"
+     inkscape:cx="603.08984"
      inkscape:cy="278.84186"
      inkscape:window-x="0"
      inkscape:window-y="23"
@@ -32832,7 +32832,12 @@
            y="67.84967"
            x="1038.043"
            id="tspan12579"
-           sodipodi:role="line">Centered|Proportional|Push</tspan></text>
+           sodipodi:role="line">None| Centered|Proportional|Push</tspan><tspan
+           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1"
+           y="82.84967"
+           x="1038.043"
+           sodipodi:role="line"
+           id="tspan12589">mouse-tracking key</tspan></text>
       <text
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -32846,7 +32851,12 @@
            id="tspan12583"
            x="1038.043"
            y="107.84967"
-           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Fullscreen|Top Half|Bottom Half| Left Half | Right half</tspan></text>
+           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1">Fullscreen|Top Half|Bottom Half| Left Half | Right half</tspan><tspan
+           sodipodi:role="line"
+           x="1038.043"
+           y="122.84967"
+           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1"
+           id="tspan12591">screen-position key</tspan></text>
       <text
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
