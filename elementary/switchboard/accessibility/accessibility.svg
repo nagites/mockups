@@ -39,7 +39,7 @@
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer9"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -10454,7 +10454,7 @@
        inkscape:groupmode="layer"
        id="layer9"
        inkscape:label="clicking"
-       style="display:none">
+       style="display:inline">
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -12807,7 +12807,7 @@
            y="26.84967"
            x="297.50684"
            id="tspan76418"
-           sodipodi:role="line">Click when holding down primary button</tspan></text>
+           sodipodi:role="line">Hold primary button to trigger secondary click</tspan></text>
       <path
          style="display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 40,370 216,0 0,48 -216,0 z"
@@ -15171,7 +15171,7 @@
        inkscape:groupmode="layer"
        id="layer11"
        inkscape:label="keyboard"
-       style="display:inline">
+       style="display:none">
       <path
          style="display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 40,274 216,0 0,48 -216,0 z"
