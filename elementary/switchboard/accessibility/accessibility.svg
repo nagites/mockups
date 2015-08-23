@@ -17,7 +17,7 @@
    id="svg2"
    inkscape:version="0.91+devel+osxmenu r12898"
    sodipodi:docname="accessibility.svg"
-   inkscape:export-filename="/Users/Sam/SparkleShare/mockups/elementary/switchboard/accessibility/accessibility6_typing.png"
+   inkscape:export-filename="/Users/Sam/SparkleShare/mockups/elementary/switchboard/accessibility/accessibility7_keyboard.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <sodipodi:namedview
@@ -34,7 +34,7 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="869.01051"
+     inkscape:cx="709.01051"
      inkscape:cy="420.6301"
      inkscape:window-x="0"
      inkscape:window-y="23"
@@ -16255,7 +16255,7 @@
            y="132.84967"
            x="297.50684"
            id="tspan47062"
-           sodipodi:role="line">Alert when a modifier key is pressed</tspan></text>
+           sodipodi:role="line">Beep when a modifier key is pressed</tspan></text>
       <path
          style="display:inline;opacity:0.1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 282,108.5 670,0"
@@ -19441,7 +19441,7 @@
            y="6.8496704"
            x="297.50684"
            id="tspan73107"
-           sodipodi:role="line">Play alert for lock keys</tspan></text>
+           sodipodi:role="line">Beep when a lock key is pressed</tspan></text>
       <text
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
