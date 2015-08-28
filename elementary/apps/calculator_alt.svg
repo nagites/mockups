@@ -39,7 +39,7 @@
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g12064"
+     inkscape:current-layer="g26569"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -6666,16 +6666,64 @@
            y="299" /></flowRegion><flowPara
          id="flowPara38704-4-13-6-4-1" /></flowRoot>  </g>
   <g
+     style="display:inline"
+     inkscape:label="content-answer"
+     id="g26569"
+     inkscape:groupmode="layer">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       d="m 29.826172,26.38281 c -2.216,0 -4,1.784 -4,4 l 0,42 0.173828,0 0,89.65625 290,0 0,-96.16797 -0.17188,0 0,-35.48828 c 0,-2.216 -1.78399,-4 -4,-4 z"
+       id="path26571"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssccccccsss" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path26845"
+       d="m 25.826172,72.38281 0.173828,0 0,89.65625 290,0 0,-96.16797 -0.17188,0 C 305.2647,78.46105 21.012759,-0.521215 25.826172,72.38281 Z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+    <path
+       style="display:inline;opacity:0.1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 32,127.5 276,0"
+       id="path26849"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:125%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:0.8;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="301.70572"
+       y="152"
+       id="text26851"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan26853"
+         x="301.70572"
+         y="152"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#555555;fill-opacity:1">117</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text26855"
+       y="113"
+       x="303.46094"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#555555;fill-opacity:1"
+         y="113"
+         x="303.46094"
+         id="tspan26857"
+         sodipodi:role="line">39×3</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path17190"
+       d="m 26,161.5 290,0"
+       style="display:inline;opacity:0.3;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="content-buttons"
      style="display:inline">
-    <path
-       sodipodi:nodetypes="ssccccccsss"
-       inkscape:connector-curvature="0"
-       id="path8269"
-       d="m 29.826172,26.38281 c -2.216,0 -4,1.784 -4,4 l 0,42 0.173828,0 0,89.65625 290,0 0,-96.16797 -0.17188,0 0,-35.48828 c 0,-2.216 -1.78399,-4 -4,-4 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
     <g
        style="display:inline"
        id="g12109"
@@ -6872,7 +6920,7 @@
        inkscape:connector-curvature="0"
        id="path4415-0"
        d="m 35.5,172.5 0,47 c 0,0.55399 0.446,1 1,1 l 59,0 c 0.554,0 1,-0.44601 1,-1 l 0,-47 c 0,-0.554 -0.446,-1 -1,-1 l -59,0 c -0.554,0 -1,0.446 -1,1 z"
-       style="display:inline;opacity:0.3;fill:none;stroke:url(#linearGradient12429);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
+       style="display:inline;opacity:0.2;fill:none;stroke:url(#linearGradient12429);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
     <g
        style="display:inline;stroke:none"
        transform="translate(-130,-258)"
@@ -7620,48 +7668,6 @@
            id="g13776" />
       </g>
     </g>
-    <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="m 25.826172,72.38281 0.173828,0 0,89.65625 290,0 0,-96.16797 -0.17188,0 C 305.2647,78.46105 21.012759,-0.521215 25.826172,72.38281 Z"
-       id="path17188"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path17190"
-       d="m 26,161.5 290,0"
-       style="display:inline;opacity:0.3;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path17192"
-       d="m 32,127.5 276,0"
-       style="display:inline;opacity:0.1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text17194"
-       y="152"
-       x="301.70572"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:125%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;opacity:0.8;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#555555;fill-opacity:1"
-         y="152"
-         x="301.70572"
-         id="tspan17196"
-         sodipodi:role="line">117</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;display:inline;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="303.46094"
-       y="113"
-       id="text17198"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan17200"
-         x="303.46094"
-         y="113"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'Droid Sans Mono';-inkscape-font-specification:'Droid Sans Mono';text-align:end;text-anchor:end;fill:#555555;fill-opacity:1">39×3</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
