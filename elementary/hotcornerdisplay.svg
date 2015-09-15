@@ -37,12 +37,12 @@
      inkscape:object-paths="true"
      inkscape:snap-global="true"
      inkscape:zoom="1"
-     inkscape:cx="59.954146"
-     inkscape:cy="22.160744"
+     inkscape:cx="67.335195"
+     inkscape:cy="20.717685"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer2">
+     inkscape:current-layer="layer3">
     <inkscape:grid
        type="xygrid"
        id="grid12268" />
@@ -7467,6 +7467,20 @@
          id="rect11711" /></flowRegion><flowPara
        id="flowPara11713" /></flowRoot>  <g
      inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="shadow">
+    <rect
+       style="display:inline;color:#000000;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;filter:url(#filter12432);enable-background:accumulate"
+       rx="2"
+       ry="2"
+       height="197"
+       width="291"
+       y="1.5"
+       x="0.5"
+       id="rect12813" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="normal"
      style="display:none">
@@ -7508,15 +7522,6 @@
        y="0.5"
        x="0.5"
        id="rect11719" />
-    <rect
-       style="color:#000000;display:inline;opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:nonzero;filter:url(#filter12432);enable-background:accumulate"
-       rx="2"
-       ry="2"
-       height="197"
-       width="291"
-       y="1.5"
-       x="0.5"
-       id="rect12813" />
     <rect
        id="rect12815"
        x="0.5"
