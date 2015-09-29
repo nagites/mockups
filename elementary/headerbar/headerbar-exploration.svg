@@ -17,7 +17,7 @@
    id="svg2"
    inkscape:version="0.91+devel+osxmenu r12898"
    sodipodi:docname="headerbar-exploration.svg"
-   inkscape:export-filename="/Users/Sam/SparkleShare/mockups/elementary/headerbar/headerbar-mixed.png"
+   inkscape:export-filename="/Users/Sam/SparkleShare/mockups/elementary/headerbar/headerbar-url.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <sodipodi:namedview
@@ -34,8 +34,8 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="350.65635"
-     inkscape:cy="47.634293"
+     inkscape:cx="301.0975"
+     inkscape:cy="75.019494"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -1111,7 +1111,7 @@
        y2="263.70279" />
     <filter
        id="filter7554-6"
-       color-interpolation-filters="sRGB">
+       style="color-interpolation-filters:sRGB">
       <feBlend
          mode="darken"
          in2="BackgroundImage"
@@ -1119,7 +1119,7 @@
     </filter>
     <filter
        id="filter7554-7-7"
-       color-interpolation-filters="sRGB">
+       style="color-interpolation-filters:sRGB">
       <feBlend
          mode="darken"
          in2="BackgroundImage"
@@ -1127,7 +1127,7 @@
     </filter>
     <filter
        id="filter7554-1"
-       color-interpolation-filters="sRGB">
+       style="color-interpolation-filters:sRGB">
       <feBlend
          mode="darken"
          in2="BackgroundImage"
@@ -1135,7 +1135,7 @@
     </filter>
     <filter
        id="filter7554-7-16"
-       color-interpolation-filters="sRGB">
+       style="color-interpolation-filters:sRGB">
       <feBlend
          mode="darken"
          in2="BackgroundImage"
@@ -1143,7 +1143,7 @@
     </filter>
     <filter
        id="filter7554-9"
-       color-interpolation-filters="sRGB">
+       style="color-interpolation-filters:sRGB">
       <feBlend
          mode="darken"
          in2="BackgroundImage"
@@ -1151,7 +1151,7 @@
     </filter>
     <filter
        id="filter7554-7-2"
-       color-interpolation-filters="sRGB">
+       style="color-interpolation-filters:sRGB">
       <feBlend
          mode="darken"
          in2="BackgroundImage"
@@ -1179,7 +1179,7 @@
        y2="395.70792" />
     <filter
        id="filter7554-4"
-       color-interpolation-filters="sRGB">
+       style="color-interpolation-filters:sRGB">
       <feBlend
          mode="darken"
          in2="BackgroundImage"
@@ -1187,7 +1187,7 @@
     </filter>
     <filter
        id="filter7554-7-5"
-       color-interpolation-filters="sRGB">
+       style="color-interpolation-filters:sRGB">
       <feBlend
          mode="darken"
          in2="BackgroundImage"
@@ -1195,7 +1195,7 @@
     </filter>
     <filter
        id="filter7554-74"
-       color-interpolation-filters="sRGB">
+       style="color-interpolation-filters:sRGB">
       <feBlend
          mode="darken"
          in2="BackgroundImage"
@@ -1428,25 +1428,6 @@
        x2="187.84225"
        y2="444"
        gradientUnits="userSpaceOnUse" />
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath14996">
-      <path
-         sodipodi:nodetypes="cccccccc"
-         inkscape:connector-curvature="0"
-         id="path14998"
-         d="m 178,464 c 0,2 2,2 2,2 l 21,0 10,-11 -10,-11 -21,0 c 0,0 -2,0 -2,2 z"
-         style="fill:url(#linearGradient15000);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </clipPath>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4609"
-       id="linearGradient15000"
-       gradientUnits="userSpaceOnUse"
-       x1="188"
-       y1="466"
-       x2="187.84225"
-       y2="444" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4325-0"
@@ -1458,7 +1439,7 @@
        gradientUnits="userSpaceOnUse" />
     <filter
        id="filter7554-2"
-       color-interpolation-filters="sRGB">
+       style="color-interpolation-filters:sRGB">
       <feBlend
          mode="darken"
          in2="BackgroundImage"
@@ -1466,12 +1447,31 @@
     </filter>
     <filter
        id="filter7554-7-18"
-       color-interpolation-filters="sRGB">
+       style="color-interpolation-filters:sRGB">
       <feBlend
          mode="darken"
          in2="BackgroundImage"
          id="feBlend7556-6-0" />
     </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15287">
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path15289"
+         d="m 178,464 c 0,2 2,2 2,2 l 55,0 10,-11 -10,-11 -55,0 c 0,0 -2,0 -2,2 z"
+         style="fill:url(#linearGradient15291);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4609"
+       id="linearGradient15291"
+       gradientUnits="userSpaceOnUse"
+       x1="188"
+       y1="466"
+       x2="187.84225"
+       y2="444" />
   </defs>
   <metadata
      id="metadata7">
@@ -12807,57 +12807,75 @@
          sodipodi:linespacing="125%"
          id="text14617"
          y="458.88281"
-         x="217"
+         x="251"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#666666;fill-opacity:1"
            y="458.88281"
-           x="217"
+           x="251"
            id="tspan14619"
-           sodipodi:role="line">https://elementary.io</tspan></text>
+           sodipodi:role="line">elementary.io</tspan></text>
       <path
          sodipodi:nodetypes="cccccccc"
          inkscape:connector-curvature="0"
          id="path14956"
-         d="m 178,464 c 0,2 2,2 2,2 l 61,0 10,-11 -10,-11 -61,0 c 0,0 -2,0 -2,2 z"
-         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1879b5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 178,464 c 0,2 2,2 2,2 l 55,0 10,-11 -10,-11 -55,0 c 0,0 -2,0 -2,2 z"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#1879b5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         clip-path="none" />
       <path
          style="fill:url(#linearGradient14954);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 178,464 c 0,2 2,2 2,2 l 61,0 10,-11 -10,-11 -61,0 c 0,0 -2,0 -2,2 z"
+         d="m 178,464 c 0,2 2,2 2,2 l 55,0 10,-11 -10,-11 -55,0 c 0,0 -2,0 -2,2 z"
          id="path14814"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccc" />
+         sodipodi:nodetypes="cccccccc"
+         clip-path="none" />
       <path
          inkscape:connector-curvature="0"
          style="color:#bebebe;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.3;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          d="m 191,449 c -2.216,0 -4,1.784 -4,4 l 0,2 -1,0 0,3.69141 0,1.80859 c 0,0.831 0.669,1.5 1.5,1.5 l 7,0 c 0.831,0 1.5,-0.669 1.5,-1.5 l 0,-4 0,-1.5 -1,0 0,-2 c 0,-2.216 -1.784,-4 -4,-4 z m -0.0293,2 c 1.108,0 2,0.892 2,2 l 0,2 -4,0 0,-2 c 0,-1.108 0.892,-2 2,-2 z"
          id="path15269"
-         sodipodi:nodetypes="sscccsssscccssssccss" />
+         sodipodi:nodetypes="sscccsssscccssssccss"
+         clip-path="none" />
       <path
          id="path14990"
          d="m 191,448 c -2.216,0 -4,1.784 -4,4 l 0,2 -1,0 0,3.69141 0,1.80859 c 0,0.831 0.669,1.5 1.5,1.5 l 7,0 c 0.831,0 1.5,-0.669 1.5,-1.5 l 0,-4 0,-1.5 -1,0 0,-2 c 0,-2.216 -1.784,-4 -4,-4 z m -0.0293,2 c 1.108,0 2,0.892 2,2 l 0,2 -4,0 0,-2 c 0,-1.108 0.892,-2 2,-2 z"
          style="color:#bebebe;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1879b5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sscccsssscccssssccss" />
+         sodipodi:nodetypes="sscccsssscccssssccss"
+         clip-path="none" />
       <path
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient15008);stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 178,464 c 0,2 2,2 2,2 l 61,0 10,-11 -10,-11 -61,0 c 0,0 -2,0 -2,2 z"
+         d="m 178,464 c 0,2 2,2 2,2 l 55,0 10,-11 -10,-11 -55,0 c 0,0 -2,0 -2,2 z"
          id="path14992"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccc"
-         clip-path="url(#clipPath14996)" />
+         clip-path="url(#clipPath15287)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1879b5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-         x="211"
-         y="458.88281"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.35;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="202"
+         y="459.88281"
          id="text15271"
-         sodipodi:linespacing="125%"><tspan
+         sodipodi:linespacing="125%"
+         clip-path="none"><tspan
            sodipodi:role="line"
            id="tspan15273"
-           x="211"
+           x="202"
+           y="459.88281"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff;fill-opacity:1">https</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text15275"
+         y="458.88281"
+         x="202"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1879b5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         clip-path="none"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#1879b5;fill-opacity:1"
            y="458.88281"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#1879b5;fill-opacity:1;">https</tspan></text>
+           x="202"
+           id="tspan15277"
+           sodipodi:role="line">https</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
