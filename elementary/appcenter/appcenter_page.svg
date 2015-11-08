@@ -12,7 +12,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="800"
+   width="768"
    height="600"
    id="svg2"
    inkscape:version="0.91+devel+osxmenu r12898"
@@ -34,8 +34,8 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="476.67289"
-     inkscape:cy="382.96589"
+     inkscape:cx="516.67289"
+     inkscape:cy="343.46589"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -54,7 +54,7 @@
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="true"
-     showborder="false">
+     showborder="true">
     <inkscape:grid
        type="xygrid"
        id="grid10902"
@@ -63,35 +63,35 @@
        enabled="true"
        snapvisiblegridlinesonly="true" />
     <sodipodi:guide
-       position="16,392"
+       position="24,480"
        orientation="0,1"
        id="guide13566" />
     <sodipodi:guide
-       position="184,368"
+       position="168,568"
        orientation="1,0"
        id="guide13588" />
     <sodipodi:guide
-       position="16,512"
+       position="24,576"
        orientation="0,1"
        id="guide14096" />
     <sodipodi:guide
-       position="40,512"
+       position="24,560"
        orientation="1,0"
        id="guide14098" />
     <sodipodi:guide
-       position="160,496"
+       position="144,552"
        orientation="1,0"
        id="guide14100" />
     <sodipodi:guide
-       position="184,488"
+       position="24,552"
        orientation="0,1"
        id="guide14102" />
     <sodipodi:guide
-       position="184,416"
+       position="136,456"
        orientation="0,1"
        id="guide15277" />
     <sodipodi:guide
-       position="760,488"
+       position="744,488"
        orientation="1,0"
        id="guide16010" />
     <sodipodi:guide
@@ -1980,7 +1980,7 @@
        cy="43.5"
        cx="4.9929786" />
     <linearGradient
-       gradientTransform="translate(-27.316332,0)"
+       gradientTransform="translate(-27.316332)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient3732-7-6"
        id="linearGradient8092"
@@ -2300,7 +2300,7 @@
        cy="43.5"
        cx="4.9929786" />
     <linearGradient
-       gradientTransform="translate(-27.316332,0)"
+       gradientTransform="translate(-27.316332)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient3732-7-6"
        id="linearGradient8552"
@@ -4202,7 +4202,7 @@
        cy="43.5"
        cx="4.9929786" />
     <linearGradient
-       gradientTransform="translate(-27.316332,0)"
+       gradientTransform="translate(-27.316332)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient3732-7-6"
        id="linearGradient10329"
@@ -4447,7 +4447,7 @@
     <clipPath
        id="clipPath5549">
       <rect
-         style="color:#000000;fill:url(#linearGradient4975);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4975);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;marker:none;enable-background:accumulate"
          id="rect5551"
          y="1037.8618"
          x="17.499994"
@@ -5663,7 +5663,7 @@
     </linearGradient>
     <filter
        id="filter7554"
-       color-interpolation-filters="sRGB">
+       style="color-interpolation-filters:sRGB">
       <feBlend
          mode="darken"
          in2="BackgroundImage"
@@ -5671,7 +5671,7 @@
     </filter>
     <filter
        id="filter7554-7"
-       color-interpolation-filters="sRGB">
+       style="color-interpolation-filters:sRGB">
       <feBlend
          mode="darken"
          in2="BackgroundImage"
@@ -6197,12 +6197,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient13806"
        id="linearGradient13812"
-       x1="416"
-       y1="-6.0800781"
-       x2="416"
-       y2="161.91992"
+       x1="408.48956"
+       y1="-4.1289058"
+       x2="408.48956"
+       y2="139.88806"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.99988215,0,-19.871581)" />
+       gradientTransform="matrix(1.0013038,0,0,0.99988215,-17.022165,-85.871581)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3732-7-6"
@@ -6442,13 +6442,13 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path13600"
-       d="m 17,-24 767,0 0,1429 -767,0 z"
+       d="M 0,-90 768.00001,-90 768,1342 -10e-6,1342 Z"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient13812);fill-opacity:1;stroke:none;stroke-width:0.99999994;marker:none;enable-background:accumulate"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <g
        style="display:inline"
-       transform="translate(-12,36)"
+       transform="translate(-29,-30)"
        id="g13533"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -6508,21 +6508,21 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="184"
-       y="53"
+       x="167"
+       y="-9"
        id="text12947"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan12949"
-         x="184"
-         y="53"
+         x="167"
+         y="-9"
          style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Thin'">Geary</tspan></text>
     <g
        style="display:inline"
        id="layer1-5"
-       transform="translate(37.09375,54.843754)"
+       transform="translate(20.09375,-9.999996)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <path
@@ -6707,7 +6707,7 @@
        xml:space="preserve"
        id="flowRoot13580"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(6,-90)"
+       transform="translate(-11,-152)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><flowRegion
          id="flowRegion13582"><rect
@@ -6718,7 +6718,7 @@
            y="163" /></flowRegion><flowPara
          id="flowPara13586"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">A lightweight mail client</flowPara></flowRoot>    <flowRoot
-       transform="translate(-136,442)"
+       transform="translate(-153,376)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:150%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot13590"
        xml:space="preserve"
@@ -6735,7 +6735,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:150%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#333333;fill-opacity:1"
          id="flowPara13596">Geary is a mail application for GNOME designed to let you manage you email quickly and effortlessly. Its interface is based on conversations, so you can read an entire discussion without having to click from message to message. Geary is still in development and has a limited but growing set of features.</flowPara></flowRoot>    <g
        id="g14367"
-       transform="translate(6,2)"
+       transform="translate(-11,-64)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <g
@@ -7022,133 +7022,133 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="42"
-       y="862"
+       x="25"
+       y="796"
        id="text14306"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan14308"
-         x="42"
-         y="862"
+         x="25"
+         y="796"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#555555;fill-opacity:1">Details</tspan></text>
     <text
        sodipodi:linespacing="175%"
        id="text14434"
-       y="886"
-       x="44"
+       y="820"
+       x="27"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:175%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#979797;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:175%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#979797;fill-opacity:1"
-         y="886"
-         x="44"
+         y="820"
+         x="27"
          id="tspan14436"
          sodipodi:role="line">Current Version: </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:175%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#979797;fill-opacity:1"
-         y="907"
-         x="44"
+         y="841"
+         x="27"
          sodipodi:role="line"
          id="tspan14454">Updated:</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:175%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#979797;fill-opacity:1"
-         y="928"
-         x="44"
+         y="862"
+         x="27"
          sodipodi:role="line"
          id="tspan14458">Licensing:</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:175%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#979797;fill-opacity:1"
-         y="949"
-         x="44"
+         y="883"
+         x="27"
          sodipodi:role="line"
          id="tspan14462">Size:</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:175%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#979797;fill-opacity:1"
-         y="970"
-         x="44"
+         y="904"
+         x="27"
          sodipodi:role="line"
          id="tspan16040">Content Rating:</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:175%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#979797;fill-opacity:1"
-         y="991"
-         x="44"
+         y="925"
+         x="27"
          sodipodi:role="line"
          id="tspan14596">Compatibility:</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:175%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#979797;fill-opacity:1"
-         y="1012"
-         x="44"
+         y="946"
+         x="27"
          sodipodi:role="line"
          id="tspan16045">Developer:</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:175%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#979797;fill-opacity:1"
-         y="1033"
-         x="44"
+         y="967"
+         x="27"
          sodipodi:role="line"
          id="tspan14456">Website:</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text14450"
-       y="1084"
-       x="40"
+       y="1018"
+       x="23"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#555555;fill-opacity:1"
-         y="1084"
-         x="40"
+         y="1018"
+         x="23"
          id="tspan14452"
          sodipodi:role="line">Reviews</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:175%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="751.33984"
-       y="886"
+       x="734.33984"
+       y="820"
        id="text14466"
        sodipodi:linespacing="175%"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan14468"
-         x="751.33984"
-         y="886"
+         x="734.33984"
+         y="820"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:175%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;fill:#555555;fill-opacity:1">0.10.0</tspan><tspan
          id="tspan14470"
          sodipodi:role="line"
-         x="751.33984"
-         y="907"
+         x="734.33984"
+         y="841"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:175%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;fill:#555555;fill-opacity:1">29 October 2015</tspan><tspan
          id="tspan14472"
          sodipodi:role="line"
-         x="751.33984"
-         y="928"
+         x="734.33984"
+         y="862"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:175%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;fill:#555555;fill-opacity:1">LGPL-2.1, BSD-3-Clause, CC-BY-3.0, CC-BY-SA and Public Domain</tspan><tspan
          id="tspan14474"
          sodipodi:role="line"
-         x="751.33984"
-         y="949"
+         x="734.33984"
+         y="883"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:175%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;fill:#555555;fill-opacity:1">1.6 MB</tspan><tspan
          sodipodi:role="line"
-         x="751.33984"
-         y="970"
+         x="734.33984"
+         y="904"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:175%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;fill:#555555;fill-opacity:1"
          id="tspan16038">Everyone</tspan><tspan
          sodipodi:role="line"
-         x="751.33984"
-         y="991"
+         x="734.33984"
+         y="925"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:175%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;fill:#555555;fill-opacity:1"
          id="tspan14598">elementary OS 0.2 or later</tspan><tspan
          id="tspan14476"
          sodipodi:role="line"
-         x="751.33984"
-         y="1012"
+         x="734.33984"
+         y="946"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:175%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;fill:#555555;fill-opacity:1">GNOME</tspan><tspan
          sodipodi:role="line"
-         x="751.33984"
-         y="1033"
+         x="734.33984"
+         y="967"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:175%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;fill:#4999e8;fill-opacity:1"
          id="tspan16047">Visit Website</tspan></text>
     <g
        style="display:inline"
        id="g14548"
-       transform="translate(151,61)">
+       transform="translate(114,-5)">
       <path
          sodipodi:nodetypes="sssssssss"
          inkscape:connector-curvature="0"
@@ -7204,7 +7204,7 @@
     </g>
     <g
        id="g15024"
-       transform="translate(-16,722)"
+       transform="translate(-33,656)"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <g
@@ -7336,20 +7336,20 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="142"
-       y="1110"
+       x="125"
+       y="1044"
        id="text15055"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan15057"
-         x="142"
-         y="1110"
+         x="125"
+         y="1044"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#555555;fill-opacity:1">(16 reviews)</tspan></text>
     <g
        id="g15079"
-       transform="matrix(0.75,0,0,0.75,-370.375,1125.3437)"
+       transform="matrix(0.75,0,0,0.75,-387.375,1059.3437)"
        style="stroke-width:1.33333337"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -7637,107 +7637,107 @@
     <text
        sodipodi:linespacing="125%"
        id="text15279"
-       y="690"
-       x="42"
+       y="624"
+       x="25"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#555555;fill-opacity:1"
-         y="690"
-         x="42"
+         y="624"
+         x="25"
          id="tspan15281"
          sodipodi:role="line">Features</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:150%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="48"
-       y="718"
+       x="31"
+       y="652"
        id="text15283"
        sodipodi:linespacing="150%"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan15285"
-         x="48"
-         y="718"
+         x="31"
+         y="652"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:150%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#555555;fill-opacity:1"> •   Modern and straightforward interface</tspan><tspan
          sodipodi:role="line"
-         x="48"
-         y="736"
+         x="31"
+         y="670"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:150%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#555555;fill-opacity:1"
          id="tspan15287"> •   Quick account setup</tspan><tspan
          sodipodi:role="line"
-         x="48"
-         y="754"
+         x="31"
+         y="688"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:150%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#555555;fill-opacity:1"
          id="tspan15289"> •   Supports Gmail, Yahoo! Mail, Outlook.com, and popular IMAP servers (Dovecot, Cyrus, Zimbra, etc.)</tspan><tspan
          sodipodi:role="line"
-         x="48"
-         y="772"
+         x="31"
+         y="706"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:150%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#555555;fill-opacity:1"
          id="tspan15291"> •   Mail organized by conversations</tspan><tspan
          sodipodi:role="line"
-         x="48"
-         y="790"
+         x="31"
+         y="724"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:150%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#555555;fill-opacity:1"
          id="tspan15293"> •   Full-featured HTML mail composer</tspan><tspan
          sodipodi:role="line"
-         x="48"
-         y="808"
+         x="31"
+         y="742"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:150%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#555555;fill-opacity:1"
          id="tspan15295"> •   Fast keyword search</tspan><tspan
          sodipodi:role="line"
-         x="48"
-         y="826"
+         x="31"
+         y="760"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:150%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#555555;fill-opacity:1"
          id="tspan15297"> •   Desktop notification of new mail</tspan><tspan
          sodipodi:role="line"
-         x="48"
-         y="844"
+         x="31"
+         y="778"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:150%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#555555;fill-opacity:1"
          id="tspan15299" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="42"
-       y="1152"
+       x="25"
+       y="1086"
        id="text15305"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan15307"
-         x="42"
-         y="1152"
+         x="25"
+         y="1086"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#555555;fill-opacity:1">Works great</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text15309"
-       y="1202"
-       x="42"
+       y="1136"
+       x="25"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#979797;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#979797;fill-opacity:1"
-         y="1202"
-         x="42"
+         y="1136"
+         x="25"
          id="tspan15311"
          sodipodi:role="line">by UserJoe34 -  version 0.10.0 - 10 Sept 2015</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path15316"
-       d="m 41,1054.4992 720,0"
+       d="m 24,989.4992 720,0"
        style="opacity:0.1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00157475;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="42"
-       y="1178"
+       x="25"
+       y="1112"
        id="text15318"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="96"
@@ -7745,12 +7745,12 @@
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1"
          sodipodi:role="line"
          id="tspan15320"
-         x="42"
-         y="1178"
+         x="25"
+         y="1112"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#555555;fill-opacity:1">I have the latest version and works great. I've set it up to handle my 5 gmail accounts and it does that with no hang ups.</tspan></text>
     <g
        style="stroke-width:1.33333337"
-       transform="matrix(0.75,0,0,0.75,-370.375,1213.3437)"
+       transform="matrix(0.75,0,0,0.75,-387.375,1147.3437)"
        id="g15322"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -8038,49 +8038,49 @@
     <text
        sodipodi:linespacing="125%"
        id="text15434"
-       y="1240"
-       x="42"
+       y="1174"
+       x="25"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#555555;fill-opacity:1"
-         y="1240"
-         x="42"
+         y="1174"
+         x="25"
          id="tspan15436"
          sodipodi:role="line">Works great</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#979797;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="42"
-       y="1290"
+       x="25"
+       y="1224"
        id="text15438"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan15440"
-         x="42"
-         y="1290"
+         x="25"
+         y="1224"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#979797;fill-opacity:1">by UserJoe34 -  version 0.10.0 - 10 Sept 2015</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text15442"
-       y="1266"
-       x="42"
+       y="1200"
+       x="25"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#555555;fill-opacity:1"
-         y="1266"
-         x="42"
+         y="1200"
+         x="25"
          id="tspan15444"
          sodipodi:role="line"
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1">I have the latest version and works great. I've set it up to handle my 5 gmail accounts and it does that with no hang ups.</tspan></text>
     <g
        id="g15446"
-       transform="matrix(0.75,0,0,0.75,-370.375,1301.3437)"
+       transform="matrix(0.75,0,0,0.75,-387.375,1235.3437)"
        style="stroke-width:1.33333337"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -8368,36 +8368,36 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="42"
-       y="1328"
+       x="25"
+       y="1262"
        id="text15558"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan15560"
-         x="42"
-         y="1328"
+         x="25"
+         y="1262"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#555555;fill-opacity:1">Works great</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text15562"
-       y="1378"
-       x="42"
+       y="1312"
+       x="25"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#979797;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#979797;fill-opacity:1"
-         y="1378"
-         x="42"
+         y="1312"
+         x="25"
          id="tspan15564"
          sodipodi:role="line">by UserJoe34 -  version 0.10.0 - 10 Sept 2015</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#555555;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="42"
-       y="1354"
+       x="25"
+       y="1288"
        id="text15566"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="96"
@@ -8405,12 +8405,12 @@
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1"
          sodipodi:role="line"
          id="tspan15568"
-         x="42"
-         y="1354"
+         x="25"
+         y="1288"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#555555;fill-opacity:1">I have the latest version and works great. I've set it up to handle my 5 gmail accounts and it does that with no hang ups.</tspan></text>
     <g
        style="display:inline"
-       transform="translate(-12,1042)"
+       transform="translate(-29,976)"
        id="g16012"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
@@ -8454,8 +8454,8 @@
            style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1">Write a Review</tspan></text>
     </g>
     <image
-       y="118.75"
-       x="40"
+       y="52.75"
+       x="23"
        id="image16111"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGqCAYAAACbEvXuAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI
 WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wsHEiIdHq1QFQAAIABJREFUeNrsvXd0HNedoPtVdW7k
