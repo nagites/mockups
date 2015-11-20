@@ -12,12 +12,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.2"
-   width="600"
+   width="592"
    height="528"
    id="svg2"
    inkscape:version="0.91 r13725"
    sodipodi:docname="notifications-menu.svg"
-   inkscape:export-filename="/home/sam/SparkleShare/mockups/elementary/indicators/notifications/notifications-menu-48icons.png"
+   inkscape:export-filename="/home/sam/SparkleShare/mockups/elementary/indicators/notifications/notifications-menu.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -34,8 +34,8 @@
      id="namedview629"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="370.30226"
-     inkscape:cy="280.03879"
+     inkscape:cx="350.19645"
+     inkscape:cy="184.1191"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -6093,6 +6093,137 @@
      inkscape:groupmode="layer"
      transform="translate(0,-72)">
     <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="notes"
+       style="display:inline">
+      <rect
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect10521"
+         width="592"
+         height="528"
+         x="0"
+         y="72" />
+      <path
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#59a8e2;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 326,165.5 38,0"
+         id="path10361"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#59a8e2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="368"
+         y="169"
+         id="text10363"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="368"
+           y="169"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
+           id="tspan10434">Show dismiss button on hover; </tspan><tspan
+           sodipodi:role="line"
+           x="368"
+           y="183.0625"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
+           id="tspan10450">clicking dismisses a notification &amp;</tspan><tspan
+           sodipodi:role="line"
+           x="368"
+           y="197.125"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
+           id="tspan10462">moves other up the queue; rapid</tspan><tspan
+           sodipodi:role="line"
+           x="368"
+           y="211.1875"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
+           id="tspan10466">clicking would dismiss notifications </tspan><tspan
+           sodipodi:role="line"
+           x="368"
+           y="225.25"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
+           id="tspan10472">quickly since the button position is the</tspan><tspan
+           sodipodi:role="line"
+           x="368"
+           y="239.3125"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
+           id="tspan10519">same</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path10369"
+         d="m 326,483.5 38,0"
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#59a8e2;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text10371"
+         y="487"
+         x="368"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#59a8e2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
+           y="487"
+           x="368"
+           sodipodi:role="line"
+           id="tspan10375">Reduce unread count when dismissing </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
+           y="501.0625"
+           x="368"
+           sodipodi:role="line"
+           id="tspan10377">individual notifications</tspan></text>
+      <path
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#59a8e2;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 326,291.5 14,20 24,0"
+         id="path10379"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#59a8e2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="368"
+         y="315"
+         id="text10381"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan10387"
+           sodipodi:role="line"
+           x="368"
+           y="315"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1">Whole notification list is </tspan><tspan
+           sodipodi:role="line"
+           x="368"
+           y="329.0625"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
+           id="tspan10394">scrollable</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path10436"
+         d="m 326,379.5 38,0"
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#59a8e2;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text10438"
+         y="383"
+         x="368"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#59a8e2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
+           y="383"
+           x="368"
+           sodipodi:role="line"
+           id="tspan10446">Clicking notification opens respective</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
+           y="397.0625"
+           x="368"
+           sodipodi:role="line"
+           id="tspan10517">application</tspan></text>
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path10448"
+         d="m 326,331.52577 14,-20 24,0"
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#59a8e2;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
        style="display:inline"
        inkscape:label="menu-background"
        id="g31090"
@@ -8142,130 +8273,6 @@
            id="path9539"
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.31169891px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient9551);fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate" />
       </g>
-    </g>
-    <g
-       inkscape:groupmode="layer"
-       id="layer2"
-       inkscape:label="notes"
-       style="display:inline">
-      <path
-         style="display:inline;fill:none;fill-rule:evenodd;stroke:#59a8e2;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 326,165.5 38,0"
-         id="path10361"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#59a8e2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="368"
-         y="169"
-         id="text10363"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           x="368"
-           y="169"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
-           id="tspan10434">Show dismiss button on hover; </tspan><tspan
-           sodipodi:role="line"
-           x="368"
-           y="183.0625"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
-           id="tspan10450">clicking dismisses a notification &amp;</tspan><tspan
-           sodipodi:role="line"
-           x="368"
-           y="197.125"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
-           id="tspan10462">moves other up the queue; rapid</tspan><tspan
-           sodipodi:role="line"
-           x="368"
-           y="211.1875"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
-           id="tspan10466">clicking would dismiss notifications </tspan><tspan
-           sodipodi:role="line"
-           x="368"
-           y="225.25"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
-           id="tspan10472">quickly since the button position is the</tspan><tspan
-           sodipodi:role="line"
-           x="368"
-           y="239.3125"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
-           id="tspan10519">same</tspan></text>
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path10369"
-         d="m 326,483.5 38,0"
-         style="display:inline;fill:none;fill-rule:evenodd;stroke:#59a8e2;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text10371"
-         y="487"
-         x="368"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#59a8e2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
-           y="487"
-           x="368"
-           sodipodi:role="line"
-           id="tspan10375">Reduce unread count when dismissing </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
-           y="501.0625"
-           x="368"
-           sodipodi:role="line"
-           id="tspan10377">individual notifications</tspan></text>
-      <path
-         style="display:inline;fill:none;fill-rule:evenodd;stroke:#59a8e2;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 326,291.5 14,20 24,0"
-         id="path10379"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccc" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#59a8e2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="368"
-         y="315"
-         id="text10381"
-         sodipodi:linespacing="125%"><tspan
-           id="tspan10387"
-           sodipodi:role="line"
-           x="368"
-           y="315"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1">Whole notification list is </tspan><tspan
-           sodipodi:role="line"
-           x="368"
-           y="329.0625"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
-           id="tspan10394">scrollable</tspan></text>
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
-         id="path10436"
-         d="m 326,379.5 38,0"
-         style="display:inline;fill:none;fill-rule:evenodd;stroke:#59a8e2;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text10438"
-         y="383"
-         x="368"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#59a8e2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
-           y="383"
-           x="368"
-           sodipodi:role="line"
-           id="tspan10446">Clicking notification opens respective</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
-           y="397.0625"
-           x="368"
-           sodipodi:role="line"
-           id="tspan10517">application</tspan></text>
-      <path
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         id="path10448"
-         d="m 326,331.52577 14,-20 24,0"
-         style="display:inline;fill:none;fill-rule:evenodd;stroke:#59a8e2;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
