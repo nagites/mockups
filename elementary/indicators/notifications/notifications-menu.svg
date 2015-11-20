@@ -12,7 +12,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.2"
-   width="400"
+   width="528"
    height="528"
    id="svg2"
    inkscape:version="0.91 r13725"
@@ -34,8 +34,8 @@
      id="namedview629"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="186.84656"
-     inkscape:cy="281.76561"
+     inkscape:cx="330.39446"
+     inkscape:cy="388.31645"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -6033,6 +6033,28 @@
        y1="26.000008"
        x2="20"
        y2="13.000008" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5248"
+       id="linearGradient12417"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-160.92236,48.88281)"
+       x1="536"
+       y1="150"
+       x2="536"
+       y2="126" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5248">
+      <stop
+         style="stop-color:#efefef;stop-opacity:1;"
+         offset="0"
+         id="stop5250" />
+      <stop
+         style="stop-color:#fafafa;stop-opacity:1"
+         offset="1"
+         id="stop5252" />
+    </linearGradient>
   </defs>
   <metadata
      id="metadata7">
@@ -7112,6 +7134,38 @@
       <g
          transform="translate(343.81968,41.068046)"
          id="layer1-7" />
+      <path
+         style="display:inline;opacity:0.2;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+         d="m 280.5,194.5 0,-19 c 0,-1.108 0.892,-2 2,-2 l 51,0 c 1.108,0 2,0.892 2,2 l 0,19 c 0,1.108 -0.892,2 -2,2 l -51,0 c -1.108,0 -2,-0.892 -2,-2 z"
+         id="path12403"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient12417);fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         d="m 282.51514,174.00781 c -0.82235,0 -1.5,0.67765 -1.5,1.5 l 0,19 c 0,0.82234 0.67765,1.5 1.5,1.5 l 51,0 c 0.82235,0 1.5,-0.67766 1.5,-1.5 l 0,-19 c 0,-0.82235 -0.67765,-1.5 -1.5,-1.5 z"
+         id="path12405"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <path
+         style="display:inline;opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+         d="m 281.5,175.5 0,19 c 0,0.55399 0.446,1 1,1 l 51,0 c 0.554,0 1,-0.44601 1,-1 l 0,-19 c 0,-0.554 -0.446,-1 -1,-1 l -51,0 c -0.554,0 -1,0.446 -1,1 z"
+         id="path12407"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <text
+         id="text12409"
+         y="189.84967"
+         x="308.14941"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#606060;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         xml:space="preserve"
+         inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#606060;fill-opacity:1"
+           y="189.84967"
+           x="308.14941"
+           id="tspan12411"
+           sodipodi:role="line">Clear</tspan></text>
     </g>
     <g
        inkscape:label="menu-content"
@@ -7319,7 +7373,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#666666;fill-opacity:1">bzr branch lp:egtk</tspan></text>
       <g
          id="g5680"
-         transform="translate(429.99204,165)"
+         transform="translate(549.99204,165)"
          style="fill:#666666;fill-opacity:1">
         <g
            transform="translate(-453.0004,12)"
@@ -7349,27 +7403,8 @@
         <g
            transform="translate(-453.0004,12)"
            style="display:inline;fill:#666666;fill-opacity:1"
-           id="layer12">
-          <path
-             style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#aaaaaa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-             id="path4463"
-             d="m 459.59393,-10.000139 a 0.51931882,0.52641945 0 0 0 -0.25,0.156249 l -5.1875,5.3125005 a 0.51931882,0.52641945 0 0 0 0.0312,0.75 l 5.03125,4.625 a 0.51931882,0.52641945 0 0 0 0.3438,0.15625 l 7.90625,0 a 0.51931882,0.52641945 0 0 0 0.53125,-0.53125 l 0,-9.9375005 a 0.51931882,0.52641945 0 0 0 -0.53125,-0.531249 l -7.75,0 a 0.51931882,0.52641945 0 0 0 -0.0625,0 0.51931882,0.52641945 0 0 0 -0.0625,0 z m 1.34375,2.2499995 1.8125,1.75 1.78125,-1.75 1.46875,1.46875 -1.75,1.78125 1.75,1.84375 -1.46875,1.40625 -1.78125,-1.75 -1.8125,1.75 -1.4375,-1.4375 1.75,-1.8125 -1.75,-1.78125 1.4375,-1.46875 z"
-             inkscape:connector-curvature="0" />
-        </g>
+           id="layer12" />
       </g>
-      <text
-         mask="none"
-         xml:space="preserve"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:150%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#a4a4a4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-         x="333.00391"
-         y="179.18164"
-         id="text5696"
-         sodipodi:linespacing="150%"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:end;text-anchor:end;fill:#a4a4a4;fill-opacity:1"
-           sodipodi:role="line"
-           id="tspan5698"
-           x="333.00391"
-           y="179.18164">5:13 PM</tspan></text>
       <path
          sodipodi:nodetypes="cc"
          d="m 56.5,279.5 287,0"
@@ -7410,7 +7445,7 @@
            y="263.18164">6 new messages</tspan></text>
       <g
          style="fill:#666666;fill-opacity:1"
-         transform="translate(429.99204,229)"
+         transform="translate(549.99204,229)"
          id="g5757">
         <g
            id="g5759"
@@ -7579,7 +7614,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';fill:#666666;fill-opacity:1">sudo apt-get update</tspan></text>
       <g
          id="g5829"
-         transform="translate(429.99204,293)"
+         transform="translate(549.99204,293)"
          style="fill:#666666;fill-opacity:1">
         <g
            transform="translate(-453.0004,12)"
@@ -7920,7 +7955,7 @@
            y="455.18164">16 updates available</tspan></text>
       <g
          style="fill:#666666;fill-opacity:1"
-         transform="translate(429.99204,357)"
+         transform="translate(549.99204,357)"
          id="g6402">
         <g
            id="g6404"
@@ -8299,7 +8334,7 @@
       </g>
       <g
          id="g7796"
-         transform="translate(429.99204,425)"
+         transform="translate(549.99204,425)"
          style="fill:#666666;fill-opacity:1">
         <g
            transform="translate(-453.0004,12)"
@@ -8975,5 +9010,74 @@
            style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.31169891px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient9551);fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;enable-background:accumulate" />
       </g>
     </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#59a8e2;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 350,171.5 38,0"
+       id="path10361"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#59a8e2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="392"
+       y="175"
+       id="text10363"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10365"
+         x="392"
+         y="175"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1">Show clear on hover</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path10369"
+       d="m 350,483.5 38,0"
+       style="fill:none;fill-rule:evenodd;stroke:#59a8e2;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text10371"
+       y="487"
+       x="392"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#59a8e2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
+         y="487"
+         x="392"
+         id="tspan10373"
+         sodipodi:role="line">Reduce unread count</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
+         y="501.0625"
+         x="392"
+         sodipodi:role="line"
+         id="tspan10375">when clearing </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
+         y="515.125"
+         x="392"
+         sodipodi:role="line"
+         id="tspan10377">notifications</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#59a8e2;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 350,323.5 38,0"
+       id="path10379"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#59a8e2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="392"
+       y="327"
+       id="text10381"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan10387"
+         sodipodi:role="line"
+         x="392"
+         y="327"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1">Notification list is </tspan><tspan
+         sodipodi:role="line"
+         x="392"
+         y="341.0625"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#59a8e2;fill-opacity:1"
+         id="tspan10394">scrollable</tspan></text>
   </g>
 </svg>
