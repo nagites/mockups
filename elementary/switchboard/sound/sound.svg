@@ -17,7 +17,7 @@
    id="svg2"
    inkscape:version="0.91+devel+osxmenu r12898"
    sodipodi:docname="sound.svg"
-   inkscape:export-filename="/Users/Sam/SparkleShare/mockups/elementary/switchboard/sound/sound-plug_input.png"
+   inkscape:export-filename="/Users/Sam/SparkleShare/mockups/elementary/switchboard/sound/sound-plug_output.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <sodipodi:namedview
@@ -1926,7 +1926,7 @@
        xlink:href="#linearGradient5248-3"
        id="linearGradient7522"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(179.07764,313.88281)"
+       gradientTransform="translate(187.07764,321.88281)"
        x1="536"
        y1="150"
        x2="536"
@@ -1948,7 +1948,7 @@
        xlink:href="#linearGradient3789"
        id="linearGradient7520"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,11.956521,0,-1535.8043,627.50001)"
+       gradientTransform="matrix(0,-1,11.956521,0,-1527.8043,635.50001)"
        x1="165.5"
        y1="188.5"
        x2="189.5"
@@ -1958,7 +1958,7 @@
        xlink:href="#linearGradient113263"
        id="linearGradient7518"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,2.2892567,0,415.81821,962.36222)"
+       gradientTransform="matrix(0,-1,2.2892567,0,423.81821,970.36222)"
        x1="499.36218"
        y1="132"
        x2="525.36218"
@@ -9577,7 +9577,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="applications"
-     style="display:inline">
+     style="display:none">
     <path
        inkscape:connector-curvature="0"
        d="m 212.49584,97.5002 c 7.76907,0.01 97.23158,-0.021 105.00001,0.015 l 0,24.9846 c -7.58382,-0.01 -97.7244,0.021 -105.30756,-0.015 -1.74315,-0.1206 -2.91346,-1.879 -2.69242,-3.5404 0.0102,-6.2505 -0.0205,-12.502 0.0154,-18.7518 0.12153,-1.4942 1.48541,-2.7242 2.98457,-2.6924 z"
@@ -10263,7 +10263,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="output"
-     style="display:none">
+     style="display:inline">
     <rect
        y="98.500793"
        x="318.4696"
@@ -10746,25 +10746,25 @@
        sodipodi:nodetypes="sssssssss"
        inkscape:connector-curvature="0"
        id="path7506"
-       d="m 599.5,459.5 0,-19 c 0,-1.662 1.338,-3 3,-3 l 91,0 c 1.662,0 3,1.338 3,3 l 0,19 c 0,1.66199 -1.338,3 -3,3 l -91,0 c -1.662,0 -3,-1.33801 -3,-3 z"
+       d="m 607.5,467.5 0,-19 c 0,-1.662 1.338,-3 3,-3 l 91,0 c 1.662,0 3,1.338 3,3 l 0,19 c 0,1.66199 -1.338,3 -3,3 l -91,0 c -1.662,0 -3,-1.33801 -3,-3 z"
        style="display:inline;opacity:0.1;fill:none;stroke:url(#linearGradient7518);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="sssssssss"
        inkscape:connector-curvature="0"
        id="path7508"
-       d="m 600.5,459.5 0,-19 c 0,-1.108 0.892,-2 2,-2 l 91,0 c 1.108,0 2,0.892 2,2 l 0,19 c 0,1.108 -0.892,2 -2,2 l -91,0 c -1.108,0 -2,-0.892 -2,-2 z"
+       d="m 608.5,467.5 0,-19 c 0,-1.108 0.892,-2 2,-2 l 91,0 c 1.108,0 2,0.892 2,2 l 0,19 c 0,1.108 -0.892,2 -2,2 l -91,0 c -1.108,0 -2,-0.892 -2,-2 z"
        style="display:inline;fill:none;stroke:url(#linearGradient7520);stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="sssssssss"
        inkscape:connector-curvature="0"
        id="path7510"
-       d="m 602.51514,439.00781 c -0.82235,0 -1.5,0.67765 -1.5,1.5 l 0,19 c 0,0.82234 0.67765,1.5 1.5,1.5 l 91,0 c 0.82235,0 1.5,-0.67766 1.5,-1.5 l 0,-19 c 0,-0.82235 -0.67765,-1.5 -1.5,-1.5 z"
+       d="m 610.51514,447.00781 c -0.82235,0 -1.5,0.67765 -1.5,1.5 l 0,19 c 0,0.82234 0.67765,1.5 1.5,1.5 l 91,0 c 0.82235,0 1.5,-0.67766 1.5,-1.5 l 0,-19 c 0,-0.82235 -0.67765,-1.5 -1.5,-1.5 z"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient7522);fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
     <path
        sodipodi:nodetypes="sssssssss"
        inkscape:connector-curvature="0"
        id="path7512"
-       d="m 601.5,440.5 0,19 c 0,0.55399 0.446,1 1,1 l 91,0 c 0.554,0 1,-0.44601 1,-1 l 0,-19 c 0,-0.554 -0.446,-1 -1,-1 l -91,0 c -0.554,0 -1,0.446 -1,1 z"
+       d="m 609.5,448.5 0,19 c 0,0.55399 0.446,1 1,1 l 91,0 c 0.554,0 1,-0.44601 1,-1 l 0,-19 c 0,-0.554 -0.446,-1 -1,-1 l -91,0 c -0.554,0 -1,0.446 -1,1 z"
        style="display:inline;opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1" />
     <text
        inkscape:export-ydpi="90"
@@ -10772,13 +10772,13 @@
        inkscape:export-filename="/home/chi1/Projects/mockups/appcenterfront1.png"
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#333333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       x="648.14941"
-       y="454.84967"
+       x="656.14941"
+       y="462.84967"
        id="text7514"><tspan
          sodipodi:role="line"
          id="tspan7516"
-         x="648.14941"
-         y="454.84967"
+         x="656.14941"
+         y="462.84967"
          style="font-style:normal;-inkscape-font-specification:'Bitstream Charter';text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1">Test Speakers</tspan></text>
     <path
        d="m 651.91207,243.38819 c 5.79354,0 10.5,4.70646 10.5,10.5 0,5.79354 -4.70646,10.5 -10.5,10.5 -5.79354,0 -10.50001,-4.70646 -10.5,-10.5 0,-5.79354 4.70646,-10.5 10.5,-10.5 z"
