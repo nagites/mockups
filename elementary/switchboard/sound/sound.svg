@@ -39,7 +39,7 @@
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer10"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -10249,7 +10249,7 @@
          y="148.84967"
          x="44.397461"
          id="tspan54783"
-         sodipodi:role="line">Applications playing sounds</tspan></text>
+         sodipodi:role="line">Applications playing sound</tspan></text>
     <g
        id="layer1-7"
        transform="translate(45.999995,274.04638)">
@@ -11167,13 +11167,13 @@
          id="tspan72488"
          x="44.397461"
          y="350.84967"
-         style="font-style:normal;font-weight:bold;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#555555;fill-opacity:1">Applications recording sounds</tspan></text>
+         style="font-style:normal;font-weight:bold;-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#555555;fill-opacity:1">Applications recording sound</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="output"
-     style="display:inline">
+     style="display:none">
     <rect
        y="98.500793"
        x="318.4696"
@@ -11775,7 +11775,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="input"
-     style="display:inline">
+     style="display:none">
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
