@@ -34,12 +34,12 @@
      id="namedview2600"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="180.96378"
-     inkscape:cy="262.8125"
+     inkscape:cx="548.12219"
+     inkscape:cy="244.27301"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer5"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
@@ -8197,7 +8197,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="applications"
-     style="display:inline">
+     style="display:none">
     <path
        inkscape:connector-curvature="0"
        d="m 159.49584,97.5002 c 7.76907,0.01 97.23158,-0.021 105.00001,0.015 l 0,24.9846 c -7.58382,-0.01 -97.7244,0.021 -105.30756,-0.015 -1.74315,-0.1206 -2.91346,-1.879 -2.69242,-3.5404 0.0102,-6.2505 -0.0205,-12.502 0.0154,-18.7518 0.12153,-1.4942 1.48541,-2.7242 2.98457,-2.6924 z"
@@ -9895,7 +9895,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="input"
-     style="display:none">
+     style="display:inline">
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
@@ -10268,6 +10268,22 @@
          y="113.95535"
          id="tspan54403"
          style="text-align:center;text-anchor:middle;fill:#555555;fill-opacity:1">Applications</tspan></text>
+    <path
+       style="opacity:0.2;fill:#729fcf;fill-opacity:1;stroke:none;stroke-width:1.00157475;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 160,277 442,0 0,20 -442,0 z"
+       id="rect69585"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       x="387.1377"
+       y="290.5"
+       id="text69617"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:center;text-anchor:middle;display:inline;fill:#729fcf;fill-opacity:1;stroke:none"><tspan
+         x="381.27246"
+         y="290.5"
+         id="tspan69619"
+         style="text-align:center;text-anchor:middle;fill:#729fcf;fill-opacity:1">[some levels widget]</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
