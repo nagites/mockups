@@ -35,7 +35,7 @@
      showgrid="false"
      inkscape:zoom="1"
      inkscape:cx="419.84003"
-     inkscape:cy="522.58706"
+     inkscape:cy="242.58706"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
@@ -98,6 +98,10 @@
        position="40,-544"
        orientation="0,1"
        id="guide16032" />
+    <sodipodi:guide
+       position="24,544"
+       orientation="0,1"
+       id="guide6812" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -6658,7 +6662,7 @@
          id="tspan12949"
          x="167"
          y="-9"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light'">Geary</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light'">Mail</tspan></text>
     <g
        style="display:inline"
        id="layer1-5"
@@ -8284,7 +8288,7 @@
     <flowRoot
        inkscape:export-ydpi="96"
        inkscape:export-xdpi="96"
-       transform="translate(109,-192)"
+       transform="translate(71,-200)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6782"
        xml:space="preserve"><flowRegion
