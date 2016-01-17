@@ -39,7 +39,7 @@
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g22073"
+     inkscape:current-layer="g22099"
      borderlayer="true"
      inkscape:showpageshadow="false"
      showguides="true"
@@ -4292,7 +4292,7 @@
          inkscape:groupmode="layer"
          id="layer6"
          inkscape:label="buttons"
-         style="display:inline">
+         style="display:none">
         <ellipse
            ry="15.512728"
            rx="15.5"
@@ -4596,65 +4596,43 @@
            id="tspan30225"
            x="90.03125"
            y="478.11719">Not Logged in</tspan></text>
-      <text
-         id="text31080"
-         y="324.11719"
-         x="256.41019"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:end;text-anchor:end;display:inline;opacity:0.5;fill:#444444;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="324.11719"
-           x="256.41019"
-           id="tspan31082"
-           sodipodi:role="line">Super+L</tspan></text>
       <g
          inkscape:groupmode="layer"
          id="layer5"
          inkscape:label="words"
-         style="display:none">
+         style="display:inline">
         <text
            id="text22967"
-           y="315.83008"
-           x="255.39064"
+           y="527.83008"
+           x="41.39064"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;text-anchor:start;display:inline;fill:#444444;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
-             y="315.83008"
-             x="255.39064"
+             y="527.83008"
+             x="41.39064"
              id="tspan22969"
-             sodipodi:role="line">System Settings...</tspan></text>
+             sodipodi:role="line">Suspend</tspan></text>
         <path
            inkscape:connector-curvature="0"
            style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#cccccc;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
            id="path10285-7-4-6-7-0-9"
-           d="m 240.5,296.5 247,0"
+           d="m 26.5,504.5 247,0"
            sodipodi:nodetypes="cc" />
         <path
            inkscape:connector-curvature="0"
            style="display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
            id="path10285-7-4-6-7-0-1-1"
-           d="m 240.5,297.5 247,0"
+           d="m 26.5,505.5 247,0"
            sodipodi:nodetypes="cc" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;text-anchor:start;display:inline;fill:#444444;fill-opacity:1;stroke:none"
-           x="255.39064"
-           y="351.83008"
+           x="41.39064"
+           y="555.83008"
            id="text22917"><tspan
              sodipodi:role="line"
              id="tspan22919"
-             x="255.39064"
-             y="351.83008">Shut Down...</tspan></text>
-        <path
-           sodipodi:nodetypes="cc"
-           d="m 240.5,328.5 247,0"
-           id="path22977"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#cccccc;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
-        <path
-           sodipodi:nodetypes="cc"
-           d="m 240.5,329.5 247,0"
-           id="path22979"
-           style="display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:0.99999994px;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
-           inkscape:connector-curvature="0" />
+             x="41.39064"
+             y="555.83008">Shut Down...</tspan></text>
       </g>
     </g>
   </g>
